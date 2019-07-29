@@ -10,9 +10,9 @@
 </template>
 
 <script>
-  export default {
-    name: 'BaseCard',
+export default {
+  name: 'BaseCard',
 
-    inheritAttrs: false
-  }
+  inheritAttrs: false
+}
 </script>
