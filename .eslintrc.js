@@ -10,6 +10,7 @@ module.exports = {
   extends: ['@nuxtjs', 'plugin:nuxt/recommended'],
   // add your custom rules here
   rules: {
-    quotes: [2, 'single']
+    quotes: [2, 'single'],
+    semi: ['always']
   }
 };
