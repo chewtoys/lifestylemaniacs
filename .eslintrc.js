@@ -11,6 +11,8 @@ module.exports = {
   // add your custom rules here
   rules: {
     quotes: [2, 'single'],
-    semi: ['always']
+    semi: [0],
+    'require-await': [0],
+    'no-console': [0]
   }
 };

@@ -1,4 +1,4 @@
 export default () => ({
-    isSidenavOpen: false,
-    pageTitle: 'Lifestyle Maniacs'
-  });
+  isSidenavOpen: false,
+  pageTitle: 'Lifestyle Maniacs'
+});

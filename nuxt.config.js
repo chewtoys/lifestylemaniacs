@@ -1,4 +1,6 @@
-import colors from 'vuetify/es5/util/colors'
+import path from 'path';
+import colors from 'vuetify/es5/util/colors';
+import articles from './contents/articles.js';
 
 export default {
   mode: 'universal',
@@ -29,23 +31,28 @@ export default {
   /*
    ** Customize the progress-bar color
    */
-  loading: { color: '#fff' },
+  loading: { color: '#2196f3' },
   /*
    ** Global CSS
    */
-  css: [],
+  css: ['normalize.css/normalize.css'],
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [],
+  plugins: [
+    '~/plugins/lazyload',
+    '~/plugins/globalComponents'
+  ],
   /*
    ** Nuxt.js modules
    */
   modules: [
     '@nuxtjs/vuetify',
-    // Doc: https://axios.nuxtjs.org/usage
-    '@nuxtjs/axios',
-    '@nuxtjs/eslint-module'
+    '@nuxtjs/eslint-module',
+    '@nuxtjs/style-resources',
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-104134573'
+    }]
   ],
   /*
    ** Axios module configuration
@@ -76,8 +83,52 @@ export default {
      */
     extend(config, ctx) {
       if (ctx.isDev) {
-        config.devtool = ctx.isClient ? 'source-map' : 'inline-source-map'
+        config.devtool = ctx.isClient ? 'source-map' : 'inline-source-map';
       }
+
+      const rule = config.module.rules.find(
+        r => r.test.toString() === '/\\.(png|jpe?g|gif|svg|webp)$/i'
+      );
+      config.module.rules.splice(config.module.rules.indexOf(rule), 1);
+
+      config.module.rules.push(
+        {
+          test: /\.md$/,
+          loader: 'frontmatter-markdown-loader',
+          include: path.resolve(__dirname, 'contents'),
+          options: {
+            vue: {
+              root: 'dynamicMarkdown'
+            }
+          }
+        },
+        {
+          test: /\.(jpe?g|png)$/i,
+          loader: 'responsive-loader',
+          options: {
+            placeholder: true,
+            quality: 60,
+            size: 1400,
+            adapter: require('responsive-loader/sharp')
+          }
+        },
+        {
+          test: /\.(gif|svg)$/,
+          loader: 'url-loader',
+          query: {
+            limit: 1000,
+            name: 'img/[name].[hash:7].[ext]'
+          }
+        }
+      );
     }
+  },
+
+  styleResources: {
+    scss: []
+  },
+
+  generate: {
+    routes: ['404', ...articles.map(a => `/${a}`)]
   }
-}
+};
