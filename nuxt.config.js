@@ -40,8 +40,7 @@ export default {
    ** Plugins to load before mounting the App
    */
   plugins: [
-    '~/plugins/lazyload',
-    '~/plugins/globalComponents'
+    '~/plugins/lazyload'
   ],
   /*
    ** Nuxt.js modules

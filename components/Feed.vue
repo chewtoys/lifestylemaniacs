@@ -1,18 +1,42 @@
 <template>
-  <v-container grid-list-xl>
+  <v-container fluid grid-list-xl pa-2>
     <v-layout wrap>
-      <v-flex xs12>
-        <slot />
-      </v-flex>
-
-      <feed-card
+      <v-flex
         v-for="(article, i) in paginatedArticles"
-        :key="article.title"
-        :size="layout[i]"
-        :value="article"
-      />
-    </v-layout>
+        :key="i"
+        v-bind="{ [`xs${article.flex}`]: true }"
+      >
+        <v-card>
+          <v-img
+            :src="require(`@/static/articles/beachjar.jpg`)"
+            class="white--text"
+            height="200px"
+            gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
+          >
+            <v-card-title class="fill-height align-end" v-text="article.title" />
+          </v-img>
 
+          <v-card-text>
+            <span>Number 10</span>
+            <br>
+            <span class="text--primary">
+              <span>Whitehaven Beach</span>
+              <br>
+              <span>Whitsunday Island, Whitsunday Islands</span>
+            </span>
+          </v-card-text>
+
+          <v-card-actions>
+            <v-btn text color="primary">
+              Share
+            </v-btn>
+            <v-btn text color="primary">
+              Explore
+            </v-btn>
+          </v-card-actions>
+        </v-card>
+      </v-flex>
+    </v-layout>
     <v-layout align-center>
       <v-flex xs3>
         <base-btn v-if="page !== 1" class="ml-0" title="Previous page" square @click="page--">
@@ -42,11 +66,6 @@
 <script>
 export default {
   name: 'Feed',
-
-  components: {
-    FeedCard: () => import('@/components/FeedCard')
-  },
-
   props: {
     articles: {
       type: Array,
@@ -64,10 +83,11 @@ export default {
       return Math.ceil(this.articles.length / 11);
     },
     paginatedArticles() {
-      const start = (this.page - 1) * 11;
-      const stop = this.page * 11;
+      // const start = (this.page - 1) * 11;
+      // const stop = this.page * 11;
 
-      return this.articles.slice(start, stop);
+      // return this.articles.slice(start, stop);
+      return [...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles];
     }
   },
 
