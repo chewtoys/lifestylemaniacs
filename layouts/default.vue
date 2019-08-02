@@ -90,7 +90,7 @@
   </v-app>
 </template>
 
-<script>
+<script lang="js">
 export default {
   data() {
     return {

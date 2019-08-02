@@ -2,12 +2,12 @@
   <feed :articles="articles" />
 </template>
 
-<script>
+<script lang="js">
 import articleNames from '~/contents/articles.js';
 
 export default {
   components: {
-    Feed: () => import('@/components/Feed')
+    Feed: () => import('@/components/feed/Feed')
   },
 
   async asyncData({ params }) {
@@ -19,9 +19,23 @@ export default {
       })
     );
 
-    console.log(articles);
-
     return { articles };
+  },
+
+  transition: {
+    name: 'slide-fade'
   }
 };
 </script>
+
+<style lang="scss">
+.slide-fade-enter-active,
+.slide-fade-leave-active {
+  transition: all .4s ease;
+}
+.slide-fade-enter,
+.slide-fade-leave-to {
+  transform: translateX(50px);
+  opacity: 0;
+}
+</style>

@@ -44,8 +44,7 @@
   </v-toolbar>
 </template>
 
-<script>
-// Utilities
+<script lang="js">
 import {
   mapGetters,
   mapMutations
