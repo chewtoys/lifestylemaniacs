@@ -1,6 +1,5 @@
 <template>
-  <v-toolbar
-    app
+  <v-app-bar
     flat
   >
     <v-toolbar-side-icon
@@ -41,7 +40,7 @@
         />
       </v-layout>
     </v-container>
-  </v-toolbar>
+  </v-app-bar>
 </template>
 
 <script lang="js">

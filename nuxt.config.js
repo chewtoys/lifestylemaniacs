@@ -41,7 +41,7 @@ export default {
    */
   plugins: [
     '~/plugins/lazyload',
-    '~/plugins/globalComponents'
+    '~/plugins/vue-markdown'
   ],
   /*
    ** Nuxt.js modules

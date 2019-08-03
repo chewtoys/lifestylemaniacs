@@ -1,22 +1,31 @@
 <template>
-  <v-container fluid grid-list-xl pa-2>
-    <v-layout wrap>
+  <v-container
+    fluid
+    grid-list-md
+    pa-2
+  >
+    <v-layout
+      wrap
+    >
       <v-flex
         v-for="(article, i) in paginatedArticles"
         :key="i"
-        v-bind="{ [`xs${article.flex}`]: true }"
+        auto
+        md4
+        sm6
+        xs12
       >
         <feed-card :article="article" @read="onReadArticle(article)" />
       </v-flex>
     </v-layout>
-    <v-layout align-center>
+    <v-layout wrap align-center>
       <v-flex xs3>
         <feed-page-btn v-if="page !== 1" class="ml-0" title="Previous page" square @click="page--">
           <v-icon>chevron_left</v-icon>
         </feed-page-btn>
       </v-flex>
 
-      <v-flex xs6 text-xs-center subheading>
+      <v-flex xs6 text-center subheading>
         PAGE {{ page }} OF {{ pages }}
       </v-flex>
 
@@ -56,14 +65,13 @@ export default {
 
   computed: {
     pages() {
-      return Math.ceil([...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles].length / 11);
+      return Math.ceil(this.articles.length / 11);
     },
     paginatedArticles() {
       const start = (this.page - 1) * 11;
       const stop = this.page * 11;
 
-      // return this.articles.slice(start, stop);
-      return [...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles, ...this.articles].slice(start, stop);
+      return this.articles.slice(start, stop);
     }
   },
 
@@ -75,7 +83,7 @@ export default {
 
   methods: {
     onReadArticle(article) {
-      this.$router.push(article.name);
+      this.$router.push(article.id);
     }
   }
 };

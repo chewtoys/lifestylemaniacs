@@ -1,3 +1,4 @@
 export default [
-  'bacon-ipsum'
+  'bacon-ipsum',
+  'ancel-keys-the-silent-killer'
 ]
