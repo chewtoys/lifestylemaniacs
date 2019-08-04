@@ -26,7 +26,69 @@
       app
     >
       <v-app-bar-nav-icon class="hidden-md-and-up" @click="drawer = !drawer" />
-      <v-toolbar-title>{{ title }}</v-toolbar-title>
+      <n-link :to="'/'" exact>
+        <v-img
+          :src="require('@/assets/logo.png')"
+          class="mr-5"
+          contain
+          height="48"
+          width="48"
+          max-width="48"
+        />
+      </n-link>
+      <!-- <v-toolbar-title>
+        <v-btn text to="/">
+          LM
+        </v-btn>
+      </v-toolbar-title> -->
+      <v-btn
+        :to="'/'"
+        exact
+        class="ml-0 hidden-sm-and-down"
+        text
+      >
+        Health
+      </v-btn>
+      <v-btn
+        exact
+        :to="'/'"
+        class="ml-0 hidden-sm-and-down"
+        text
+      >
+        Fitness
+      </v-btn>
+      <v-btn
+        exact
+        :to="'/'"
+        class="ml-0 hidden-sm-and-down"
+        text
+      >
+        Fashion
+      </v-btn>
+      <v-btn
+        exact
+        :to="'/'"
+        class="ml-0 hidden-sm-and-down"
+        text
+      >
+        Recipes
+      </v-btn>
+      <v-btn
+        exact
+        :to="'/'"
+        class="ml-0 hidden-sm-and-down"
+        text
+      >
+        Inspiration
+      </v-btn>
+      <v-spacer />
+      <v-text-field
+        append-icon="mdi-magnify"
+        flat
+        hide-details
+        solo-inverted
+        style="max-width: 300px;"
+      />
     </v-app-bar>
     <v-content>
       <nuxt />
