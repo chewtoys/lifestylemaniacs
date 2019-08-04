@@ -146,12 +146,20 @@ h2, h3, h4, h5, h6 {
 }
 
 .markdown {
-  font-size: 21px;
+  font-size: 19px;
+  line-height: 1.7;
 }
 
 .subtitle-1, .subtitle-2 {
     margin: 0 !important;
-  }
+}
+
+blockquote {
+  padding: 16px 0 16px 24px;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 300;
+}
 
 @media screen and (max-width: 1299px) {
   .article__content {
@@ -181,11 +189,11 @@ h2, h3, h4, h5, h6 {
   }
 
   h1, .cover {
-    margin: 1rem 0;
+    margin: .5rem 0;
   }
 
   .markdown {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 </style>

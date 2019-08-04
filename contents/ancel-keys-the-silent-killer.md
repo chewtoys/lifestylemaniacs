@@ -13,7 +13,9 @@ It all began in 1958 when [Ancel Keys](https://en.wikipedia.org/wiki/Ancel_Keys)
 
 Keys made a data analysis on 22 countries and found no correlation between dietary fat and cardiovascular disease. He was also ridiculed because of his weak assumptions and reports. So what he did was fake the data. He kept only 7 countries in which there was a correlation between fat intake and heart disease. Furthermore, the correlation was not between animal fat, but between margarine. Yes! These 7 countries had the highest consumption of margarine. That is why the fat - heart correlation existed. Keys knew it, but he kept it hidden. Even in his laboratory experiments on rats, Key used margarine, not animal fat! Why would he do such a thing? Arrogance and money!
 
-Ancel Keys was supported by the margarine and vegetable oil industries. They knew if Keys' theory succeeded, their production would increase exponentially. People would no longer buy animal products, but substitutes, like vegetable oils, margarine, low-fat/fat-free products, soy, etc. And that is exactly what happened! Margarine, vegetable oils, and packaged ready-to-eat foods are more convenient and cheaper than (non-processed) animal products. As Catherine Shanna states in her book, "Deep nutrition" (see the end of the article): **Vegetable oils are the chemicals that preserve a Twinkie for years... vegetable oil is what puts the word "junk" in junk food.**
+> Vegetable oils are the chemicals that preserve a Twinkie for years... vegetable oil is what puts the word "junk" in junk food. - Catherine Shannahan
+
+Ancel Keys was supported by the margarine and vegetable oil industries. They knew if Keys' theory succeeded, their production would increase exponentially. People would no longer buy animal products, but substitutes, like vegetable oils, margarine, low-fat/fat-free products, soy, etc. And that is exactly what happened! Margarine, vegetable oils, and packaged ready-to-eat foods are more convenient and cheaper than (non-processed) animal products.
 
 ## Margarine and processed vegetable oils: Death sentence
 
