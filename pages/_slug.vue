@@ -1,24 +1,35 @@
 <template>
-  <div>
+  <div class="article__content">
     <div>
-      <p class="caption">
-        {{ date }}
-      </p>
-      <h2 class="display-3">
+      <h1 class="display-3 hidden-xs-only">
         {{ title }}
-      </h2>
-      <v-img
-        v-if="!noMainImage"
-        :src="require(`@/assets/images/${id}/_main.jpg`)"
-        class="my-4"
-        width="100%"
-        height="500px"
-        :alt="'Blog picture'"
-        aspect-ratio="1"
-        gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
-      />
+      </h1>
+      <h1 class="display-2 hidden-sm-and-up">
+        {{ title }}
+      </h1>
+      <p class="subtitle-1">
+        Written by {{ author }}
+      </p>
+      <p class="subtitle-2">
+        Created on {{ date }}
+      </p>
+      <p class="caption">
+        4 min read
+      </p>
+      <div class="cover">
+        <v-img
+          v-if="!noMainImage"
+          :src="require(`@/assets/images/${id}/_main.jpg`)"
+          class="my-5"
+          width="100%"
+          height="500px"
+          :alt="'Blog picture'"
+          aspect-ratio="1"
+          gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
+        />
+      </div>
     </div>
-    <div>
+    <div class="markdown">
       <vue-markdown>{{ markdown }}</vue-markdown>
     </div>
   </div>
@@ -44,6 +55,7 @@ export default {
     const attr = fileContent.attributes;
 
     return {
+      author: attr.author,
       name: params.slug,
       title: attr.title,
       date: attr.date,
@@ -115,5 +127,65 @@ export default {
 .slide-fade-leave-to {
   transform: translateX(50px);
   opacity: 0;
+}
+
+.article__content {
+  padding: 0 22rem;
+}
+
+h1 {
+  margin: 2rem 0 1rem 0;
+}
+
+h2, h3, h4, h5, h6 {
+  margin: 2rem 0;
+}
+
+.cover {
+  margin: 2rem 0;
+}
+
+.markdown {
+  font-size: 21px;
+}
+
+.subtitle-1, .subtitle-2 {
+    margin: 0 !important;
+  }
+
+@media screen and (max-width: 1299px) {
+  .article__content {
+    padding: 0 11rem;
+  }
+}
+
+@media screen and (max-width: 1099px) {
+  .article__content {
+    padding: 0 5rem;
+  }
+}
+
+@media screen and (max-width: 899px) {
+  .article__content {
+    padding: 0 1rem;
+  }
+
+  h1.display-3 {
+    font-size: 3rem !important;
+  }
+}
+
+@media screen and (max-width: 599px) {
+  .article__content {
+    padding: 0;
+  }
+
+  h1, .cover {
+    margin: 1rem 0;
+  }
+
+  .markdown {
+    font-size: 18px;
+  }
 }
 </style>

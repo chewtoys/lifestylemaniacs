@@ -29,7 +29,7 @@
       <v-toolbar-title>{{ title }}</v-toolbar-title>
     </v-app-bar>
     <v-content>
-      <v-container>
+      <v-container fluid>
         <nuxt />
       </v-container>
     </v-content>
