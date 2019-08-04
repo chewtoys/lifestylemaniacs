@@ -29,9 +29,7 @@
       <v-toolbar-title>{{ title }}</v-toolbar-title>
     </v-app-bar>
     <v-content>
-      <v-container fluid>
-        <nuxt />
-      </v-container>
+      <nuxt />
     </v-content>
     <v-footer absolute app>
       <span>&copy; 2019</span>
@@ -45,17 +43,12 @@ export default {
     return {
       drawer: false,
       items: [{
-        icon: 'apps',
-        title: 'Welcome',
+        icon: 'home',
+        title: 'Home',
         to: '/'
-      },
-      {
-        icon: 'bubble_chart',
-        title: 'Inspire',
-        to: '/inspire'
       }
       ],
-      title: 'Vuetify.js'
+      title: 'Lifestyle Maniacs'
     }
   }
 }

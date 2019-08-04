@@ -1,47 +1,35 @@
 <template>
-  <div class="feed">
-    <v-container
-      grid-list-md
-    >
-      <v-layout
-        wrap
+  <v-container fluid grid-list-md>
+    <v-layout wrap>
+      <v-flex
+        v-for="(article, i) in paginatedArticles"
+        :key="i"
+        auto
+        md4
+        sm6
+        xs12
       >
-        <v-flex
-          v-for="(article, i) in paginatedArticles"
-          :key="i"
-          auto
-          md4
-          sm6
-          xs12
-        >
-          <feed-card :article="article" @read="onReadArticle(article)" />
-        </v-flex>
-      </v-layout>
-      <v-layout wrap align-center>
-        <v-flex xs3>
-          <feed-page-btn v-if="page !== 1" class="ml-0" title="Previous page" square @click="page--">
-            <v-icon>chevron_left</v-icon>
-          </feed-page-btn>
-        </v-flex>
+        <feed-card :article="article" @read="onReadArticle(article)" />
+      </v-flex>
+    </v-layout>
+    <v-layout wrap align-center>
+      <v-flex xs3>
+        <feed-page-btn v-if="page !== 1" class="ml-0" title="Previous page" square @click="page--">
+          <v-icon>chevron_left</v-icon>
+        </feed-page-btn>
+      </v-flex>
 
-        <v-flex xs6 text-center subheading>
-          PAGE {{ page }} OF {{ pages }}
-        </v-flex>
+      <v-flex xs6 text-center subheading>
+        PAGE {{ page }} OF {{ pages }}
+      </v-flex>
 
-        <v-flex xs3 text-xs-right>
-          <feed-page-btn
-            v-if="pages > 1 && page < pages"
-            class="mr-0"
-            title="Next page"
-            square
-            @click="page++"
-          >
-            <v-icon>chevron_right</v-icon>
-          </feed-page-btn>
-        </v-flex>
-      </v-layout>
-    </v-container>
-  </div>
+      <v-flex xs3 text-xs-right>
+        <feed-page-btn v-if="pages > 1 && page < pages" class="mr-0" title="Next page" square @click="page++">
+          <v-icon>chevron_right</v-icon>
+        </feed-page-btn>
+      </v-flex>
+    </v-layout>
+  </v-container>
 </template>
 
 <script lang="js">
@@ -88,26 +76,27 @@ export default {
   }
 };
 </script>
+
 <style lang="scss">
-.feed {
-  padding: 1rem 10rem;
+.container {
+  padding: 2rem 10rem;
 }
 
 @media screen and (max-width: 1299px) {
-  .feed {
-    padding: 1rem 6rem;
+  .container {
+    padding: 2rem 6rem;
   }
 }
 
 @media screen and (max-width: 899px) {
-  .feed {
-    padding: 0 2rem;
+  .container {
+    padding: 1rem 2rem;
   }
 }
 
 @media screen and (max-width: 599px) {
-  .feed {
-    padding: 0;
+  .container {
+    padding: .5rem;
   }
 }
 </style>

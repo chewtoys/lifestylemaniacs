@@ -1,38 +1,40 @@
 <template>
-  <div class="article__content">
-    <div>
-      <h1 class="display-3 hidden-xs-only">
-        {{ title }}
-      </h1>
-      <h1 class="display-1 hidden-sm-and-up">
-        {{ title }}
-      </h1>
-      <p class="subtitle-1">
-        Written by {{ author }}
-      </p>
-      <p class="subtitle-2">
-        Created on {{ date }}
-      </p>
-      <p class="caption">
-        4 min read
-      </p>
-      <div class="cover">
-        <v-img
-          v-if="!noMainImage"
-          :src="require(`@/assets/images/${id}/_main.jpg`)"
-          class="my-5"
-          width="100%"
-          height="500px"
-          :alt="'Blog picture'"
-          aspect-ratio="1"
-          gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
-        />
+  <v-container fluid>
+    <div class="article__content">
+      <div>
+        <h1 class="display-3 hidden-xs-only">
+          {{ title }}
+        </h1>
+        <h1 class="display-1 hidden-sm-and-up">
+          {{ title }}
+        </h1>
+        <p class="subtitle-1">
+          Written by {{ author }}
+        </p>
+        <p class="subtitle-2">
+          Created on {{ date }}
+        </p>
+        <p class="caption">
+          4 min read
+        </p>
+        <div class="cover">
+          <v-img
+            v-if="!noMainImage"
+            :src="require(`@/assets/images/${id}/_main.jpg`)"
+            class="my-5"
+            width="100%"
+            height="500px"
+            :alt="'Blog picture'"
+            aspect-ratio="1"
+            gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
+          />
+        </div>
+      </div>
+      <div class="markdown">
+        <vue-markdown>{{ markdown }}</vue-markdown>
       </div>
     </div>
-    <div class="markdown">
-      <vue-markdown>{{ markdown }}</vue-markdown>
-    </div>
-  </div>
+  </v-container>
 </template>
 
 <script lang="js">
@@ -130,11 +132,11 @@ export default {
 }
 
 .article__content {
-  padding: 0 22rem;
+  padding: 0 13rem;
 }
 
 h1 {
-  margin: 2rem 0 1rem 0;
+  margin: 1rem 0;
 }
 
 h2, h3, h4, h5, h6 {
@@ -169,21 +171,15 @@ blockquote {
   font-weight: 300;
 }
 
-@media screen and (max-width: 1299px) {
+@media screen and (max-width: 1199px) {
   .article__content {
-    padding: 0 11rem;
-  }
-}
-
-@media screen and (max-width: 1099px) {
-  .article__content {
-    padding: 0 5rem;
+    padding: 0 6rem;
   }
 }
 
 @media screen and (max-width: 899px) {
   .article__content {
-    padding: 0 1rem;
+    padding: 0 2rem;
   }
 
   h1.display-3 {
@@ -193,7 +189,7 @@ blockquote {
 
 @media screen and (max-width: 599px) {
   .article__content {
-    padding: 0;
+    padding: 0 .5rem;
   }
 
   h1, .cover {
