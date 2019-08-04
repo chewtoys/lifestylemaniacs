@@ -4,7 +4,7 @@
       <h1 class="display-3 hidden-xs-only">
         {{ title }}
       </h1>
-      <h1 class="display-2 hidden-sm-and-up">
+      <h1 class="display-1 hidden-sm-and-up">
         {{ title }}
       </h1>
       <p class="subtitle-1">
@@ -141,6 +141,14 @@ h2, h3, h4, h5, h6 {
   margin: 2rem 0;
 }
 
+h2 {
+  font-size: 2.125rem !important;
+  font-weight: 400;
+  line-height: 2.5rem;
+  letter-spacing: 0.0073529412em !important;
+  font-family: "Roboto", sans-serif !important;
+}
+
 .cover {
   margin: 2rem 0;
 }
@@ -194,6 +202,12 @@ blockquote {
 
   .markdown {
     font-size: 16px;
+  }
+
+  h2 {
+    font-size: 1.5rem !important;
+    line-height: 2rem;
+    letter-spacing: normal !important;
   }
 }
 </style>
