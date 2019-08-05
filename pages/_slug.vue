@@ -2,13 +2,10 @@
   <v-container fluid>
     <div class="article__content">
       <div>
-        <h1 class="display-3 hidden-xs-only">
+        <h1 class="display-2">
           {{ title }}
         </h1>
-        <h1 class="display-1 hidden-sm-and-up">
-          {{ title }}
-        </h1>
-        <p class="subtitle-1">
+        <p class="subtitle-2">
           Written by {{ author }}
         </p>
         <p class="subtitle-2">
@@ -132,7 +129,8 @@ export default {
 }
 
 .article__content {
-  padding: 0 13rem;
+  font-size: 1.1rem;
+  padding: 0 27%;
 }
 
 h1 {
@@ -140,15 +138,14 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-  margin: 2rem 0;
+  margin: 2rem 0 1rem 0;
 }
 
 h2 {
-  font-size: 2.125rem !important;
-  font-weight: 400;
-  line-height: 2.5rem;
-  letter-spacing: 0.0073529412em !important;
   font-family: "Roboto", sans-serif !important;
+  font-weight: 500;
+  letter-spacing: 0.0073529412em !important;
+  line-height: 2.5rem;
 }
 
 .cover {
@@ -156,7 +153,6 @@ h2 {
 }
 
 .markdown {
-  font-size: 19px;
   line-height: 1.7;
 }
 
@@ -165,45 +161,46 @@ h2 {
 }
 
 blockquote {
-  padding: 16px 0 16px 24px;
-  font-size: 18px;
+  font-size: 1.2rem;
   font-style: italic;
   font-weight: 300;
+  padding: 16px 0 16px 24px;
 }
 
-@media screen and (max-width: 1199px) {
+@media screen and (max-width: 1299px) {
   .article__content {
-    padding: 0 6rem;
+    padding: 0 20%;
+  }
+}
+
+@media screen and (max-width: 1099px) {
+  .article__content {
+    padding: 0 15%;
   }
 }
 
 @media screen and (max-width: 899px) {
   .article__content {
-    padding: 0 2rem;
-  }
-
-  h1.display-3 {
-    font-size: 3rem !important;
+    padding: 0 10%;
   }
 }
 
 @media screen and (max-width: 599px) {
   .article__content {
-    padding: 0 .5rem;
+    padding: 0 4%;
   }
 
   h1, .cover {
     margin: .5rem 0;
   }
 
-  .markdown {
-    font-size: 16px;
-  }
-
   h2 {
-    font-size: 1.5rem !important;
     line-height: 2rem;
     letter-spacing: normal !important;
+  }
+
+  .v-application h1.display-2 {
+    font-size: 2.5rem !important;
   }
 }
 </style>
