@@ -1,4 +1,4 @@
-import { SET_PAGE_TITLE, TOGGLE_SIDENAV } from './mutation-types';
+import { SET_PAGE_TITLE, TOGGLE_DRAWER } from './mutation-types';
 
 const actions = {
   setPageTitle({ commit }, pageTitle) {
@@ -7,10 +7,10 @@ const actions = {
       pageTitle
     });
   },
-  toggleSidenav({ commit }, isSidenavOpen) {
+  toggleDrawer({ commit }, isDrawerOpen) {
     commit({
-      type: TOGGLE_SIDENAV,
-      isSidenavOpen
+      type: TOGGLE_DRAWER,
+      isDrawerOpen
     });
   }
 };

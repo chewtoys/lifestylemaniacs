@@ -1,68 +1,78 @@
 <template>
   <v-app-bar
-    flat
+    color="primary"
+    fixed
+    dark
+    hide-on-scroll
+    app
   >
-    <v-toolbar-side-icon
-      class="hidden-md-and-up"
-      @click="toggleDrawer"
-    />
-    <v-container
-      mx-auto
-      py-0
+    <v-app-bar-nav-icon class="hidden-md-and-up" @click="toggleDrawer" />
+    <n-link :to="'/'" exact>
+      <v-img
+        :src="require('~/assets/logo.png')"
+        class="mr-5"
+        contain
+        height="48"
+        width="48"
+        max-width="48"
+      />
+    </n-link>
+    <v-toolbar-title>
+      {{ pageTitle }}
+    </v-toolbar-title>
+    <v-spacer />
+    <v-btn
+      v-for="(link, i) in links"
+      :key="i"
+      :to="link.url"
+      exact
+      class="ml-0 hidden-sm-and-down"
+      text
     >
-      <v-layout>
-        <v-img
-          :src="require('@/assets/logo.png')"
-          class="mr-5"
-          contain
-          height="48"
-          width="48"
-          max-width="48"
-          @click="$vuetify.goTo(0)"
-        />
-        <v-btn
-          v-for="(link, i) in links"
-          :key="i"
-          :to="link.to"
-          class="ml-0 hidden-sm-and-down"
-          flat
-          @click="onClick($event, item)"
-        >
-          {{ link.text }}
-        </v-btn>
-        <v-spacer />
-        <v-text-field
-          append-icon="mdi-magnify"
-          flat
-          hide-details
-          solo-inverted
-          style="max-width: 300px;"
-        />
-      </v-layout>
-    </v-container>
+      {{ link.title }}
+    </v-btn>
+    <v-text-field
+      v-model="searchQuery"
+      prepend-inner-icon="mdi-magnify"
+      clearable
+      color="primary"
+      flat
+      hide-details
+      solo-inverted
+      style="max-width: 300px;"
+    />
   </v-app-bar>
 </template>
 
 <script lang="js">
-import {
-  mapGetters,
-  mapMutations
-} from 'vuex'
+import * as debounce from 'lodash/debounce';
+import { mapActions, mapGetters } from 'vuex';
 
 export default {
-  computed: {
-    ...mapGetters(['links'])
-  },
-
-  methods: {
-    ...mapMutations(['toggleDrawer']),
-    onClick(e, item) {
-      e.stopPropagation()
-
-      if (item.to || !item.href) return
-
-      this.$vuetify.goTo(item.href)
+  name: 'Toolbar',
+  data() {
+    return {
+      searchQuery: ''
     }
+  },
+  computed: {
+    ...mapGetters({
+      links: 'layout/links',
+      pageTitle: 'layout/pageTitle'
+    })
+  },
+  watch: {
+    searchQuery: debounce((val) => {
+      console.log(val)
+    }, 1000)
+  },
+  methods: {
+    ...mapActions({
+      toggleDrawer: 'layout/toggleDrawer'
+    })
   }
 }
 </script>
+
+<style scoped lang="scss">
+</style>

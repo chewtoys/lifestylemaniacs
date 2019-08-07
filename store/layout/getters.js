@@ -1,5 +1,6 @@
 const getters = {
-  isSidenavOpen: state => state.isSidenavOpen,
+  drawer: state => state.drawer,
+  links: state => state.links,
   pageTitle: state => state.pageTitle
 };
 

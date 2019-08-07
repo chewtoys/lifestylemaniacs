@@ -1,2 +1,2 @@
 export const SET_PAGE_TITLE = 'SET_PAGE_TITLE'
-export const TOGGLE_SIDENAV = 'TOGGLE_SIDENAV';
+export const TOGGLE_DRAWER = 'TOGGLE_DRAWER';

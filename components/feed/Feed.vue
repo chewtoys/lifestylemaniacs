@@ -71,13 +71,13 @@ export default {
 
   methods: {
     onReadArticle(article) {
-      this.$router.push(article.id);
+      this.$router.push(article.attributes.id);
     }
   }
 };
 </script>
 
-<style lang="scss">
+<style scoped lang="scss">
 .container {
   padding: 2rem 10rem;
 }

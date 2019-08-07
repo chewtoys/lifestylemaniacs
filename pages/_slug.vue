@@ -3,21 +3,21 @@
     <div class="article__content">
       <div>
         <h1 class="display-2">
-          {{ title }}
+          {{ article.title }}
         </h1>
         <p class="subtitle-2">
-          Written by {{ author }}
+          Written by {{ article.author }}
         </p>
         <p class="subtitle-2">
-          Created on {{ date }}
+          Created on {{ article.date }}
         </p>
         <p class="caption">
           4 min read
         </p>
         <div class="cover">
           <v-img
-            v-if="!noMainImage"
-            :src="require(`@/assets/images/${id}/_main.jpg`)"
+            v-if="!article.noMainImage"
+            :src="require(`~/assets/images/${article.id}/_main.jpg`)"
             class="my-5"
             width="100%"
             height="500px"
@@ -28,84 +28,69 @@
         </div>
       </div>
       <div class="markdown">
-        <vue-markdown>{{ markdown }}</vue-markdown>
+        <vue-markdown>{{ article.markdown }}</vue-markdown>
       </div>
     </div>
   </v-container>
 </template>
 
 <script lang="js">
+import { mapGetters } from 'vuex';
+
 export default {
   components: {
     VueMarkdown: () => import('vue-markdown')
   },
 
   computed: {
-    ogImage() {
-      return `${process.env.baseUrl}/images/${this.id}/_thumbnail.jpg`;
+    ...mapGetters({
+      article: 'articles/article'
+    }),
+    image() {
+      return `${process.env.baseUrl}/images/${this.article.id}/_thumbnail.jpg`;
     },
     pageTitle() {
-      return `${this.title} - ${this.author}`;
+      return `${this.article.title} - ${this.article.author}`;
     }
   },
 
-  async asyncData({ params, app }) {
-    const fileContent = await import(`~/contents/${params.slug}.md`);
-    const attr = fileContent.attributes;
-
-    return {
-      author: attr.author,
-      name: params.slug,
-      title: attr.title,
-      date: attr.date,
-      id: attr.id,
-      owner: attr.owner,
-      colors: attr.colors,
-      role: attr.role,
-      cardAlt: attr.cardAlt,
-      noMainImage: attr.noMainImage,
-      description: attr.description,
-      related: attr.related,
-      image: {
-        main: attr.image && attr.image.main,
-        og: attr.image && attr.image.og
-      },
-      markdown: fileContent.body
-    }
+  async fetch({ store, params }) {
+    await store.dispatch('articles/readArticle', params.slug);
+    await store.dispatch('layout/setPageTitle', store.state.articles.article.attributes.title);
   },
 
   head() {
     return {
-      title: this.pageTitle,
+      title: this.article.title,
       meta: [{
         name: 'author',
-        content: this.author || ''
+        content: this.article.author || ''
       },
       {
         name: 'description',
         property: 'og:description',
-        content: this.description || '',
+        content: this.article.description || '',
         hid: 'description'
       },
       {
         property: 'og:title',
-        content: this.pageTitle || ''
+        content: this.article.pageTitle || ''
       },
       {
         property: 'og:image',
-        content: this.ogImage || ''
+        content: this.article.image || ''
       },
       {
         name: 'twitter:description',
-        content: this.description || ''
+        content: this.article.description || ''
       },
       {
         name: 'twitter:image',
-        content: this.ogImage || ''
+        content: this.article.image || ''
       }
       ],
       link: [
-        this.hreflang || ''
+        this.article.hreflang || ''
       ]
     };
   },
@@ -187,6 +172,7 @@ blockquote {
 
 @media screen and (max-width: 599px) {
   .article__content {
+    font-size: 1rem;
     padding: 0 4%;
   }
 

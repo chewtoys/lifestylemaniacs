@@ -3,23 +3,29 @@
 </template>
 
 <script lang="js">
-import articleNames from '~/contents/articles.js';
+import { mapGetters } from 'vuex';
 
 export default {
   components: {
-    Feed: () => import('@/components/feed/Feed')
+    Feed: () => import('~/components/feed/Feed')
   },
 
-  async asyncData({ params }) {
-    const articles = await Promise.all(
-      articleNames.map(async (articleName) => {
-        const wholeMD = await import(`~/contents/${articleName}.md`);
+  computed: {
+    ...mapGetters({
+      articles: 'articles/articles'
+    })
+  },
 
-        return wholeMD.attributes;
-      })
-    );
+  async fetch({ store, params }) {
+    await store.dispatch('articles/getArticles');
+    await store.dispatch('layout/setPageTitle', 'Lifestyle Maniacs');
+  },
 
-    return { articles };
+  head() {
+    return {
+      title: 'Lifestyle Maniacs',
+      description: 'Lifestyle blog'
+    }
   },
 
   transition: {

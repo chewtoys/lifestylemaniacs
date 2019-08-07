@@ -1,0 +1,3 @@
+export const GET_ARTICLES = 'GET_ARTICLES';
+export const READ_ARTICLE = 'READ_ARTICLE';
+export const SEARCH_ARTICLES = 'SEARCH_ARTICLES';
