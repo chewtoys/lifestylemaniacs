@@ -17,7 +17,7 @@
         <div class="cover">
           <v-img
             v-if="!article.noMainImage"
-            :src="require(`~/assets/images/${article.id}/_main.jpg`)"
+            :src="image"
             class="my-5"
             width="100%"
             height="500px"
@@ -35,7 +35,7 @@
 </template>
 
 <script lang="js">
-import { mapGetters } from 'vuex';
+import { mapActions, mapGetters } from 'vuex';
 
 export default {
   components: {
@@ -47,7 +47,7 @@ export default {
       article: 'articles/article'
     }),
     image() {
-      return `${process.env.baseUrl}/images/${this.article.id}/_thumbnail.jpg`;
+      return this.article ? require(`~/assets/images/${this.article.id}/_main.jpg`) : '';
     },
     pageTitle() {
       return `${this.article.title} - ${this.article.author}`;
@@ -74,7 +74,7 @@ export default {
       },
       {
         property: 'og:title',
-        content: this.article.pageTitle || ''
+        content: this.article.title || ''
       },
       {
         property: 'og:image',

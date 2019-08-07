@@ -5,7 +5,7 @@ const mutations = {
     state.articles = payload.articles;
   },
   [READ_ARTICLE](state, payload) {
-    state.article = state.articles.find(a => a.attributes.id === payload.id);
+    state.article = state.articles.find(a => a.attributes.id === payload.id) || {};
   },
   [SEARCH_ARTICLES](state, payload) {
     state.searchQuery = payload.searchQuery;

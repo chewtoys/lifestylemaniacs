@@ -1,14 +1,20 @@
 const getters = {
-  article: (state) => {
-    const article = {
-      ...state.article.attributes,
-      markdown: state.article.body
-    };
-
-    return article;
-  },
-  articles: state => state.articles.filter(a => a.attributes.title.toLowerCase().trim().includes(state.searchQuery.toLowerCase().trim())),
-  pageTitle: state => state.pageTitle
+  article: state => ({
+    ...state.article.attributes,
+    markdown: state.article.body
+  }),
+  articles: state =>
+    state.articles
+      .map(a => ({
+        ...a.attributes,
+        markdown: a.body
+      }))
+      .filter(a =>
+        a.title
+          .toLowerCase()
+          .trim()
+          .includes(state.searchQuery.toLowerCase().trim())
+      )
 };
 
 export default getters;

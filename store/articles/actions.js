@@ -6,7 +6,6 @@ const actions = {
     const articles = await Promise.all(
       articleNames.default.map(async (articleName) => {
         const wholeMD = await import(`~/contents/${articleName}.md`);
-        debugger;
 
         return wholeMD.default;
       })

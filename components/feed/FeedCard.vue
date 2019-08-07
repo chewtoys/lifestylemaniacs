@@ -1,7 +1,7 @@
 <template>
   <v-card>
     <v-img
-      :src="require(`~/static/articles/beachjar.jpg`)"
+      :src="require(`~/assets/images/${article.id}/_main.jpg`)"
       class="white--text"
       height="200px"
       gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"

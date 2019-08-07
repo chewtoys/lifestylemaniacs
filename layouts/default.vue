@@ -16,18 +16,6 @@ export default {
   components: {
     NavigationDrawer: () => import('~/components/core/NavigationDrawer'),
     Toolbar: () => import('~/components/core/Toolbar')
-  },
-  data() {
-    return {
-      drawer: false,
-      items: [{
-        icon: 'home',
-        title: 'Home',
-        to: '/'
-      }
-      ],
-      title: 'Lifestyle Maniacs'
-    }
   }
 }
 </script>

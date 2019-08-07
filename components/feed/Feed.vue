@@ -71,7 +71,7 @@ export default {
 
   methods: {
     onReadArticle(article) {
-      this.$router.push(article.attributes.id);
+      this.$router.push(article.id);
     }
   }
 };

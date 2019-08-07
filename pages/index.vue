@@ -21,13 +21,6 @@ export default {
     await store.dispatch('layout/setPageTitle', 'Lifestyle Maniacs');
   },
 
-  head() {
-    return {
-      title: 'Lifestyle Maniacs',
-      description: 'Lifestyle blog'
-    }
-  },
-
   transition: {
     name: 'slide-fade'
   }
