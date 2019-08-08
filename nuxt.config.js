@@ -2,7 +2,15 @@ import path from 'path';
 import colors from 'vuetify/es5/util/colors';
 import articles from './contents/articles.js';
 
-const routes = ['404', ...articles.map(a => `/${a}`)];
+const routes = [
+  '404',
+  ...articles.map(a => `/${a}`),
+  'categories/health',
+  'categories/fitness',
+  'categories/fashion',
+  'categories/recipes',
+  'categories/inspiration'
+];
 
 export default {
   mode: 'universal',
@@ -51,9 +59,9 @@ export default {
     '@nuxtjs/vuetify',
     '@nuxtjs/eslint-module',
     '@nuxtjs/style-resources',
-    ['@nuxtjs/google-analytics', {
-      id: 'UA-104134573'
-    }],
+    // ['@nuxtjs/google-analytics', {
+    //   id: 'UA-104134573'
+    // }],
     '@nuxtjs/sitemap'
   ],
   /*
@@ -138,7 +146,6 @@ export default {
     path: '/sitemap.xml',
     hostname: 'https://lifestyleavengers.com',
     gzip: true,
-    generate: true,
     routes
   }
 };

@@ -5,6 +5,7 @@ id: 'ancel-keys-the-silent-killer'
 date: '2017-11-26 12:45:31'
 updated: '2017-11-26 12:45:31'
 alt: 'Ancel Keys Time magazine cover'
+category: 'Health'
 ---
 
 I am one of the big majority of people who have always correlated body fat with fat in food. I have also been fooled by all the medical recommendations and advertisements that cholesterol and saturated (animal) fat is unhealthy and increase the risk of cardiovascular disease, high blood pressure, high blood cholesterol (LDL and triglycerides) and obesity. As our dear old Morpheus begins: "What if I told you..." we are all wrong?

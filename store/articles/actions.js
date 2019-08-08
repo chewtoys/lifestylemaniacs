@@ -1,7 +1,7 @@
 import { GET_ARTICLES, READ_ARTICLE, SEARCH_ARTICLES } from './mutation-types';
 
 const actions = {
-  async getArticles({ commit }) {
+  async getArticles({ commit }, filter) {
     const articleNames = await import('~/contents/articles.js');
     const articles = await Promise.all(
       articleNames.default.map(async (articleName) => {
@@ -13,7 +13,7 @@ const actions = {
 
     commit({
       type: GET_ARTICLES,
-      articles
+      articles: articles.filter(a => a.attributes.category.toLowerCase().includes((filter || '').toLowerCase()))
     });
   },
   async readArticle({ commit, state, dispatch }, id) {
