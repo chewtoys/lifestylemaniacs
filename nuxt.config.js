@@ -2,6 +2,8 @@ import path from 'path';
 import colors from 'vuetify/es5/util/colors';
 import articles from './contents/articles.js';
 
+const routes = ['404', ...articles.map(a => `/${a}`)];
+
 export default {
   mode: 'universal',
   /*
@@ -51,7 +53,8 @@ export default {
     '@nuxtjs/style-resources',
     ['@nuxtjs/google-analytics', {
       id: 'UA-104134573'
-    }]
+    }],
+    '@nuxtjs/sitemap'
   ],
   /*
    ** Axios module configuration
@@ -128,6 +131,14 @@ export default {
   },
 
   generate: {
-    routes: ['404', ...articles.map(a => `/${a}`)]
+    routes
+  },
+
+  sitemap: {
+    path: '/sitemap.xml',
+    hostname: 'https://lifestyleavengers.com',
+    gzip: true,
+    generate: true,
+    routes
   }
 };
