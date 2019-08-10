@@ -2,17 +2,17 @@
   <v-container fluid>
     <div class="article__content">
       <div>
-        <h1 class="display-2">
+        <h1 class="display-2 font-weight-light">
           {{ article.title }}
         </h1>
         <p class="subtitle-2">
-          Written by {{ article.author }}
+          by {{ article.author }}
         </p>
-        <p class="subtitle-2">
-          Created on {{ article.date }}
-        </p>
+        <span class="body-2">
+          Created on {{ article.createdOn }}
+        </span>
         <p class="caption">
-          4 min read
+          {{ readingTime }} min read
         </p>
         <div class="cover">
           <v-img
@@ -51,6 +51,13 @@ export default {
     },
     pageTitle() {
       return `${this.article.title} - ${this.article.author}`;
+    },
+    readingTime() {
+      const contentString = JSON.stringify(this.article.markdown);
+      const words = contentString.split(' ').length;
+      const wordsPerMinute = 250;
+
+      return Math.ceil(words / wordsPerMinute);
     }
   },
 

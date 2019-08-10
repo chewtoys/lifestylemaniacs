@@ -1,24 +1,27 @@
 <template>
   <v-card>
+    <v-list-item>
+      <v-list-item-avatar color="grey">
+        <v-img :src="require('~/assets/images/IMG_20190803_103831_483.jpg')" />
+      </v-list-item-avatar>
+      <v-list-item-content>
+        <v-list-item-title class="headline">
+          {{ article.title }}
+        </v-list-item-title>
+        <v-list-item-subtitle>
+          by {{ article.author }} · {{ readingTime }} min read
+        </v-list-item-subtitle>
+      </v-list-item-content>
+    </v-list-item>
     <v-img
       :src="require(`~/assets/images/${article.id}/_main.jpg`)"
-      class="white--text"
       height="200px"
-      gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
-    >
-      <v-card-title class="fill-height align-end" v-text="article.title" />
-    </v-img>
-
+    />
     <v-card-text>
-      <span>Number 10</span>
-      <br>
-      <span class="text--primary">
-        <span>Whitehaven Beach</span>
-        <br>
-        <span>Whitsunday Island, Whitsunday Islands</span>
-      </span>
+      <v-chip router exact :to="`/categories/${article.category.toLowerCase()}`" color="primary">
+        {{ article.category }}
+      </v-chip>
     </v-card-text>
-
     <v-card-actions>
       <v-btn text color="primary" @click="onReadMore">
         READ MORE
@@ -34,6 +37,15 @@ export default {
     article: {
       type: Object,
       default: () => {}
+    }
+  },
+  computed: {
+    readingTime() {
+      const contentString = JSON.stringify(this.article.markdown);
+      const words = contentString.split(' ').length;
+      const wordsPerMinute = 250;
+
+      return Math.ceil(words / wordsPerMinute);
     }
   },
   methods: {
