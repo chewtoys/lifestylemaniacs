@@ -18,7 +18,7 @@ export default {
 
   async fetch({ store, params }) {
     await store.dispatch('articles/getArticles');
-    await store.dispatch('layout/setPageTitle', 'LIFESTYLE AVENGERS');
+    await store.dispatch('layout/setPageTitle', 'LIFESTYLE MANIACS');
   },
 
   transition: {
