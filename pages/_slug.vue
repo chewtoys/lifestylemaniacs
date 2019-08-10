@@ -63,7 +63,7 @@ export default {
 
   async fetch({ store, params }) {
     await store.dispatch('articles/readArticle', params.slug);
-    await store.dispatch('layout/setPageTitle', store.state.articles.article.attributes.title);
+    await store.dispatch('layout/setPageTitle', store.state.articles.article.title);
   },
 
   head() {

@@ -6,8 +6,14 @@
     hide-on-scroll
     app
   >
-    <v-app-bar-nav-icon class="hidden-md-and-up" @click="toggleDrawer" />
-    <n-link :to="'/'" exact>
+    <v-app-bar-nav-icon
+      class="hidden-md-and-up"
+      @click="toggleDrawer"
+    />
+    <n-link
+      :to="'/'"
+      exact
+    >
       <v-img
         :src="require('~/assets/logo.png')"
         class="mr-5"
@@ -62,12 +68,17 @@ export default {
     })
   },
   watch: {
-    searchQuery: debounce((val) => {
-      console.log(val)
+    searchQuery: debounce(function (val) {
+      this.$router.replace('/');
+
+      setTimeout(() => {
+        this.searchArticles(val);
+      }, 100);
     }, 1000)
   },
   methods: {
     ...mapActions({
+      searchArticles: 'articles/searchArticles',
       toggleDrawer: 'layout/toggleDrawer'
     })
   }

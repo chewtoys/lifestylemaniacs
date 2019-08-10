@@ -13,7 +13,12 @@ const actions = {
 
     commit({
       type: GET_ARTICLES,
-      articles: articles.filter(a => a.attributes.category.toLowerCase().includes((filter || '').toLowerCase()))
+      articles: articles
+        .map(a => ({
+          ...a.attributes,
+          markdown: a.body
+        }))
+        .filter(a => a.category.toLowerCase().includes((filter || '').toLowerCase()))
     });
   },
   async readArticle({ commit, state, dispatch }, id) {
@@ -26,10 +31,28 @@ const actions = {
       id
     });
   },
-  searchArticles({ commit }, searchQuery) {
+  searchArticles({ commit, state }, searchQuery) {
+    const searchedArticles = state.articles.filter((a) => {
+      if (!searchQuery) {
+        return true;
+      }
+
+      const query = searchQuery.toLowerCase().trim();
+      const articleKeys = Object.keys(a);
+
+      for (const key of articleKeys) {
+        if (typeof a[key] === 'string' && a[key].toLowerCase().includes(query)) {
+          return true;
+        }
+      }
+
+      return false;
+    });
+
     commit({
       type: SEARCH_ARTICLES,
-      searchQuery
+      searchQuery,
+      searchedArticles
     });
   }
 };
