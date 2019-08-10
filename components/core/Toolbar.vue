@@ -69,6 +69,7 @@ export default {
   },
   watch: {
     searchQuery: debounce(function (val) {
+      // TODO: Query parameters
       this.$router.replace('/');
 
       setTimeout(() => {

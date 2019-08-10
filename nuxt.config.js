@@ -18,7 +18,7 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: 'Lifestyle Avengers',
+    title: 'Lifestyle Maniacs',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -144,7 +144,7 @@ export default {
 
   sitemap: {
     path: '/sitemap.xml',
-    hostname: 'https://lifestyleavengers.com',
+    hostname: 'https://lifestylemaniacs.com',
     gzip: true,
     routes
   }

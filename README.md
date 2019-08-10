@@ -1,4 +1,4 @@
-# lifestyleavengers
+# lifestylemaniacs
 
 > Lifestyle Blog
 

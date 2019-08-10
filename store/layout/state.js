@@ -21,5 +21,5 @@ export default () => ({
     icon: 'favorite',
     title: 'Inspiration'
   }],
-  pageTitle: 'Lifestyle Avengers'
+  pageTitle: 'Lifestyle Maniacs'
 });
