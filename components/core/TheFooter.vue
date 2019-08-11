@@ -5,20 +5,24 @@
       tile
       class="primary darken-1 white--text text-center"
     >
-      <v-card-text class="white--text pt-0 px-10">
+      <v-card-text class="white--text px-10">
         <v-layout wrap>
           <v-flex
             class="px-10"
             md6
           >
-            <h3>Who are we?</h3>
+            <h3 class="my-5">
+              Who are we?
+            </h3>
             <p>We are a community dedicated to making an impact on peoples' lives through the power of habit and lifestyle. We right short and concise articles every week, sharing practical knowledge that every person can apply now.</p>
           </v-flex>
           <v-flex
-            class="px-10 text-center"
+            class="px-10"
             md6
           >
-            <h3>Subscribe to Newsletter</h3>
+            <h3 class="my-5">
+              Subscribe to Newsletter
+            </h3>
             <v-text-field
               label="Email"
               solo
