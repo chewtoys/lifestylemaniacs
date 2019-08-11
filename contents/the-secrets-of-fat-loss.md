@@ -82,4 +82,14 @@ Fat loss has never been easier for me.
 
 You can also try doing cardio or any form of exercise on an empty stomach early in the morning when insulin is absent to be sure that all the energy is burned from your fat stores.
 
+## Summary
+
+This is what you should get from this article:
+
+ - Always choose **whole foods** instead of processed foods;
+ - Track your foods to achieve a **10% caloric deficit**;
+ - **Stay active** throughout the day;
+ - **Fall asleep at 10:00 p.m.**;
+ - Try **intermittent fasting** and exercise on empty stomach.
+
 There you have it! I hope you enjoyed it and be sure to share it with your friends and stay tuned for upcoming quality posts. Take care!
