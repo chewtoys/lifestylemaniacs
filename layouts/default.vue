@@ -1,21 +1,20 @@
 <template>
   <v-app>
-    <navigation-drawer />
-    <toolbar />
+    <the-navigation-drawer />
+    <the-toolbar />
     <v-content>
       <nuxt />
     </v-content>
-    <v-footer absolute app>
-      <span>&copy; 2019</span>
-    </v-footer>
+    <the-footer />
   </v-app>
 </template>
 
 <script lang="js">
 export default {
   components: {
-    NavigationDrawer: () => import('~/components/core/NavigationDrawer'),
-    Toolbar: () => import('~/components/core/Toolbar')
+    TheFooter: () => import('~/components/core/TheFooter'),
+    TheNavigationDrawer: () => import('~/components/core/TheNavigationDrawer'),
+    TheToolbar: () => import('~/components/core/TheToolbar')
   }
 }
 </script>

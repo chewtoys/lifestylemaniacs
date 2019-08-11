@@ -18,7 +18,7 @@
       height="200px"
     />
     <v-card-text>
-      <v-chip router exact :to="`/categories/${article.category.toLowerCase()}`" color="primary">
+      <v-chip router exact :to="`/categories/${article.category.toLowerCase()}`" color="lime">
         {{ article.category }}
       </v-chip>
     </v-card-text>

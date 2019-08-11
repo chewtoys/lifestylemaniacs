@@ -55,12 +55,10 @@ import * as debounce from 'lodash/debounce';
 import { mapActions, mapGetters } from 'vuex';
 
 export default {
-  name: 'Toolbar',
-  data() {
-    return {
-      searchQuery: ''
-    }
-  },
+  name: 'TheToolbar',
+  data: () => ({
+    searchQuery: ''
+  }),
   computed: {
     ...mapGetters({
       links: 'layout/links',

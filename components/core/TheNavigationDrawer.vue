@@ -24,7 +24,7 @@
 import { mapActions, mapGetters } from 'vuex';
 
 export default {
-  name: 'NavigationDrawer',
+  name: 'TheNavigationDrawer',
   computed: {
     ...mapGetters({
       links: 'layout/links'

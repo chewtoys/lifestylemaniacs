@@ -28,14 +28,7 @@ export default {
         content: 'Lifestyle Blog'
       }
     ],
-    link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      {
-        rel: 'stylesheet',
-        href:
-          'https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons'
-      }
-    ]
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
   /*
    ** Customize the progress-bar color
@@ -48,10 +41,7 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [
-    '~/plugins/lazyload',
-    '~/plugins/vue-markdown'
-  ],
+  plugins: ['~/plugins/lazyload', '~/plugins/vue-markdown', { src: '~/plugins/vuetify.js', ssr: false }],
   /*
    ** Nuxt.js modules
    */
@@ -76,8 +66,8 @@ export default {
   vuetify: {
     theme: {
       primary: colors.blue.base,
-      accent: colors.lime.base,
       secondary: colors.indigo.base,
+      accent: colors.blue.base,
       error: colors.red.base,
       warning: colors.orange.base,
       info: colors.yellow.base,
@@ -96,9 +86,7 @@ export default {
         config.devtool = ctx.isClient ? 'source-map' : 'inline-source-map';
       }
 
-      const rule = config.module.rules.find(
-        r => r.test.toString() === '/\\.(png|jpe?g|gif|svg|webp)$/i'
-      );
+      const rule = config.module.rules.find(r => r.test.toString() === '/\\.(png|jpe?g|gif|svg|webp)$/i');
       config.module.rules.splice(config.module.rules.indexOf(rule), 1);
 
       config.module.rules.push(

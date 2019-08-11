@@ -15,7 +15,7 @@
     <v-layout v-if="paginatedArticles.length" wrap align-center>
       <v-flex xs3>
         <feed-page-btn v-if="page !== 1" class="ml-0" title="Previous page" square @click="page--">
-          <v-icon>chevron_left</v-icon>
+          <v-icon>mdi-chevron-left</v-icon>
         </feed-page-btn>
       </v-flex>
 
@@ -25,7 +25,7 @@
 
       <v-flex xs3 text-xs-right>
         <feed-page-btn v-if="pages > 1 && page < pages" class="mr-0" title="Next page" square @click="page++">
-          <v-icon>chevron_right</v-icon>
+          <v-icon>mdi-chevron-right</v-icon>
         </feed-page-btn>
       </v-flex>
     </v-layout>

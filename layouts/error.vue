@@ -28,12 +28,10 @@ export default {
       title
     }
   },
-  data() {
-    return {
-      pageNotFound: '404 Not Found',
-      otherError: 'An error occurred'
-    }
-  }
+  data: () => ({
+    pageNotFound: '404 Not Found',
+    otherError: 'An error occurred'
+  })
 }
 </script>
 
