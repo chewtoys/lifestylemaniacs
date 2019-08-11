@@ -146,6 +146,7 @@ h2 {
 
 .markdown {
   line-height: 1.7;
+  margin-bottom: 2rem;
 }
 
 .subtitle-1, .subtitle-2 {
