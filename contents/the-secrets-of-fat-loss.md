@@ -2,7 +2,7 @@
 author: Razvan Tomegea
 title: 'The Secrets Of Fat Loss'
 id: 'the-secrets-of-fat-loss'
-createdOn: 'Aug 10, 2019'
+createdOn: 'Aug 12, 2019'
 category: Fitness
 ---
 
@@ -52,13 +52,13 @@ Movement is - besides other health benefits - for fat loss. Why? You burn more e
 
 **Avoid sitting as much as possible and be active throughout the day.**
 
-Sleep is our primary hormone regulator - melatonin. Without good quality sleep (from **10:00 p.m. to 5:00 - 7:00 a.m.**), our body won't be able to heal itself and burn energy from fat.
+Sleep is our primary hormone regulator - melatonin. Without good quality sleep, our body won't be able to heal itself and burn energy from fat.
 
 Also, **sleep deprivation makes you hungrier** and makes you crave sugary or/and fatty foods.
 
-It's hard to have a healthy sleep schedule nowadays, I know, but you have to make some decisions for yourself if you want to have results.
+The ideal sleeping time is from 10:00 p.m. to 6:00 - 8:00 a.m., but we cannot all follow that schedule. Thus, I suggest going to bed and waking up every day at the same time and make sure you sleep 7-9 hours.
 
-I told you from the beginning if you are looking for the magic pill, you came in the wrong place.
+You can also try some of these [sleeping hacks](https://www.lifestylemaniacs.com/sleeping-hacks).
 
 Now we know how to maintain a proper energy deficit without feeling hungry. But what about tapping into fat stores?
 
@@ -74,11 +74,9 @@ Insulin is secreted mostly after consuming carbohydrates, especially those witho
 
 There has also been debunked that **insulin is secreted even when chewing. smelling, or seeing food, not just ingesting.**
 
-This is why intermittent fasting is so effective for fat loss. Intermittent fasting is going for 16-24 hours (on average) with only water.
+This is why diets low in carbohydrates (e.g. Keto) and intermittent fasting are so effective for fat loss. I prefer intermittent fasting as it is easier to maintain and it also offers many health benefits.
 
-This ensures all the insulin becomes absent in the bloodstream and our body relies heavily on stored fat for energy. It also has many proven health benefits besides fat loss.
-
-Fat loss has never been easier for me.
+Intermittent fasting is going for 16-24 hours (on average) with only water. This ensures all the insulin becomes absent in the bloodstream and our body relies heavily on stored fat for energy.
 
 You can also try doing cardio or any form of exercise on an empty stomach early in the morning when insulin is absent to be sure that all the energy is burned from your fat stores.
 
@@ -88,8 +86,8 @@ This is what you should get from this article:
  - Always choose **whole foods** instead of processed foods;
  - Track your foods to achieve a **10% caloric deficit**;
  - **Stay active** throughout the day;
- - **Fall asleep at 10:00 p.m.**;
- - Try **intermittent fasting** and exercise on empty stomach.
+ - Have a **regular sleep schedule**, ideally from 10:00 p.m. to 6:00 - 8:00 a.m.;
+ - Go **low carb** or try **intermittent fasting**.
 
 <br>
 

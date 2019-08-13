@@ -30,6 +30,9 @@
       <div class="markdown">
         <vue-markdown>{{ article.markdown }}</vue-markdown>
       </div>
+      <div class="comments">
+        <div id="commento" />
+      </div>
     </div>
   </v-container>
 </template>
@@ -98,6 +101,9 @@ export default {
       ],
       link: [
         this.article.hreflang || ''
+      ],
+      script: [
+        { src: 'https://cdn.commento.io/js/commento.js', defer: true, async: true }
       ]
     };
   },

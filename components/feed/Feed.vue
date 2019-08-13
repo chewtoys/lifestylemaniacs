@@ -91,6 +91,7 @@ export default {
 
 .fill-height {
   height: 100%;
+  min-height: 90vh;
 }
 
 @media screen and (max-width: 1299px) {
