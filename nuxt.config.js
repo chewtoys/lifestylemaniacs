@@ -41,7 +41,12 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: ['~/plugins/lazyload', '~/plugins/vue-markdown', { src: '~/plugins/vuetify.js', ssr: false }],
+  plugins: [
+    '~/plugins/lazyload',
+    '~/plugins/vue-markdown',
+    { src: '~/plugins/vuetify.js', ssr: false },
+    '~/plugins/vuelidate.js'
+  ],
   /*
    ** Nuxt.js modules
    */

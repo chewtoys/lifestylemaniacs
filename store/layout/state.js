@@ -2,23 +2,23 @@ export default () => ({
   drawer: false,
   links: [{
     url: '/categories/health',
-    icon: 'favorite',
+    icon: 'mdi-heart',
     title: 'Health'
   }, {
     url: '/categories/fitness',
-    icon: 'favorite',
+    icon: 'mdi-dumbbell',
     title: 'Fitness'
   }, {
     url: '/categories/fashion',
-    icon: 'favorite',
+    icon: 'mdi-trending-up',
     title: 'Fashion'
   }, {
     url: '/categories/recipes',
-    icon: 'favorite',
+    icon: 'mdi-nutrition',
     title: 'Recipes'
   }, {
     url: '/categories/inspiration',
-    icon: 'favorite',
+    icon: 'mdi-lightbulb',
     title: 'Inspiration'
   }],
   pageTitle: 'Lifestyle Maniacs'

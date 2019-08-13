@@ -1,9 +1,9 @@
 <template>
   <v-footer padless>
     <v-card
+      class="primary darken-1 white--text text-center"
       flat
       tile
-      class="primary darken-1 white--text text-center"
     >
       <v-card-text class="white--text px-10">
         <v-layout wrap>
@@ -21,14 +21,24 @@
             md6
           >
             <h3 class="my-5">
-              Subscribe to Newsletter
+              Subscribe to our Newsletter
             </h3>
-            <v-text-field
-              label="Email"
-              solo
-              clearable
-              prepend-inner-icon="mdi-email-outline"
-            />
+            <form ref="registerForm" action="https://www.getrevue.co/profile/lifestylemaniacs/add_subscriber" method="post" target="_blank">
+              <v-text-field
+                v-model="email"
+                :error-messages="emailErrors"
+                append-icon="mdi-send"
+                clearable
+                label="E-mail"
+                prepend-inner-icon="mdi-email-outline"
+                required
+                solo
+                @blur="$v.email.$touch()"
+                @click:append="onSubmit"
+                @click:clear="onClear"
+                @input="$v.email.$touch()"
+              />
+            </form>
           </v-flex>
         </v-layout>
       </v-card-text>
@@ -63,6 +73,8 @@
 </template>
 
 <script lang="js">
+import { required, email } from 'vuelidate/lib/validators';
+
 export default {
   name: 'TheFooter',
   data: () => ({
@@ -72,7 +84,46 @@ export default {
       'fab fa-google-plus',
       'fab fa-linkedin',
       'fab fa-instagram'
-    ]
-  })
+    ],
+    email: ''
+  }),
+  computed: {
+    emailErrors() {
+      const errors = [];
+
+      if (!this.$v.email.$dirty) {
+        return errors;
+      }
+
+      if (!this.$v.email.required) {
+        errors.push('E-mail is required');
+      }
+
+      if (!this.$v.email.email) {
+        errors.push('Must be valid e-mail');
+      }
+
+      return errors
+    }
+  },
+  validations: {
+    email: {
+      required,
+      email
+    }
+  },
+  methods: {
+    onClear() {
+      this.$v.$reset();
+      this.email = '';
+    },
+    onSubmit() {
+      this.$v.$touch();
+
+      if (!this.$v.$invalid) {
+        this.$refs.registerForm.submit();
+      }
+    }
+  }
 }
 </script>
