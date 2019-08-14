@@ -4,6 +4,8 @@ title: 'The Keys To Happiness'
 id: 'the-keys-to-happiness'
 createdOn: 'Aug 13, 2019'
 category: Inspiration
+image: 'https://www.lifestylemaniacs.com/assets/images/the-keys-to-happiness/_main.jpg'
+description: 'We have come to believe that we should be anyone other than ourselves, a typology. It is a sin to be different.'
 ---
 
 > "Happiness cannot be traveled to, owned, earned, worn or consumed.

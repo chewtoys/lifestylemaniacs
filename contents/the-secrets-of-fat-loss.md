@@ -4,6 +4,8 @@ title: 'The Secrets Of Fat Loss'
 id: 'the-secrets-of-fat-loss'
 createdOn: 'Aug 12, 2019'
 category: Fitness
+image: 'https://www.lifestylemaniacs.com/assets/images/the-secrets-of-fat-loss/_main.jpg'
+description: 'The fat loss formula: maintain a proper energy deficit without feeling hungry and tapping into the fat stores for energy.'
 ---
 
 Oh, I know what you're thinking right now: "Not another fat loss post to confuse me even further...". Stay with me as our posts are always short and concise.

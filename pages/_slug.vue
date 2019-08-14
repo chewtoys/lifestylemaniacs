@@ -103,7 +103,7 @@ export default {
         this.article.hreflang || ''
       ],
       script: [
-        { src: 'https://cdn.commento.io/js/commento.js', defer: true, async: true }
+        { src: 'https://cdn.commento.io/js/commento.js', defer: true, async: true, rel: 'noopener' }
       ]
     };
   },
