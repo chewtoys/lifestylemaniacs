@@ -79,28 +79,40 @@ export default {
       {
         name: 'description',
         property: 'og:description',
-        content: this.article.description || '',
+        content: this.article.description,
         hid: 'description'
       },
       {
         property: 'og:title',
-        content: this.article.title || ''
+        content: this.article.title
       },
       {
         property: 'og:image',
-        content: this.article.image || ''
+        content: this.article.image
+      },
+      {
+        property: 'og:url',
+        content: `https://www.lifestylemanicas.com/${this.article.id}`
       },
       {
         name: 'twitter:description',
-        content: this.article.description || ''
+        content: this.article.description
       },
       {
         name: 'twitter:image',
-        content: this.article.image || ''
+        content: this.article.image
+      },
+      {
+        name: 'twitter:url',
+        content: `https://www.lifestylemanicas.com/${this.article.id}`
+      },
+      {
+        name: 'twitter:card',
+        content: this.article.image
       }
       ],
       link: [
-        this.article.hreflang || ''
+        `https://www.lifestylemanicas.com/${this.article.id}`
       ],
       script: [
         { src: 'https://cdn.commento.io/js/commento.js', defer: true, async: true, rel: 'noopener' }
