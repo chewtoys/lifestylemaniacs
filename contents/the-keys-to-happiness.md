@@ -44,7 +44,7 @@ We are all different and we need to embrace it. **Every one of us is a single un
 
 Remember, **you are all you have in this life** from the beginning to the end. **Love yourself first, because people and objects come and go.** What they leave behind is all that matters.
   
-> All our possessions are just borrowed. When we die, we leave them behind and take with us our spiritual investments**
+> All our possessions are just borrowed. When we die, we leave them behind and take with us our spiritual investments.
 
 ## Summary
 
