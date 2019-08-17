@@ -4,7 +4,7 @@ title: Gluten-free spinach cheese pizza
 type: recipe
 category: Food and cooking
 tags:
-  - Recipes
+  - Food
 prepTime: PT30M
 cookTime: PT45M
 totalTime: PT75M

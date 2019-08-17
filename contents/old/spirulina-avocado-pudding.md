@@ -4,7 +4,7 @@ title: Spirulina avocado pudding
 type: recipe
 category: Food and cooking
 tags:
-  - Recipes
+  - Food
 prepTime: PT10M
 cookTime: PT0M
 totalTime: PT0M

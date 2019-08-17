@@ -9,7 +9,7 @@ updated: 2017-08-20 11:52:36
 type: recipe
 category: Food and cooking
 tags:
-- Recipes
+- Food
 prepTime: PT30M
 cookTime: PT45M
 totalTime: PT75M

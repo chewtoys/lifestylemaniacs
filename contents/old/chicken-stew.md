@@ -4,7 +4,7 @@ title: Chicken stew
 type: recipe
 category: Food and cooking
 tags:
-  - Recipes
+  - Food
 prepTime: PT60M
 cookTime: PT180M
 totalTime: PT240M

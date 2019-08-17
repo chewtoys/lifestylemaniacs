@@ -4,7 +4,7 @@ title: Peanut butter chocolate cheesecake
 type: recipe
 category: Food and cooking
 tags:
-  - Recipes
+  - Food
 prepTime: PT45M
 cookTime: PT30M
 totalTime: PT75M

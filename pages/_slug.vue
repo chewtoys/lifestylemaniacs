@@ -115,7 +115,7 @@ export default {
         `https://www.lifestylemanicas.com/${this.article.id}`
       ],
       script: [
-        { src: 'https://cdn.commento.io/js/commento.js', defer: true, async: true, rel: 'noopener' }
+        { src: 'https://cdn.commento.io/js/commento.js', defer: true, rel: 'noopener' }
       ]
     };
   },

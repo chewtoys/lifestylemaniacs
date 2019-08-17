@@ -4,7 +4,7 @@ title: Oven baked mackerel
 type: recipe
 category: Food and cooking
 tags:
-  - Recipes
+  - Food
 prepTime: PT60M
 cookTime: PT45M
 totalTime: PT105M

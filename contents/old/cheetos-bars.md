@@ -4,7 +4,7 @@ title: Cheetos bars
 type: recipe
 category: Food and cooking
 tags:
-  - Recipes
+  - Food
 prepTime: PT30M
 cookTime: PT120M
 totalTime: PT150M

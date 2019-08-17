@@ -49,10 +49,11 @@ Remember, **you are all you have in this life** from the beginning to the end. *
 ## Summary
 
 This is what you should get from this article:
-
  - Appreciate what you have;
  - Accept who you are - be yourself;
  - Love yourself first;
  - Don't attach to people and things.
 
-There you have it! I hope you enjoyed it and be sure to share it with your friends and stay tuned for upcoming quality posts. Take care!
+<br>
+
+> *There you have it! I hope you enjoyed it and be sure to share it with your friends and stay tuned for upcoming quality posts. Take care!*

@@ -9,13 +9,13 @@ export default () => ({
     icon: 'mdi-dumbbell',
     title: 'Fitness'
   }, {
-    url: '/categories/fashion',
+    url: '/categories/food',
+    icon: 'mdi-nutrition',
+    title: 'Food'
+  }, {
+    url: '/categories/style',
     icon: 'mdi-trending-up',
     title: 'Fashion'
-  }, {
-    url: '/categories/recipes',
-    icon: 'mdi-nutrition',
-    title: 'Recipes'
   }, {
     url: '/categories/inspiration',
     icon: 'mdi-lightbulb',

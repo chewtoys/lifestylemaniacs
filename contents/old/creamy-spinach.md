@@ -4,7 +4,7 @@ title: Creamy spinach
 type: recipe
 category: Food and cooking
 tags:
-  - Recipes
+  - Food
 prepTime: PT15M
 cookTime: PT60M
 totalTime: PT75M

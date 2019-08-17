@@ -7,8 +7,8 @@ const routes = [
   ...articles.map(a => `/${a}`),
   'categories/health',
   'categories/fitness',
-  'categories/fashion',
-  'categories/recipes',
+  'categories/food',
+  'categories/style',
   'categories/inspiration'
 ];
 

@@ -4,7 +4,7 @@ title: Homemade cottage cheese
 type: recipe
 category: Food and cooking
 tags:
-  - Recipes
+  - Food
 prepTime: PT120M
 cookTime: PT0M
 totalTime: PT120M

@@ -4,7 +4,7 @@ title: Broccoli cheese bake
 type: recipe
 category: Food and cooking
 tags:
-  - Recipes
+  - Food
 prepTime: PT60M
 cookTime: PT60M
 totalTime: PT120M

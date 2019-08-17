@@ -4,7 +4,7 @@ title: Cabbage fish stew
 type: recipe
 category: Food and cooking
 tags:
-  - Recipes
+  - Food
 prepTime: PT30M
 cookTime: PT60M
 totalTime: PT90M
