@@ -74,7 +74,7 @@ export default {
       title: this.article.title,
       meta: [{
         name: 'author',
-        content: this.article.author || ''
+        content: this.article.author
       },
       {
         name: 'description',
@@ -212,7 +212,11 @@ blockquote {
   }
 
   .v-application h1.display-2 {
-    font-size: 2.5rem !important;
+    font-size: 2.25rem !important;
+  }
+
+  blockquote {
+    font-size: 1.1rem;
   }
 }
 </style>
