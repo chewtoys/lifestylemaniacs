@@ -217,6 +217,7 @@ blockquote {
 
   blockquote {
     font-size: 1.1rem;
+    padding: 16px 0 16px 24px;
   }
 }
 </style>
