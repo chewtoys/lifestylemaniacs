@@ -14,8 +14,8 @@ export default () => ({
     title: 'Food'
   }, {
     url: '/categories/style',
-    icon: 'mdi-trending-up',
-    title: 'Fashion'
+    icon: 'mdi-bow-tie',
+    title: 'Style'
   }, {
     url: '/categories/inspiration',
     icon: 'mdi-lightbulb',
