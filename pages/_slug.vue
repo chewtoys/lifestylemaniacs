@@ -32,6 +32,7 @@
       </div>
       <div class="comments">
         <div id="commento" />
+        <script rel="noopener" defer async src="https://cdn.commento.io/js/commento.js" />
       </div>
     </div>
   </v-container>
@@ -113,9 +114,6 @@ export default {
       ],
       link: [
         `https://www.lifestylemanicas.com/${this.article.id}`
-      ],
-      script: [
-        { src: 'https://cdn.commento.io/js/commento.js', defer: true, rel: 'noopener' }
       ]
     };
   },

@@ -55,3 +55,8 @@ export default {
   }
 }
 </script>
+<style scoped lang="scss">
+  .v-list-item__subtitle, .v-list-item__title {
+    white-space: initial !important;
+  }
+</style>
