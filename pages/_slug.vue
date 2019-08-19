@@ -270,6 +270,7 @@ blockquote {
 
   .v-application h1.display-2 {
     font-size: 2.25rem !important;
+    line-height: 2.65rem !important;
   }
 
   blockquote {
