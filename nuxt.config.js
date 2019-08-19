@@ -9,6 +9,7 @@ const routes = [
   'categories/fitness',
   'categories/food',
   'categories/style',
+  'categories/productivity',
   'categories/inspiration'
 ];
 
@@ -26,6 +27,10 @@ export default {
         hid: 'description',
         name: 'description',
         content: 'Lifestyle Blog'
+      },
+      {
+        name: 'p:domain_verify',
+        content: '96b8e135746ecec717f0ca7041717864'
       }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
@@ -45,7 +50,8 @@ export default {
     '~/plugins/lazyload',
     '~/plugins/vue-markdown',
     { src: '~/plugins/vuetify.js', ssr: false },
-    '~/plugins/vuelidate.js'
+    '~/plugins/vuelidate.js',
+    { src: '~/plugins/vue-social-sharing.js', mode: 'client' }
   ],
   /*
    ** Nuxt.js modules

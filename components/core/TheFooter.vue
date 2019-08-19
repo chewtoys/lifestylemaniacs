@@ -45,13 +45,15 @@
       <v-divider dark />
       <v-card-text>
         <v-btn
-          v-for="icon in icons"
-          :key="icon"
+          v-for="link in socialLinks"
+          :key="link.url"
+          :href="link.url"
           class="mx-4 white--text"
           icon
+          target="_blank"
         >
           <v-icon size="24px">
-            {{ icon }}
+            {{ link.icon }}
           </v-icon>
         </v-btn>
       </v-card-text>
@@ -78,12 +80,23 @@ import { required, email } from 'vuelidate/lib/validators';
 export default {
   name: 'TheFooter',
   data: () => ({
-    icons: [
-      'fab fa-facebook',
-      'fab fa-twitter',
-      'fab fa-google-plus',
-      'fab fa-linkedin',
-      'fab fa-instagram'
+    socialLinks: [
+      {
+        icon: 'fab fa-medium',
+        url: 'https://medium.com/@RazvanTomegea'
+      }, {
+        icon: 'fab fa-twitter',
+        url: 'https://twitter.com/RazvanTomegea/lists/lifestyle-maniacs'
+      }, {
+        icon: 'fab fa-instagram',
+        url: 'https://instagram.com/lifestylemaniacs'
+      }, {
+        icon: 'fab fa-patreon',
+        url: 'https://patreon.com/razvantomegea'
+      }, {
+        icon: 'fab fa-pinterest',
+        url: 'https://pinterest.com/lifestylemaniacs'
+      }
     ],
     email: ''
   }),

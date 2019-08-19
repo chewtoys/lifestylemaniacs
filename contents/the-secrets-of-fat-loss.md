@@ -91,6 +91,12 @@ This is what you should get from this article:
  - Have a **regular sleep schedule**, ideally from 10:00 p.m. to 6:00 - 8:00 a.m.;
  - Go **low carb** or try **intermittent fasting**.
 
+ ## Follow the white rabbit
+ - [Do Calories Matter? Is a Calorie a Calorie? (Science of Weight Gain)](https://youtu.be/zcMBm-UVdII)
+ - [Why Sleep is More Important Than Diet | Shawn Stevenson on Health Theory](https://youtu.be/4Mtw3vBQYOg)
+ - [Why we get Fat AND Hungry | (Biology of Weight Gain & Low-Carb )](https://youtu.be/KHaCKudtVi0)
+ - [How To Burn Fat](https://youtu.be/ni5-3x6ofjc)
+
 <br>
 
-> *There you have it! I hope you enjoyed it and be sure to share it with your friends and stay tuned for upcoming quality posts. Take care!*
+***There you have it! I hope you enjoyed it and be sure to share it with your friends and stay tuned for upcoming quality posts. Take care!***

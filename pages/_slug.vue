@@ -30,6 +30,65 @@
       <div class="markdown">
         <vue-markdown>{{ article.markdown }}</vue-markdown>
       </div>
+      <!-- <div class="social-content">
+        <social-sharing
+          url="https://vuejs.org/"
+          title="The Progressive JavaScript Framework"
+          description="Intuitive, Fast and Composable MVVM for building interactive interfaces."
+          quote="Vue is a progressive framework for building user interfaces."
+          hashtags="vuejs,javascript,framework"
+          twitter-user="vuejs"
+          inline-template
+        >
+          <div>
+            <network network="email">
+              <i class="fas fa-envelope" /> Email
+            </network>
+            <network network="facebook">
+              <i class="fas fa-facebook" /> Facebook
+            </network>
+            <network network="googleplus">
+              <i class="fas fa-google-plus" /> Google +
+            </network>
+            <network network="line">
+              <i class="fa fa-line" /> Line
+            </network>
+            <network network="linkedin">
+              <i class="fa fa-linkedin" /> LinkedIn
+            </network>
+            <network network="odnoklassniki">
+              <i class="fa fa-odnoklassniki" /> Odnoklassniki
+            </network>
+            <network network="pinterest">
+              <i class="fa fa-pinterest" /> Pinterest
+            </network>
+            <network network="reddit">
+              <i class="fa fa-reddit" /> Reddit
+            </network>
+            <network network="skype">
+              <i class="fa fa-skype" /> Skype
+            </network>
+            <network network="sms">
+              <i class="fa fa-commenting-o" /> SMS
+            </network>
+            <network network="telegram">
+              <i class="fa fa-telegram" /> Telegram
+            </network>
+            <network network="twitter">
+              <i class="fa fa-twitter" /> Twitter
+            </network>
+            <network network="vk">
+              <i class="fa fa-vk" /> VKontakte
+            </network>
+            <network network="weibo">
+              <i class="fa fa-weibo" /> Weibo
+            </network>
+            <network network="whatsapp">
+              <i class="fa fa-whatsapp" /> Whatsapp
+            </network>
+          </div>
+        </social-sharing>
+      </div> -->
       <div class="comments">
         <div id="commento" />
         <script rel="noopener" defer async src="https://cdn.commento.io/js/commento.js" />

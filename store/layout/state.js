@@ -17,6 +17,10 @@ export default () => ({
     icon: 'mdi-bow-tie',
     title: 'Style'
   }, {
+    url: '/categories/productivity',
+    icon: 'mdi-format-list-checks',
+    title: 'Productivity'
+  }, {
     url: '/categories/inspiration',
     icon: 'mdi-lightbulb',
     title: 'Inspiration'

@@ -56,4 +56,4 @@ This is what you should get from this article:
 
 <br>
 
-> *There you have it! I hope you enjoyed it and be sure to share it with your friends and stay tuned for upcoming quality posts. Take care!*
+***There you have it! I hope you enjoyed it and be sure to share it with your friends and stay tuned for upcoming quality posts. Take care!***
