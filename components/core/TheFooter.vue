@@ -86,7 +86,7 @@ export default {
         url: 'https://medium.com/@RazvanTomegea'
       }, {
         icon: 'fab fa-twitter',
-        url: 'https://twitter.com/RazvanTomegea/lists/lifestyle-maniacs'
+        url: 'https://twitter.com/RazvanTomegea'
       }, {
         icon: 'fab fa-instagram',
         url: 'https://instagram.com/lifestylemaniacs'
