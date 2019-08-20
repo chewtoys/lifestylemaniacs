@@ -23,9 +23,6 @@
         max-width="48"
       />
     </n-link>
-    <v-toolbar-title>
-      {{ pageTitle }}
-    </v-toolbar-title>
     <v-spacer />
     <v-btn
       v-for="(link, i) in links"

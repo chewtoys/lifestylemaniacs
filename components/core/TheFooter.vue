@@ -14,7 +14,7 @@
             <h3 class="my-5">
               Who are we?
             </h3>
-            <p>We are a community dedicated to making an impact on peoples' lives through the power of habit and lifestyle. We right short and concise articles every week, sharing practical knowledge that every person can apply now.</p>
+            <p>We are a community dedicated to making an impact on peoples' lives through the power of habit and lifestyle. We right concise and practical articles about Health, Fitness, Food & Cooking, Style, Productivity, and Inspiration.</p>
           </v-flex>
           <v-flex
             class="px-10"
@@ -89,13 +89,16 @@ export default {
         url: 'https://twitter.com/RazvanTomegea'
       }, {
         icon: 'fab fa-instagram',
-        url: 'https://instagram.com/razvantomegea'
+        url: 'https://instagram.com/lifestylemaniacs'
       }, {
         icon: 'fab fa-patreon',
         url: 'https://patreon.com/razvantomegea'
       }, {
         icon: 'fab fa-pinterest',
         url: 'https://pinterest.com/lifestylemaniacs'
+      }, {
+        icon: 'fab fa-facebook',
+        url: 'https://facebook.com/lifestylemaniacs'
       }
     ],
     email: ''
