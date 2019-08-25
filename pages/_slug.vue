@@ -25,73 +25,116 @@
             aspect-ratio="1"
             gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
           />
+          <a
+            :href="article.imageCredit"
+            class="caption text-center"
+          >Image Credit</a>
         </div>
       </div>
       <div class="markdown">
         <vue-markdown>{{ article.markdown }}</vue-markdown>
       </div>
-      <!-- <div class="social-content">
+      <div class="social-content">
         <social-sharing
-          url="https://vuejs.org/"
-          title="The Progressive JavaScript Framework"
-          description="Intuitive, Fast and Composable MVVM for building interactive interfaces."
-          quote="Vue is a progressive framework for building user interfaces."
-          hashtags="vuejs,javascript,framework"
-          twitter-user="vuejs"
+          :url="link"
+          :title="article.title"
+          :description="article.description"
+          :quote="article.title"
+          :hashtags="article.category"
+          twitter-user="lifestylemaniacs"
           inline-template
         >
           <div>
-            <network network="email">
-              <i class="fas fa-envelope" /> Email
-            </network>
             <network network="facebook">
-              <i class="fas fa-facebook" /> Facebook
-            </network>
-            <network network="googleplus">
-              <i class="fas fa-google-plus" /> Google +
-            </network>
-            <network network="line">
-              <i class="fa fa-line" /> Line
-            </network>
-            <network network="linkedin">
-              <i class="fa fa-linkedin" /> LinkedIn
-            </network>
-            <network network="odnoklassniki">
-              <i class="fa fa-odnoklassniki" /> Odnoklassniki
-            </network>
-            <network network="pinterest">
-              <i class="fa fa-pinterest" /> Pinterest
-            </network>
-            <network network="reddit">
-              <i class="fa fa-reddit" /> Reddit
-            </network>
-            <network network="skype">
-              <i class="fa fa-skype" /> Skype
-            </network>
-            <network network="sms">
-              <i class="fa fa-commenting-o" /> SMS
-            </network>
-            <network network="telegram">
-              <i class="fa fa-telegram" /> Telegram
+              <v-btn
+                class="mx-4"
+                icon
+              >
+                <v-icon size="24px">
+                  fab fa-facebook
+                </v-icon>
+              </v-btn>
             </network>
             <network network="twitter">
-              <i class="fa fa-twitter" /> Twitter
+              <v-btn
+                class="mx-4"
+                icon
+              >
+                <v-icon size="24px">
+                  fab fa-twitter
+                </v-icon>
+              </v-btn>
             </network>
-            <network network="vk">
-              <i class="fa fa-vk" /> VKontakte
+            <network network="pinterest">
+              <v-btn
+                class="mx-4"
+                icon
+              >
+                <v-icon size="24px">
+                  fab fa-pinterest
+                </v-icon>
+              </v-btn>
             </network>
-            <network network="weibo">
-              <i class="fa fa-weibo" /> Weibo
+            <network network="linkedin">
+              <v-btn
+                class="mx-4"
+                icon
+              >
+                <v-icon size="24px">
+                  fab fa-linkedin
+                </v-icon>
+              </v-btn>
             </network>
             <network network="whatsapp">
-              <i class="fa fa-whatsapp" /> Whatsapp
+              <v-btn
+                class="mx-4"
+                icon
+              >
+                <v-icon size="24px">
+                  fab fa-whatsapp
+                </v-icon>
+              </v-btn>
+            </network>
+            <network network="telegram">
+              <v-btn
+                class="mx-4"
+                icon
+              >
+                <v-icon size="24px">
+                  fab fa-telegram
+                </v-icon>
+              </v-btn>
+            </network>
+            <network network="email">
+              <v-btn
+                class="mx-4"
+                icon
+              >
+                <v-icon size="24px">
+                  fas fa-envelope
+                </v-icon>
+              </v-btn>
             </network>
           </div>
         </social-sharing>
-      </div> -->
+        <!-- <v-btn
+          class="mx-4"
+          icon
+          @click="onCopyToClipboard"
+        >
+          <v-icon size="24px">
+            fas fa-link
+          </v-icon>
+        </v-btn> -->
+      </div>
       <div class="comments">
         <div id="commento" />
-        <script rel="noopener" defer async src="https://cdn.commento.io/js/commento.js" />
+        <script
+          rel="noopener"
+          defer
+          async
+          src="https://cdn.commento.io/js/commento.js"
+        />
       </div>
     </div>
   </v-container>
@@ -111,6 +154,9 @@ export default {
     }),
     image() {
       return this.article ? require(`~/assets/images/${this.article.id}/_main.jpg`) : '';
+    },
+    link() {
+      return `https://www.lifestylemanicas.com/${this.article.id}`;
     },
     pageTitle() {
       return `${this.article.title} - ${this.article.author}`;
@@ -152,7 +198,7 @@ export default {
       },
       {
         property: 'og:url',
-        content: `https://www.lifestylemanicas.com/${this.article.id}`
+        content: this.link
       },
       {
         name: 'twitter:description',
@@ -164,7 +210,7 @@ export default {
       },
       {
         name: 'twitter:url',
-        content: `https://www.lifestylemanicas.com/${this.article.id}`
+        content: this.link
       },
       {
         name: 'twitter:card',
@@ -172,13 +218,41 @@ export default {
       }
       ],
       link: [
-        `https://www.lifestylemanicas.com/${this.article.id}`
+        this.link
       ]
     };
   },
 
   transition: {
     name: 'slide-fade'
+  },
+
+  methods: {
+    onCopyToClipboard: async function ($event) {
+      try {
+        // 1) Copy text
+        navigator.clipboard.writeText(this.link).then();
+
+        // 2) Catch errors
+      } catch (err) {
+        // 1) Add the text to the DOM (usually achieved with a hidden input field)
+        const input = document.createElement('input');
+        document.body.appendChild(input);
+        input.value = this.link;
+
+        // 2) Select the text
+        input.focus();
+        input.select();
+
+        // 3) Copy text to clipboard
+        const isSuccessful = document.execCommand('copy');
+
+        // 4) Catch errors
+        if (!isSuccessful) {
+          console.error('Failed to copy text.');
+        }
+      }
+    }
   }
 }
 </script>
@@ -204,12 +278,16 @@ h1 {
   margin: 1rem 0;
 }
 
-h2, h3, h4, h5, h6 {
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 2rem 0 1rem 0;
 }
 
 h2 {
-  font-family: "Roboto", sans-serif !important;
+  font-family: 'Roboto', sans-serif !important;
   font-weight: 500;
   letter-spacing: 0.0073529412em !important;
   line-height: 2.5rem;
@@ -217,6 +295,13 @@ h2 {
 
 .cover {
   margin: 2rem 0;
+  text-align: center;
+}
+
+.social-content {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 0 24px 0;
 }
 
 .markdown {
@@ -224,8 +309,9 @@ h2 {
   margin-bottom: 2rem;
 }
 
-.subtitle-1, .subtitle-2 {
-    margin: 0 !important;
+.subtitle-1,
+.subtitle-2 {
+  margin: 0 !important;
 }
 
 blockquote {
@@ -259,8 +345,9 @@ blockquote {
     padding: 0 4%;
   }
 
-  h1, .cover {
-    margin: .5rem 0;
+  h1,
+  .cover {
+    margin: 0.5rem 0;
   }
 
   h2 {
