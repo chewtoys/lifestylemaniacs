@@ -6,6 +6,8 @@ createdOn: 'Aug 18, 2019'
 category: Productivity
 image: 'https://www.lifestylemaniacs.com/assets/images/the-morning-routines-to-success/_main.jpg'
 description: 'Morning is the most important part of the day. It sets our momentum for the rest of the day, so how we manage is crucial. We can set ourselves off either for success, either for failure.'
+imageCredit: 'Photo by Madison Nickel on Unsplash'
+imageCreditUrl: 'https://unsplash.com/photos/_8IxiAYWoGE'
 ---
 
 Morning is the most important part of the day. It sets our momentum for the rest of the day, so how we manage is crucial. We can set ourselves off either for success, either for failure.

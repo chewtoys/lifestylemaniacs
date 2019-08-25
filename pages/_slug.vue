@@ -26,9 +26,10 @@
             gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
           />
           <a
-            :href="article.imageCredit"
+            :href="article.imageCreditUrl"
             class="caption text-center"
-          >Image Credit</a>
+            target="_blank"
+          >{{ article.imageCredit }}</a>
         </div>
       </div>
       <div class="markdown">
@@ -294,7 +295,7 @@ h2 {
 }
 
 .cover {
-  margin: 2rem 0;
+  margin: 2rem 0 1rem 0;
   text-align: center;
 }
 
