@@ -17,10 +17,11 @@ It's time to eliminate the fitness industry bullshit and get old-school. Muscle 
 Only one motor neuron can innervate one or more muscle fibers of the same type. A motor neuron and its fibers are called a **motor unit.**
 
 There are three types of muscle fibers:
--   **Type I: slow-twitch/oxidative;**
--   **Type IIA: fast-twitch/oxidative;**
--   **Type IIB: fast-glycolytic.**
+- **Type I: slow-twitch/oxidative;**
+- **Type IIA: fast-twitch/oxidative;**
+- **Type IIB: fast-glycolytic.**
 
+<br>
 Type II are best suited to generating large amounts of force over a short period and are very sensitive to fatigue.
 Type I fibers are best suited to low-load, long-duration activities.
 
@@ -29,27 +30,29 @@ The size of the muscle determines the size of the muscle, not their number (gene
 The primary energy currency for all cells is **Adenosine Triphosphate (ATP)**.
 
 The **mitochondria** are responsible for producing ATP via:
--   **Phosphagen system** (anaerobic) - the breakdown of phosphocreatine (PC);
--   **Anaerobic glycolysis** (anaerobic);
--   **Oxidative phosphorylation** (aerobic) - Kreb's cycle and electron transport chain.
+- **Phosphagen system** (anaerobic) - the breakdown of phosphocreatine (PC);
+- **Anaerobic glycolysis** (anaerobic);
+- **Oxidative phosphorylation** (aerobic) - Kreb's cycle and electron transport chain.
+
+<br>
 
 ATP replenishment times:
--   20 sec - 50.00 %;
--   40 sec - 75.00 %;
--   1 min - 87.50 %;
--   80 sec - 93.75 %;
--   100 sec - 96.88 %;
--   2 mins - 98.44 %;
--   140 sec - 99.22 %;
--   160 sec - 99.61 %;
--   3 min - 99.81 %.
+- 20 sec - 50.00 %;
+- 40 sec - 75.00 %;
+- 1 min - 87.50 %;
+- 80 sec - 93.75 %;
+- 100 sec - 96.88 %;
+- 2 mins - 98.44 %;
+- 140 sec - 99.22 %;
+- 160 sec - 99.61 %;
+- 3 min - 99.81 %.
 
 ## Muscle Growth (Hypertrophy)
 There are two types of hypertrophy:
--   **Sarcoplasmic hypertrophy**;
--   **Sarcomere hypertrophy**.
+- **Sarcoplasmic hypertrophy**;
+- **Sarcomere hypertrophy**.
 
-
+<br>
 Sarcoplasmic hypertrophy means more tissue involved in energy supply and neural drive. Thus, more mitochondria, more enzymes, more ATP, and more endurance (mostly type I fibers).
 
 Sarcomere hypertrophy is an increase in the volume of contractile machinery - the highest potential for increasing muscle cell size and strength (mostly type II fibers).
@@ -59,12 +62,13 @@ Sarcomere hypertrophy is an increase in the volume of contractile machinery - th
 When this happens, stem cells around the muscle cells called **satellite cells** become similar to muscle cells and donate their nuclei to the muscle fibers.
 
 Hormones and growth factors are also produced as a result of cell damage:
--   **Insulin-like Growth Factor 1 (IGF-1);**
--   **Fibroblast Growth Factor (FGF);**
--   **Transforming Growth Factor -Beta Superfamily (TGF-beta);**
--   **Growth hormone (GH);**
--   **Testosterone.**
+- **Insulin-like Growth Factor 1 (IGF-1);**
+- **Fibroblast Growth Factor (FGF);**
+- **Transforming Growth Factor -Beta Superfamily (TGF-beta);**
+- **Growth hormone (GH);**
+- **Testosterone.**
 
+<br>
 The muscle fiber repair and growth lasts for several hours to several days, depending on the stress level.
 
 ## Efficient, targeted strength training
@@ -106,14 +110,15 @@ Be careful to **perform each repetition with proper form, no cheating, or ego li
 
 ## Best strength training exercises
 The best strength training exercises are unquestionably the **free weight compound movements:**
--   **Squats;**
--   **Deadlifts;**
--   **Bench Presses / Weighted Push-ups;**
--   **Parallel Dips;**
--   **Bent Over Rows**
--   **Pull-ups / Chin-Ups**
--   **Military Presses**
+- **Squats;**
+- **Deadlifts;**
+- **Bench Presses / Weighted Push-ups;**
+- **Parallel Dips;**
+- **Bent Over Rows**
+- **Pull-ups / Chin-Ups**
+- **Military Presses**
 
+<br>
 These should be the cornerstone of our training routine. You should add isolation exercises only you lack strength or size in specific muscle group areas.
 
 Try to avoid training to failure when training for strength to prevent nervous system burnout.
@@ -126,9 +131,10 @@ The muscle fibers need time to recover for efficient development. The recovery p
 For busy people who don't have much time to spend in the gym, **three weekly full-body training sessions based on compound exercises is enough**. This program also applies to small-boned/small-jointed people.
 
 Small-boned characteristics:
--   Wrist circumferences <10.5% of the height;
--   Ankle circumferences <13.0% of the height.
+- Wrist circumferences <10.5% of the height;
+- Ankle circumferences <13.0% of the height.
 
+<br>
 If you are not a fan of full-body training, you can experiment with different splits out there and see which one suits you.
 
 Keep in mind that regardless of the muscle group your training, all the body's systems are affected: glycogen, enzymes, ATP, CP, etc. Thus, the muscles may recover, but the other systems may still be fatigued.
@@ -136,13 +142,14 @@ Keep in mind that regardless of the muscle group your training, all the body's s
 Ideally, **a rest day should follow each training day.**
 
 Muscle fatigue is caused by:
+- Lactic acid accumulation;
+- ATP shortage;
+- PC shortage;
+- Inorganic phosphate accumulation;
+- Peripheral nervous system fatigue;
+- Central nervous system fatigue.
 
--   Lactic acid accumulation;
--   ATP shortage;
--   PC shortage;
--   Inorganic phosphate accumulation;
--   Peripheral nervous system fatigue;
--   Central nervous system fatigue.
+<br>
 
 The **training session should be for 45-75 minutes**.
 
@@ -151,11 +158,11 @@ For building muscle, we need **2g/kg of body weight of (complete) protein per da
 
 The primary focus of muscle building should be (organic) **whole foods** and not fitness supplements.
 Probably, the only supplements I recommend are:
+- **Creatine monohydrate** or complex;
+- **Multi-vitamins and multi-mineral complex** (extracted from natural food sources);
+- **Krill Oil** (Omega-3s).
 
--   **Creatine monohydrate** or complex;
--   **Multi-vitamins and multi-mineral complex** (extracted from natural food sources);
--   **Krill Oil** (Omega-3s).
-
+<br>
 Other supplements may be marketing bullshit and a waste of money.
 
 ## Other lifestyle factors
@@ -185,7 +192,6 @@ This is what you should get from this article:
 - scheduled good quality sleep;
 - 2-6L water per day;
 - relaxation (deep breathing, massage, meditation, etc.).
-
 
  ## Follow the white rabbit
  - [The Neuromuscular System Part I: What A Weight Trainer Needs To Know About Muscle](http://www.weightrainer.net/physiology/muscle1.html);
