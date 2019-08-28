@@ -154,10 +154,11 @@ Muscle fatigue is caused by:
 The **training session should be for 45-75 minutes**.
 
 ## Diet
-For building muscle, we need **2g/kg of body weight of (complete) protein per day, minimum 1g/kg of body weight of dietary fat per day,** and **10% caloric surplus**. Carbohydrates and dietary fats ratios depend on each individual.
+For building muscle, we need **minimum 2g/kg of body weight of (complete) protein per day, minimum 1g/kg of body weight of dietary fat per day,** and **10% caloric surplus**. Carbohydrates and dietary fats ratios depend on each individual; meal frequency as well.
 
 The primary focus of muscle building should be (organic) **whole foods** and not fitness supplements.
 Probably, the only supplements I recommend are:
+- Good quality **Complete protein powder** (e.g., whey, pea, hemp);
 - **Creatine monohydrate** or complex;
 - **Multi-vitamins and multi-mineral complex** (extracted from natural food sources);
 - **Krill Oil** (Omega-3s).
@@ -187,7 +188,7 @@ This is what you should get from this article:
 - train for 45-75 minutes;
 - ideally, rest day after every training day for full system recovery;
 - whole good quality food;
-- 1g/kg/day of complete protein;
+- min 1g/kg/day of complete protein;
 - min 1g/kg/day of dietary fat;
 - scheduled good quality sleep;
 - 2-6L water per day;
