@@ -174,7 +174,7 @@ This is what you should get from this article:
 - ideally, rest day after every training day for full system recovery;
 - whole good quality food;
 - 1g/kg/day of complete protein;
-- >1g/kg/day of dietary fat;
+- min 1g/kg/day of dietary fat;
 - scheduled good quality sleep;
 - 2-6L water per day;
 - relaxation (deep breathing, massage, meditation, etc.).
