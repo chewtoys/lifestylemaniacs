@@ -13,8 +13,6 @@ imageCreditUrl: 'https://unsplash.com/photos/TAZoUmDqzXk'
 It's time to eliminate the fitness industry bullshit and get old-school. Muscle building is all about science.
 
 ## Muscle Anatomy and Physiology
-![Muscle anatomy](/assets/images/the-ultimate-simplified-guide-to-building-muscle/muscle-fibers.png 'Muscle fibers')
-
 **Muscle fibers** compose the muscle and **myofibrils** compose a muscle fiber. The nervous system innervates muscle fibers via **motor neurons**.
 Only one motor neuron can innervate one or more muscle fibers of the same type. A motor neuron and its fibers are called a **motor unit.**
 
