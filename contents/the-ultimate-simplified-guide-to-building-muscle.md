@@ -5,7 +5,7 @@ id: 'the-ultimate-simplified-guide-to-building-muscle'
 createdOn: 'Aug 28, 2019'
 category: Fitness
 image: 'https://www.lifestylemaniacs.com/assets/images/the-ultimate-simplified-guide-to-building-muscle/_main.jpg'
-description: 'It's time to eliminate the fitness industry bullshit and get old-school. Muscle building is all about science.'
+description: 'It is time to eliminate the fitness industry bullshit and get old-school. Muscle building is all about science.'
 imageCredit: 'Photo by John Fornander on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/TAZoUmDqzXk'
 ---
@@ -13,8 +13,6 @@ imageCreditUrl: 'https://unsplash.com/photos/TAZoUmDqzXk'
 It's time to eliminate the fitness industry bullshit and get old-school. Muscle building is all about science.
 
 ## Muscle Anatomy and Physiology
-![Muscle anatomy](https://www.lifestylemaniacs.com/assets/images/the-ultimate-simplified-guide-to-building-muscle/muscle-fibers.png "Muscle anatomy")
-
 **Muscle fibers** compose the muscle and **myofibrils** compose a muscle fiber. The nervous system innervates muscle fibers via **motor neurons**.
 Only one motor neuron can innervate one or more muscle fibers of the same type. A motor neuron and its fibers are called a **motor unit.**
 
