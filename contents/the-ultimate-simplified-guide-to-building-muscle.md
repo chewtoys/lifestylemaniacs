@@ -49,6 +49,7 @@ There are two types of hypertrophy:
 -   **Sarcoplasmic hypertrophy**;
 -   **Sarcomere hypertrophy**.
 
+
 Sarcoplasmic hypertrophy means more tissue involved in energy supply and neural drive. Thus, more mitochondria, more enzymes, more ATP, and more endurance (mostly type I fibers).
 
 Sarcomere hypertrophy is an increase in the volume of contractile machinery - the highest potential for increasing muscle cell size and strength (mostly type II fibers).
