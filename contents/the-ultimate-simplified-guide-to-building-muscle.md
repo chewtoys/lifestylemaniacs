@@ -75,7 +75,10 @@ If our goals are to build muscle or/and strength, we need to lift heavy enough (
 |Type IIA|6-12|75-85%|4 - 0 - 3|
 |Type IIB|1-3|+90%|3 - 1 - 1|
 
+<br>
 Geekier:
+<br>
+
 |Training goal|Rep range|%1rep-max(1RM)|Rep cadence (Eccentric-Isometric-Concentric)|
 |--|--|--|--|
 |Type I sarcomere hypertrophy|15-50|<70%|2-0-1|
@@ -86,12 +89,17 @@ Geekier:
 |Type IIB sarcoplasmic hypertrophy|6-12|70-85%|3-1-1|
 |Absolute strength|1-2|>90%|3-1-1|
 
+<br>
 Briefly:
+<br>
+
 |Training goal|Sets|Reps per set|%1rep-max(1RM)|
 |--|--|--|--|
 |Maximum muscle size|3|6-12|75-85%|
 |Maximum strength|3-7|1-5|>85%|
 |Combined muscle and strength|3|3-12|75-90%|
+
+<br>
 
 Be careful to **perform each repetition with proper form, no cheating, or ego lifting.** Start with weights that you feel most confident you can perform 12-15 reps for the first set and increase from there.
 
@@ -177,6 +185,21 @@ This is what you should get from this article:
 - 2-6L water per day;
 - relaxation (deep breathing, massage, meditation, etc.).
 
+
+ ## Follow the white rabbit
+ - [The Neuromuscular System Part I: What A Weight Trainer Needs To Know About Muscle](http://www.weightrainer.net/physiology/muscle1.html);
+ - [The Neuromuscular System Part II: What A Weight Trainer Needs To Know About Muscle](http://www.weightrainer.net/physiology/muscle2.html);
+ - [The Neuromuscular System Part III: What A Weight Trainer Needs To Know About Muscle](http://www.weightrainer.net/physiology/muscle3.html);
+ - [Muscle Growth Part I: Why, And How, Does A Muscle Grow And Get Stronger?](http://www.weightrainer.net/physiology/growth1.html);
+ - [Muscle Growth Part II: Why, And How, Does A Muscle Grow And Get Stronger?](http://www.weightrainer.net/physiology/growth2.html);
+ - [Making A Strength/Size Routine Part I: Exercise Selection](http://www.weightrainer.net/training/selection.html);
+ - [Making A Strength/Size Routine Part II: Exercise Sequence](http://www.weightrainer.net/training/sequence.html);
+ - [Making A Strength/Size Routine Part III: Sets And Reps And How To Perform Them](http://www.weightrainer.net/training/reps.html);
+ - [Making A Strength/Size Routine Part IV: Training Frequency](http://www.weightrainer.net/training/frequency.html);
+ - [Making A Strength/Size Routine Part V: Splitting Your Routine](http://www.weightrainer.net/training/split.html);
+ - [The Rules of Productive Weight Training for The Drug-Free Trainee](http://www.weightrainer.net/training/rules.html);
+ - [The Rules of Productive Weight Training for The Drug-Free Trainee](https://youtu.be/agUmfvM4rjw);
+ - [The Truth About Rep Ranges & Building Muscle | Low vs Moderate vs High](https://youtu.be/yLR9rfuE6Sg).
 
 <br>
 

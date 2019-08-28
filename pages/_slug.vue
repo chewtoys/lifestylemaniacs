@@ -322,6 +322,12 @@ blockquote {
   padding: 16px 0 16px 24px;
 }
 
+thead tr:last-child th, tbody tr td {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  padding: 8px 16px;
+  text-align: center;
+}
+
 @media screen and (max-width: 1299px) {
   .article__content {
     padding: 0 20%;
