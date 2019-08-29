@@ -60,9 +60,9 @@ export default {
     '@nuxtjs/vuetify',
     '@nuxtjs/eslint-module',
     '@nuxtjs/style-resources',
-    // ['@nuxtjs/google-analytics', {
-    //   id: 'UA-104134573'
-    // }],
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-104134573'
+    }],
     '@nuxtjs/sitemap'
   ],
   /*
