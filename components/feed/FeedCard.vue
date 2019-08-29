@@ -18,8 +18,15 @@
       height="200px"
     />
     <v-card-text>
-      <v-chip router exact :to="`/categories/${article.category.toLowerCase()}`" color="lime">
-        {{ article.category }}
+      <v-chip
+        v-for="category of categories"
+        :key="category"
+        router
+        exact
+        :to="`/categories/${category}`"
+        color="lime"
+      >
+        {{ category }}
       </v-chip>
     </v-card-text>
     <v-card-actions>
@@ -40,6 +47,9 @@ export default {
     }
   },
   computed: {
+    categories() {
+      return this.article.categories.split(',').map(c => c.trim().toLowerCase())
+    },
     readingTime() {
       const contentString = JSON.stringify(this.article.markdown);
       const words = contentString.split(' ').length;

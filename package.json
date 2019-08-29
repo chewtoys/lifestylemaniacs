@@ -19,6 +19,7 @@
     "start:prod": "npm run build && nuxt start"
   },
   "dependencies": {
+    "@nuxtjs/google-analytics": "^2.2.0",
     "@nuxtjs/sitemap": "^1.2.0",
     "@nuxtjs/style-resources": "^0.1.2",
     "@nuxtjs/vuetify": "^1.1.1",

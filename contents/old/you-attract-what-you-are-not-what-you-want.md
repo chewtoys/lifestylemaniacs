@@ -1,7 +1,7 @@
 ---
 title: You attract what you are not what you want
 type: quote
-category: Life
+categories: Life
 tags:
   - Quotes
 date: 2017-09-24 18:44:57

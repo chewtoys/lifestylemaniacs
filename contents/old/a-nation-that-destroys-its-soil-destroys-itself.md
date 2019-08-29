@@ -5,7 +5,7 @@ imageDescription: Two people in a green meadow with sparse trees during sunset
 imageUrl: /images/les-anderson-253719.jpg
 title: A nation that destroys its soils destroys itself. Forests are the lungs of our land, purifying the air and giving fresh strength to our people.
 type: quote
-category: Life
+categories: Life
 tags:
   - Quotes
 date: 2017-11-28 10:25:21

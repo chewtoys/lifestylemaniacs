@@ -3,7 +3,7 @@ author: Razvan Tomegea
 imageUrl: /images/chicken-stew.jpg
 title: Creamy mushroom fish stew
 type: recipe
-category: Food and cooking
+categories: Food and cooking
 tags:
   - Food
 prepTime: PT60M

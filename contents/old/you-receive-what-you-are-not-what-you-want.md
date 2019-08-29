@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/mG28olYFgHI
 imageDescription: When you change the way you look at things, the things you look at change.
 imageUrl: /images/ross-findon-303091.jpg
 type: article
-category: Life
+categories: Life
 tags:
 - Inspiration
 - Self-improvement

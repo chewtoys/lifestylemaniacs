@@ -2,7 +2,7 @@
 author: Razvan Tomegea
 title: Broccoli cheese bake
 type: recipe
-category: Food and cooking
+categories: Food and cooking
 tags:
   - Food
 prepTime: PT60M

@@ -4,7 +4,7 @@ title: >-
   I am not who you think I am; I am not who I think I am; I am who I think you
   think I am.
 type: quote
-category: Life
+categories: Life
 tags:
   - Quotes
 date: 2017-08-31 16:07:22

@@ -9,7 +9,7 @@ imageDescription: Basket, vegeatble, fresh, groceries, and avocado
 imageUrl: "/images/Basket, vegeatble, fresh, groceries, and avocado.jpg"
 description: What is the reason we eat and what is the purpose of food
 type: article
-category: Food and cooking
+categories: Food and cooking
 tags:
 - Inspiration
 - Nutrition

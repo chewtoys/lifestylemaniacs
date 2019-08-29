@@ -7,7 +7,7 @@ title: >-
   Everybody is a genius. But if you judge a fish by its ability to climb a tree,
   it will live its whole life believing that it is stupid.
 type: quote
-category: Life
+categories: Life
 tags:
   - Quotes
 date: 2017-11-30 16:23:04

@@ -18,7 +18,7 @@ const actions = {
           ...a.attributes,
           markdown: a.body
         }))
-        .filter(a => a.category.toLowerCase().includes((filter || '').toLowerCase()))
+        .filter(a => a.categories.toLowerCase().includes((filter || '').toLowerCase()))
     });
   },
   async readArticle({ commit, state, dispatch }, id) {

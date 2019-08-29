@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/xVj4deSf_Xc
 imageDescription: Changing tone
 imageUrl: /images/dev-dodia-327647.jpg
 description: Regular smart exercise improves overall health, well-being, and longevity, but doesn't increase weight loss.
-category: Health and fitness
+categories: Health and fitness
 tags:
 - Exercise
 ---

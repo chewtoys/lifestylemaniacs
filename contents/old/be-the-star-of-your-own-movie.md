@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/search/photos/movie?photo=CiUR8zISX60
 imageDescription: Slate it
 imageUrl: "/images/Slate it.jpg"
 type: article
-category: Life
+categories: Life
 tags:
 - Inspiration
 - Motivation

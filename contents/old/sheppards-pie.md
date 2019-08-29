@@ -2,7 +2,7 @@
 author: Razvan Tomegea
 title: Sheppard's pie
 type: recipe
-category: Food and cooking
+categories: Food and cooking
 tags:
   - Food
 prepTime: PT60M

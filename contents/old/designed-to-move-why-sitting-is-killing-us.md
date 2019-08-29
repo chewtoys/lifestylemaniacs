@@ -8,7 +8,7 @@ imageCredit: https://unsplash.com/photos/b_u5u5-Jj_M
 imageDescription: Field, hill, tree, and cloud
 imageUrl: /images/sho-hatakeyama-117306.jpg
 type: artilce
-category: Health and fitness
+categories: Health and fitness
 tags:
 - Exercise
 ---

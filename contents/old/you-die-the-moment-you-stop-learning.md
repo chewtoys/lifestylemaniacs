@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/sfL_QOnmy00
 imageDescription: Library with hanging bulbs
 imageUrl: /images/janko-ferlic-174927.jpg
 description: You are never too old to learn something new. If you're not thriving, you're dying.
-category: Life
+categories: Life
 tags:
 - Inspiration
 ---

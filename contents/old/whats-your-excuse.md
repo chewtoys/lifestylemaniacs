@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/mRMQwK513hY
 imageDescription: Never stop
 imageUrl: /images/fab-lentz-253417.jpg
 description: Your life is your responsability
-category: Life
+categories: Life
 tags:
 - Inspiration
 - Motivation

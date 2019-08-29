@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/j_Ch0mwBNds
 imageDescription: Medieval armor
 imageUrl: /images/henry-hustava-81799.jpg
 type: article
-category: Health and fitness
+categories: Health and fitness
 tags:
 - Nutrition
 ---

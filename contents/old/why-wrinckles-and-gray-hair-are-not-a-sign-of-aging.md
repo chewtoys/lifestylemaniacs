@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/cKT0oJL9vMI
 imageDescription: Old man with wrinkle face and gray hair looking out and using a hearing aid.
 imageUrl: /images/jd-mason-128089.jpg
 description: Wrinckles and gray hair are sign of unhealthiness
-category: Health and fitness
+categories: Health and fitness
 tags:
 - Inspiration
 ---

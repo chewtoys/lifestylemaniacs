@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/_r19nfvS3wY
 imageDescription: Hiker on a log
 imageUrl: /images/jon-flobrant-1362.jpg
 description: The best exercise humans have forgotten to do every day
-category: Health and fitness
+categories: Health and fitness
 tags:
 - Exercise
 ---

@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/PexhZ5-3Gb0
 imageDescription: Two people in a green meadow with sparse trees during sunset
 imageUrl: /images/les-anderson-253719.jpg
 description: Criticism is a part of the process of becoming successfull
-category: Life
+categories: Life
 tags:
 - Inspiration
 - Motivation

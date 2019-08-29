@@ -9,7 +9,7 @@ imageDescription: Forking forest path
 imageUrl: /images/jens-lelie-15662.jpg
 description: Are we creators of our own life or is our life written ever since we are born?
 type: article
-category: Life
+categories: Life
 tags:
 - Inspiration
 ---

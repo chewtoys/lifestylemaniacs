@@ -2,7 +2,7 @@
 author: Razvan Tomegea
 title: Gluten-free spinach cheese pizza
 type: recipe
-category: Food and cooking
+categories: Food and cooking
 tags:
   - Food
 prepTime: PT30M

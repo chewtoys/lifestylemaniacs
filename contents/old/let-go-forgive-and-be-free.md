@@ -8,7 +8,7 @@ imageCredit: https://unsplash.com/photos/HZAcR-tDSCI
 imageDescription: Flying bird
 imageUrl: /images/alistair-dent-55440.jpg
 type: article
-category: Life
+categories: Life
 tags:
 - Inspiration
 ---

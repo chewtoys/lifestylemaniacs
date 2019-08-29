@@ -9,7 +9,7 @@ imageCredit: http://sphweb.bumc.bu.edu/otlt/mph-modules/hpm/americanhealthcare_o
 imageDescription: Health system
 imageUrl: /images/health-system.jpg
 description: The health system is a business influenced by the food and pharmaceutical industry
-category: Health and fitness
+categories: Health and fitness
 tags:
 - Nutrition
 - Inspiration

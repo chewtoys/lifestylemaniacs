@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/6wgaW60CWQU
 imageDescription: Looking out window, cold, window and boat window
 imageUrl: /images/dylan-mcleod-246451.jpg
 description: We don't get sick because of cold weather, but because we spend less time outside
-category: Health and fitness
+categories: Health and fitness
 tags:
 - Exercise
 - Nutrition

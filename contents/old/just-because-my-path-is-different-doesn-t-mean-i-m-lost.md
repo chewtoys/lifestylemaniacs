@@ -1,7 +1,7 @@
 ---
 title: Just because my path is different doesn't mean I'm lost
 type: quote
-category: Life
+categories: Life
 tags:
   - Quotes
 date: 2017-08-31 17:07:04

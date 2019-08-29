@@ -7,7 +7,7 @@ imageDescription: Office, desk, workspace, business, and computer
 imageUrl: "/images/Office, desk, workspace, business, and computer.jpg"
 title: Building a cross-platform full authentication system with Ionic 3 and Firebase
 date: 2017-10-14 13:09:36
-category: Web development
+categories: Web development
 tags:
 - Angular
 ---

@@ -1,7 +1,7 @@
 ---
 title: We fall in love by chance and stay in love by choice
 type: quote
-category: Life
+categories: Life
 tags:
   - Quotes
 date: 2017-09-23 14:21:40

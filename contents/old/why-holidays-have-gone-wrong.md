@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/mVhd5QVlDWw
 imageDescription: London Underground atrium
 imageUrl: /images/anna-dziubinska-348.jpg
 description: Today, the focus is on cleaning and decorating the external environment and no longer about cleaning and decorating your inner environment - mind and soul.
-category: Life
+categories: Life
 tags:
 - Inspiration
 ---

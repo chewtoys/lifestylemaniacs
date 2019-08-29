@@ -5,7 +5,7 @@ imageDescription: Two people in a green meadow with sparse trees during sunset
 imageUrl: /images/les-anderson-253719.jpg
 title: 'The more you know about exercise, the less complicated the equipment you need.'
 type: quote
-category: Life
+categories: Life
 tags:
   - Quotes
 date: 2018-03-04 08:58:56

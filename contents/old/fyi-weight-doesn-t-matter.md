@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/OJZVjMYUMdY
 imageDescription: Kyiv city body portrait
 imageUrl: /images/olenka-kotyk-75206.jpg
 description: BMI is not an indicator of fitness or obesity
-category: Health and fitness
+categories: Health and fitness
 tags:
 - Nutrition
 - Exercise

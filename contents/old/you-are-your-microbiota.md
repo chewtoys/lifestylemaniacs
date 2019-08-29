@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/Y6T1a4gU4ss
 imageDescription: Hands, dirt, soil, and root
 imageUrl: /images/kyle-ellefson-196125.jpg
 description: Eat clean, live dirty
-category: Health and fitness
+categories: Health and fitness
 tags:
 - Exercise
 - Nutrition

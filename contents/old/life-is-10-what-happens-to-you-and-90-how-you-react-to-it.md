@@ -1,7 +1,7 @@
 ---
 title: Life is 10% what happens to you and 90% how you react to it
 type: quote
-category: Life
+categories: Life
 tags:
   - Quotes
 date: 2017-09-24 18:44:57

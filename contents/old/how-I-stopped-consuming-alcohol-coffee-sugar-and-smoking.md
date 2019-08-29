@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/pZld9PiPDno
 imageDescription:
 imageUrl: /images/jose-fontano-246362.jpg
 description: It doesn’t really matter the substance or activity you are engaging into; as long as it is reinforcing, rewarding, and you need it in order to feel good, otherwise, you are incapable of sustaining day to day activities, you are addicted, my friend.
-category: Life
+categories: Life
 tags:
 - Inspiration
 ---

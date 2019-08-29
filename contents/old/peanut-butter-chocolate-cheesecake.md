@@ -2,7 +2,7 @@
 author: Razvan Tomegea
 title: Peanut butter chocolate cheesecake
 type: recipe
-category: Food and cooking
+categories: Food and cooking
 tags:
   - Food
 prepTime: PT45M

@@ -1,7 +1,7 @@
 ---
 title: When you start seeing your worth, you’ll find it harder to stay around people who don’t.
 type: quote
-category: Life
+categories: Life
 tags:
   - Quotes
 date: 2017-09-23 14:33:41

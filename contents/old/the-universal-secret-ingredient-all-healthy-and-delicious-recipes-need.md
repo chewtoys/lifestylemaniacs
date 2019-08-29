@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/collections/1135471/cooking?photo=WWSX6yJlh5E
 imageDescription: An elderlly village woman cooking
 imageUrl: /images/joshua-newton-146007.jpg
 description: Love and deciation are the secret ingredients for healthy and delicious recipes.
-category: Life
+categories: Life
 tags:
 - Nutrition
 - Self-improvement

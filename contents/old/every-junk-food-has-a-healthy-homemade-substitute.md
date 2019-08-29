@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/jZvlT-FvTZM
 imageDescription: Cravings photo
 imageUrl: /images/brooke-lark-272277.jpg
 description: You can have all the cakes, cookies, biscuits, burgers, french fries, crackers, muffins, pancakes, chocolate you want; just make them yourself with natural ingredients.
-category: Health and fitness
+categories: Health and fitness
 tags:
 - Nutrition
 ---

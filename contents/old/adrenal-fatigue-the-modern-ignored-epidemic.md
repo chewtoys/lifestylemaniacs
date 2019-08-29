@@ -9,7 +9,7 @@ imageCredit: https://unsplash.com/photos/irVfITbMJZw
 imageDescription: MX MADNESS
 imageUrl: /images/asdrubal-luna-485688-unsplash.jpg
 description: Having problems waking up in the morning and still feeling tired even after 8-10 hours of sleep? Craving salty foods like potato chips, toasted nuts, spiced fast-foods, and snacks? Feeling tired and lethargic all the time? Do day to day (simple) life activities seem like "Mission Impossible"? Having low sex drive? Have you become anxious, irritable, angry, and respond negatively to nearly everything? Do you rely on alcohol, caffeine, drugs, and smoking to calm down? Having problems with binge or emotional eating? Are you prone to illness, injury, or trauma and recover slowly? Feeling light-headed when standing up quickly? Have you become depressed, pessimistic, and have stopped enjoying life? Have digestive problems like bloating, flatulence, diarrhea, constipation, or cramps? Craving chocolate and relying on sugary drinks and sweet processed snacks to keep you going and then crash again? Losing muscle mass or/and gaining fat, especially around your waist? Feeling unfocused, unproductive, and have racing thoughts? Do you frequently forget what you were going to do? Do you notice an increased energy boost in the evening?
-category: Health and fitness
+categories: Health and fitness
 tags:
 - Nutrition
 - Exercise

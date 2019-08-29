@@ -9,7 +9,7 @@ imageDescription: Boy on mountain cliff
 imageUrl: /images/leio-mclaren-299136.jpg
 description:
 type: article
-category: Life
+categories: Life
 tags:
 - Inspiration
 - Motivation

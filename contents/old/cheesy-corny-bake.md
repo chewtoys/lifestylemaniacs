@@ -7,7 +7,7 @@ description: Cheese eggs cornflakes recipe
 date: 2017-08-20 11:52:36
 updated: 2017-08-20 11:52:36
 type: recipe
-category: Food and cooking
+categories: Food and cooking
 tags:
 - Food
 prepTime: PT30M
