@@ -66,6 +66,10 @@ export default {
 }
 </script>
 <style scoped lang="scss">
+  .v-card__text .v-chip {
+    margin: 0 6px 0 0;
+  }
+
   @media screen and (max-width: 599px) {
     .v-list-item__subtitle, .v-list-item__title {
       white-space: initial !important;

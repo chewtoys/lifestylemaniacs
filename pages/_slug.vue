@@ -41,7 +41,7 @@
           :title="article.title"
           :description="article.description"
           :quote="article.title"
-          :hashtags="article.categories.split(',').map(c => c.trim().toLowerCase())"
+          :hashtags="article.categories.toLowerCase()"
           twitter-user="lifestylemaniacs"
           inline-template
         >
