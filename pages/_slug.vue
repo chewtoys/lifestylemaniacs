@@ -308,6 +308,14 @@ h2 {
 .markdown {
   line-height: 1.7;
   margin-bottom: 2rem;
+
+  h1 {
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 500 !important;
+    letter-spacing: 0.0073529412em !important;
+    line-height: 2.5rem !important;
+    margin: 2rem 0 1rem 0 !important;
+  }
 }
 
 .subtitle-1,
@@ -357,7 +365,7 @@ thead tr:last-child th, tbody tr td {
     margin: 0.5rem 0;
   }
 
-  h2 {
+  .markdown h1, .markdown h2 {
     line-height: 2rem;
     letter-spacing: normal !important;
   }
