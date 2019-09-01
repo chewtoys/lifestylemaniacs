@@ -114,7 +114,7 @@ The best substitute for a sweet tooth is undoubtedly **fresh fruit**.
 
 But let's get real, we cannot deprive ourselves completely from sugars. The important thing is to identify the sources with high amounts and eliminate them. Probably the **worst sugar and sweetener sources are beverages**, and those should be substituted with water.
 
-If you are sedentary and have metabolic issues, you should quit sugar and sweetener consumption altogether. Otherwise, **a tablespoon of raw honey a day** should be enough; honey is also extremely honey in small daily amounts.
+If you are sedentary and have metabolic issues, you should quit sugar and sweetener consumption altogether. Otherwise, a tablespoon of **raw honey** a day should be enough; honey is also extremely honey in small daily amounts. The safest sweetener out there is **stevia**, which is safe in small amounts (one teaspoon per day).
 
 Nevertheless, **start small**. Eliminate sugar in baby steps not entirely from the beginning.
 
@@ -170,7 +170,7 @@ Generally, if it is extracted from a plant nut, seed, bean, or grain, avoid it.
 
 # Summary
 - Limit or stay away (if possible) added sugars and artificial sweeteners;
-- One tablespoon of honey per day is excellent;
+- 1 tbsp. of honey or 1 tsp. of stevia per day is excellent;
 - Stay away from nut, seed, bean, or grain oils;
 - Use animal fats and coconut oils for cooking and avocados and extra-virgin olive oil for salads.
 
