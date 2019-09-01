@@ -169,10 +169,10 @@ Generally, if it is extracted from a plant nut, seed, bean, or grain, avoid it.
 
 
 # Summary
-- Limit or stay away (if possible) added sugars and artificial sweeteners;
-- 1 tbsp. of honey or 1 tsp. of stevia per day is excellent;
+- Limit (or stay away if possible) added sugars and artificial sweeteners;
+- 1 tbsp. of raw honey or 1 tsp. of stevia per day is excellent;
 - Stay away from nut, seed, bean, or grain oils;
-- Use animal fats and coconut oils for cooking and avocados and extra-virgin olive oil for salads.
+- Use animal fats and coconut oil for cooking and avocados and extra-virgin olive oil for salads.
 
 # Follow the white rabbit:
 
