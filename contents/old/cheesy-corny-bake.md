@@ -31,7 +31,7 @@ sodiumContent: 1455mg
 **Cooking method**: Baking;
 **Servings**: 6 X 500g.
 
-## Ingredients
+# Ingredients
 - 300g corn flakes (4RON);
 - 500g cottage cheese (8RON);
 - 500g mozzarella, ricotta cheese, telemea cheese, caș, burduf cheese, or any cheese you like (12RON);
@@ -42,7 +42,7 @@ sodiumContent: 1455mg
 - pepper by taste (1tsp) (negligible price).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Blend/Mix the cheese and eggs;
 2. Process the peppers and tomatoes;
 3. Combine the two mixtures and add the corn flakes, salt and pepper;
@@ -50,8 +50,8 @@ sodiumContent: 1455mg
 5. Line a baking pan with baking sheet and preheat the oven at 180&deg;C (356&deg;F);
 6. Let it cook for 30-45 minutes until a bronze crust has formed.
 
-## Nutrition facts
-### Energy & macronutrients
+# Nutrition facts
+## Energy & macronutrients
 - **Calories**: 763kcal;
 - **Protein**: 46g;
 - **Fat**: 41g;
@@ -60,7 +60,7 @@ sodiumContent: 1455mg
 - **Fiber**: 6g;
 - **Sugars**: 10g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 0.94g;
 - **Isoleucine**: 1.81g;
 - **Leucine**: 3.28g;
@@ -70,7 +70,7 @@ sodiumContent: 1455mg
 - **Threonine**: 1.52g;
 - **Tryptophan**: 0.45g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 247.38ug;
 - **Vitamin B1 (Thiamine)**: 0.07mg;
 - **Vitamin B2 (Riboflavin)**: 0.1mg;
@@ -85,7 +85,7 @@ sodiumContent: 1455mg
 - **Vitamin E (Tocopherol)**: 1.23mg;
 - **Vitamin K**: 4.19ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 545.38mg;
 - **Copper**: 0.24mg;
 - **Iron**: 3.29mg;
@@ -97,7 +97,7 @@ sodiumContent: 1455mg
 - **Sodium**: 1455mg;
 - **Zinc**: 3.66mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.39g;
 - **Linoleic acid (LA Omega-6)**: 1.88g.
 

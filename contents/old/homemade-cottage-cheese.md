@@ -31,17 +31,17 @@ cookingMethod: Raw
 **Cooking method**: Raw;
 **Servings**: 5 X 100g.
 
-## Ingredients
+# Ingredients
 - 4L whole raw cow milk (20RON).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Put the milk into a pot and let it stay at room temperature for 24-48 hours, depending on the season (during warm seasons, its suffice for 24 hours);
 2. Put the pan at very very low heat (below 100&deg;C (212&deg;F)) and let it stay until you see a separation of the fluid from the cheese(about 60 minutes);
 3. Using a strainer, drain the entire fluid, according to how soft you want the cheese to be.
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 98kcal;
 - **Protein**: 11.12g;
 - **Fat**: 4.3g;
@@ -50,7 +50,7 @@ cookingMethod: Raw
 - **Fiber**: 0g;
 - **Sugars**: 2.67g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 0.24g;
 - **Isoleucine**: 0.44g;
 - **Leucine**: 0.84g;
@@ -60,7 +60,7 @@ cookingMethod: Raw
 - **Threonine**: 0.38g;
 - **Tryptophan**: 0.11g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 27.75ug;
 - **Vitamin B1 (Thiamine)**: 0.02mg;
 - **Vitamin B2 (Riboflavin)**: 0.12mg;
@@ -75,7 +75,7 @@ cookingMethod: Raw
 - **Vitamin E (Tocopherol)**: 0.06mg;
 - **Vitamin K**: 0ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 62.25mg;
 - **Copper**: 0.02mg;
 - **Iron**: 0.05mg;
@@ -87,7 +87,7 @@ cookingMethod: Raw
 - **Sodium**: 0mg;
 - **Zinc**: 0.3mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.01g;
 - **Linoleic acid (LA Omega-6)**: 0.08g.
 

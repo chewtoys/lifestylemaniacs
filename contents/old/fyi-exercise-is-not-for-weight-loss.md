@@ -15,22 +15,22 @@ tags:
 ---
 When people hear the word *exercise* they automatically think of weight loss. That is the reason why I rarely see skinny people exercise or why people start to exercise when they gain weight (usually after holidays). I can't blame them, though; I was one of them! I was actually the worst exercise maniac I have ever met in my life. I suffered from exercise bulimia, because of my past trauma being overweight. There was time when I exercised 90 minutes in the morning and then did 3h of power walking (18 km) during the same day. Surprisingly, I found no correlation between increased exercise and weight loss. Au contraire, I actually did gain more body fat and felt terrible. Again, everything in excess is opposed to nature, as our dear Hippocrates said, and exercise done smartly has tremendous benefits for our health, none of which is weight loss.<!-- more -->
 
-## Metabolism
+# Metabolism
 Here's the thing. When you exercise, you are increasing your muscle activity, heart rate, and energy utilization. This automatically accelerates enzymatic activities, oxygenation, and nutrient metabolism in the cells, hence, metabolic activities increase.
 
-## Energy
+# Energy
 As I said, exercise increases cell oxygenation and oxygen equals energy. Also, because metabolic activities are increasing, the energy management in improved as well.
 
-## Detoxification
+# Detoxification
 When the cell metabolism is increased, it doesn't only increase nutrient utilization but also increases waste products (toxins) removals in the form of carbon dioxide (CO2). Carbon dioxide is the main form of toxin removal and exercise doesn't only increase oxygen uptake, but, at the same time, increases carbon dioxide elimination.
 
-## Cardiovascular health
+# Cardiovascular health
 Remember this: **if you are exercising and not breathing correctly or the environment doesn't provide fresh air, you are wasting your time**. The exercise benefits come from complete and correct breathing, hence, the cardiovascular improvements.
 
-## Immunity
+# Immunity
 Exercise pumps the lymph, which is normally static. The only way to make the lymph move and clean is by vigorous activity. The lymphatic system is a part of the immune system (circulatory system) and is responsible for destroying foreign invaders (pathogens) and cancer cells, for filtering toxins and waste products, and for carrying nutrients, hormones, immune cells, antibodies. It is considered the body's "sewerage system". Exercise is the only way to get the lymph on the move, increase nutrient delivery, and help it fight pathogens and eliminate the accumulated toxins.
 
-## Cognition
+# Cognition
 The brain is the organ with the biggest requirement of oxygen, as I described in [an article](https://www.razvantomegea.com/2017/10/26/the-true-reason-you-get-sick-in-winter/) about the importance of outdoor exercise and the consequences of unrefreshed rooms.
 Exercise increases oxygen delivery to the brain and increases neural activity. Which is why I encourage all parents to take their children to sports in parallel with school.
 
@@ -38,34 +38,34 @@ When I was in primary school and played handball, some of my parents didn't come
 
 Trust me, if you want to retain more information, easier, think more clearly, and get more things done better exercise!
 
-## Sleep
+# Sleep
 Exercise, especially done in the morning, has been shown to improve the quality and quantity of sleep. This is because of the increased body oxygenation and circadian rhythm (biological clock) adjustment.
 
 I have to tell you, exercise is one of my morning routines and believes me, my sleep is superb!
 
-## Mood enhancement
+# Mood enhancement
 I bet you heard about the "runner's high", right? The science behind this is exercise increases serotonin production, the neurotransmitter responsible for happiness and euphoria.
 Also, happiness and well-being are directly dependent on the quality of sleep, and sleep improves sleep, as I mentioned previously.
 
 Our mood is also dependent on our stress response. Exercise helps us relax and manage our stress response and anxiety, which is a major problem nowadays. I had anxiety issues in the past and regular panic attacks, but I succeeded to manage them by exercising regulary and sleeping well.
 
-## Longevity
+# Longevity
 Exercise has been shown to decrease telomere shortening or even increase them. In her book, “<a target="_blank" href="https://www.amazon.com/gp/product/1455587974/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1455587974&linkCode=as2&tag=razvantomegea-20&linkId=7f24c67ced9953c085448a404ded3151">The Telomere Effect: A Revolutionary Approach to Living Younger, Healthier, Longer</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=razvantomegea-20&l=am2&o=1&a=1455587974" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />” Nobel Prize-winning molecular biologist Elizabeth Blackburn reveals how telomeres are strictly correlated to longevity and health and exercise has a positive effect on telomeres.
 
-## Muscles and bones
+# Muscles and bones
 You know there is a quote: "if you don't use them, you lose them". Exercise doesn't only put your muscle and bones on the move, but also increases nutrient transport and utilization to them, and stimulates growth hormone. Growth hormone, a.k.a. "youth hormone", increases lean muscle mass and bone density. As its name implies, it accelerates growth. This is why children and teenagers have such an accelerated metabolism and growth: they have huge amounts of growth hormone and growth factors.
 
-## Fat Burn
+# Fat Burn
 Ok, you may be wondering know if I contradict myself and I don't. **Fat loss is totally different from weight loss**. As I explained in my [previous article](https://www.razvantomegea.com/2017/12/07/fyi-weight-doesn-t-matter/), you may lose fat, but gain weight.
 When it comes to health and fitness, your goal should be fat loss, not weight loss.
 High-intensity exercise boosts growth hormone and adrenaline (epinephrine), which put you in a fat burning state. Also, as I explained in an [article about walking](https://www.razvantomegea.com/2017/11/29/the-best-exercise-for-humans/), low-intensity aerobic exercise lowers blood glucose and insulin levels and prevents you from storing fat. Thus, energy deposits in the form of glycogen and adipose tissue are converted to glucose, which directly travels to the working muscles, further increasing lean muscle mass and density, and also weight, because muscles are heavier than fat.
 
 You can check the series of ["How Do We Gain Weight?"](https://idmprogram.com/how-do-we-gain-weight-calories-part-1/), where it takes a deep dive into the physiology of energy management (fat gain/loss) and how exercise doesn't help you lose weight.
 
-## Self-esteem and confidence
+# Self-esteem and confidence
 Let's be honest: regular exercise involves discipline. Discipline along with all the benefits above increase your self-esteem and confidence.
 
-## References:
+# References:
 - [Kristin I. Stanford, Roeland J.W. Middelbeek, and Laurie J. Goodyear, "Erratum. Exercise Effects on White Adipose Tissue: Beiging and Metabolic Adaptations", Diabetes 2015 Sep; 64(9): 3334-3334](http://diabetes.diabetesjournals.org/content/64/9/3334.1)
 - [Kirsten Weir, American Psychological Association, "The exercise effect", December 2011, Vol 42, No. 11](http://www.apa.org/monitor/2011/12/exercise.aspx)
 - [Puetz TW, Flowers SS, O'Connor PJ., "A randomized controlled trial of the effect of aerobic exercise training on feelings of energy and fatigue in sedentary young adults with persistent fatigue.", Psychother Psychosom. 2008;77(3):167-74. doi: 10.1159/000116610. Epub 2008 Feb 14.](https://www.ncbi.nlm.nih.gov/pubmed/18277063)

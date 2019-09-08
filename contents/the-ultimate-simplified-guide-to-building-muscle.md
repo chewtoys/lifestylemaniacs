@@ -12,7 +12,7 @@ imageCreditUrl: 'https://unsplash.com/photos/TAZoUmDqzXk'
 
 It's time to eliminate the fitness industry bullshit and get old-school. Muscle building is all about science.
 
-## Muscle Anatomy and Physiology
+# Muscle Anatomy and Physiology
 **Muscle fibers** compose the muscle and **myofibrils** compose a muscle fiber. The nervous system innervates muscle fibers via **motor neurons**.
 Only one motor neuron can innervate one or more muscle fibers of the same type. A motor neuron and its fibers are called a **motor unit.**
 
@@ -47,7 +47,7 @@ ATP replenishment times:
 - 160 sec - 99.61 %;
 - 3 min - 99.81 %.
 
-## Muscle Growth (Hypertrophy)
+# Muscle Growth (Hypertrophy)
 There are two types of hypertrophy:
 - **Sarcoplasmic hypertrophy**;
 - **Sarcomere hypertrophy**.
@@ -71,7 +71,7 @@ Hormones and growth factors are also produced as a result of cell damage:
 <br>
 The muscle fiber repair and growth lasts for several hours to several days, depending on the stress level.
 
-## Efficient, targeted strength training
+# Efficient, targeted strength training
 If our goals are to build muscle or/and strength, we need to lift heavy enough (tension ) and for adequate time. But what is sufficient and enough? Let's see:
 
 |Fiber type|Rep range|%1rep-max(1RM)|Rep cadence (Eccentric-Isometric-Concentric)|
@@ -108,7 +108,7 @@ Briefly:
 
 Be careful to **perform each repetition with proper form, no cheating, or ego lifting.** Start with weights that you feel most confident you can perform 12-15 reps for the first set and increase from there.
 
-## Best strength training exercises
+# Best strength training exercises
 The best strength training exercises are unquestionably the **free weight compound movements:**
 - **Squats;**
 - **Deadlifts;**
@@ -125,7 +125,7 @@ Try to avoid training to failure when training for strength to prevent nervous s
 
 Constantly progress or change the workout routines, because the body adapts. Constantly change the exercises and increase intensity/weights when you feel you reached a plateau.
   
-## Training frequency
+# Training frequency
 The muscle fibers need time to recover for efficient development. The recovery process and anabolic period last for 48-72 hours. For this reason, we must **train each muscle group 2-3 times per week**. How we accomplish this depends on the schedule of each individual and genetics.
 
 For busy people who don't have much time to spend in the gym, **three weekly full-body training sessions based on compound exercises is enough**. This program also applies to small-boned/small-jointed people.
@@ -153,7 +153,7 @@ Muscle fatigue is caused by:
 
 The **training session should be for 45-75 minutes**.
 
-## Diet
+# Diet
 For building muscle, we need **minimum 2g/kg of body weight of (complete) protein per day, minimum 1g/kg of body weight of dietary fat per day,** and **10% caloric surplus**. Carbohydrates and dietary fats ratios depend on each individual; meal frequency as well.
 
 The primary focus of muscle building should be (organic) **whole foods** and not fitness supplements.
@@ -166,7 +166,7 @@ Probably, the only supplements I recommend are:
 <br>
 Other supplements may be marketing bullshit and a waste of money.
 
-## Other lifestyle factors
+# Other lifestyle factors
 Of course, the building process happens outside the gym, especially at night. **Sleep** is one of the most important factors for muscle recovery and, hence, development.
 
 Sleep quantity is not as important as sleep quality. If you can catch the sleep between **10:00 p.m. and 02:00 a.m.**, it is perfect. Otherwise, be sure to **go to sleep and wake up at the same hours** every day, including on weekends. It all has to do with melatonin production, but that is a story for another article.
@@ -175,7 +175,7 @@ Make sure to **stay hydrated**. We need **2-6L of water per day**, depending on 
 
 **Chronic stress** is also a significant factor for muscle catabolism (loss). Practice relaxation techniques, like deep breathing, to keep your heart rate low and constant. Massage is also a good idea.
 
-## Summary
+# Summary
 This is what you should get from this article:
 - train each muscle group 2-3 times per week;
 - focus on compound exercises and limit isolation exercises;
@@ -194,7 +194,7 @@ This is what you should get from this article:
 - 2-6L water per day;
 - relaxation (deep breathing, massage, meditation, etc.).
 
- ## Follow the white rabbit
+ # Follow the white rabbit
  - [The Neuromuscular System Part I: What A Weight Trainer Needs To Know About Muscle](http://www.weightrainer.net/physiology/muscle1.html);
  - [The Neuromuscular System Part II: What A Weight Trainer Needs To Know About Muscle](http://www.weightrainer.net/physiology/muscle2.html);
  - [The Neuromuscular System Part III: What A Weight Trainer Needs To Know About Muscle](http://www.weightrainer.net/physiology/muscle3.html);

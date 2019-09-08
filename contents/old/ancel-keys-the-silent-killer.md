@@ -18,7 +18,7 @@ Keys made a data analysis on 22 countries and found no correlation between dieta
 
 Ancel Keys was supported by the margarine and vegetable oil industries. They knew if Keys' theory succeeded, their production would increase exponentially. People would no longer buy animal products, but substitutes, like vegetable oils, margarine, low-fat/fat-free products, soy, etc. And that is exactly what happened! Margarine, vegetable oils, and packaged ready-to-eat foods are more convenient and cheaper than (non-processed) animal products.
 
-## Margarine and processed vegetable oils: Death sentence
+# Margarine and processed vegetable oils: Death sentence
 
 Ancel Keys was partially right: Fat does increase risk cardiovascular disease. But not all kinds of fat, only trans fat. Margarine is 48% trans fat! Trans fat is a kind of fat that doesn't even exist in nature! It is a result of a process called partial hydrogenation, similar to the plastic manufacturing.
 
@@ -30,7 +30,7 @@ I have I haven't lost you by know. The bottom line is this: margarine and (proce
 
 I am focusing on processed because cold pressed vegetable oils, which kept hidden from light and heat are not bad. But for a century, we have been using sunflower oil, olive oil, palm oil or any other vegetable oil for cooking, haven't we? If not, all canned and packed snacks, crackers, biscuits, cereals, fast-foods, restaurant foods, literally, every ready-to-eat product has vegetable oil in its composition, and I assure you that vegetable oil has been exposed to light and heat. Thus, damage to our arteries, organs, heart, brain, DNA,...our whole body actually. And even when vegetable oils are cold pressed, they still may go rancid uuntil consumers reach them. Thus, stick to the plain raw source (sunflower seeds, flax seeds, hemp seeds, avocados, etc.), not the extracts.
 
-## Natural fats = healthy children
+# Natural fats = healthy children
 
 For those of you who have been consuming vegetable oils and margarine, directly or indirectly, and still feel fine, keep in mind that you are working with a self-detonating bomb with a clock. At any time, you may have a stroke or heart attack in the future and you won't know why. If this is not the case, your children will inherit your sick lifestyle. Yes!
 
@@ -40,7 +40,7 @@ Trans fat also damages the DNA, but that is another story.
 
 Also, since 1958, we have increased our intake of synthetic substitutes for animal products, like soy, and sugar intake. Sugar is the twin brother of vegetable oils. As a result, when cardiovascular disease, high blood cholesterol, atherosclerosis, high blood pressure, diabetes, obesity, and another disease should have gone down, they actually raised. 
 
-## High animal fat made us who we are
+# High animal fat made us who we are
 
 Now, let's push away all the science and let's bring common sense among us. Think about this: did our ancestor's thousands of years ago survive above 100 years on a low animal fat diet? Also, if animal fat and cholesterol were bad, why Icelanders, who eat mostly animal organs, are second place on Eart on longevity?
  Our ancestors and our present-day tribes live an animal food based life. They are all hunters and gatherers. Consumption of grains occurred later, mostly after the industrial revolution.

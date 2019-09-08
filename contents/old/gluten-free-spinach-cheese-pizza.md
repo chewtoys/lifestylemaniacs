@@ -31,7 +31,7 @@ cookingMethod: Baking
 **Cooking method**: Baking;
 **Servings**: 6 X 550g.
 
-## Ingredients
+# Ingredients
 - 400g chickpea flour (5RON);
 - 300ml warm water (negligible price);
 - 450g goat cheese or cow chese (15 RON);
@@ -44,7 +44,7 @@ cookingMethod: Baking
 - (optional) 1tsp smoked paprika (negligible price).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Mix the flour with salt, water, and olive oil until a non-sticky dough has formed (add more water or flour if it is too dry or to fluid);
 2. Line a baking pan with baking sheet and cover it with the dough;
 3. Put the chopped spinach over the dough until fully covered;
@@ -53,8 +53,8 @@ cookingMethod: Baking
 6. preheat the oven at 180&deg;C (356&deg;F) and bake for 30 minutes;
 7. Mix the tomatoes with the pepper and paprika, pour over the mixture over the pizza, and bake for 15 more minutes.
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 687kcal;
 - **Protein**: 55g;
 - **Fat**: 27.5g;
@@ -63,7 +63,7 @@ cookingMethod: Baking
 - **Fiber**: 20.5g;
 - **Sugars**: 15.5g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 1.5g;
 - **Isoleucine**: 2.15g;
 - **Leucine**: 3.56g;
@@ -73,7 +73,7 @@ cookingMethod: Baking
 - **Threonine**: 2.12g;
 - **Tryptophan**: 0.58g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 1008.91ug;
 - **Vitamin B1 (Thiamine)**: 2.31mg;
 - **Vitamin B2 (Riboflavin)**: 2.52mg;
@@ -88,7 +88,7 @@ cookingMethod: Baking
 - **Vitamin E (Tocopherol)**: 5.2mg;
 - **Vitamin K**: 473.01ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 384.63mg;
 - **Copper**: 1.18mg;
 - **Iron**: 9.12mg;
@@ -100,7 +100,7 @@ cookingMethod: Baking
 - **Sodium**: 693.94mg;
 - **Zinc**: 4.9mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.17g;
 - **Linoleic acid (LA Omega-6)**: 2.25g.
 

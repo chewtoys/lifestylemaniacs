@@ -31,7 +31,7 @@ cookingMethod: Stewing
 **Cooking method**: Stewing;
 **Servings**: 7 X 492g.
 
-## Ingredients
+# Ingredients
 - 2000g frozen chopped spinach (20RON);
 - 300g onions (1RON);
 - 100g garlic (2RON);
@@ -44,15 +44,15 @@ cookingMethod: Stewing
 - pepper by taste (1tsp) (negligible price).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Defrost the spinach;
 2. Unpeal the garlic and onions, rinse them well, and chop them;
 3. Melt the butter and simmer the chopped onions and garlic in a frying pan or directly in the pot in wich you will stew the spinach;
 4. Combine with the spinach and bring to a boil and let them cook for 30 minutes (add wated if needed and stir to prevent sticking);
 5. Add the cream cheese, flour/pasta, and seasoning and let them cook for 15 more minutes.
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 485.42kcal;
 - **Protein**: 35.41g;
 - **Fat**: 11.04g;
@@ -61,7 +61,7 @@ cookingMethod: Stewing
 - **Fiber**: 17.45g;
 - **Sugars**: 14.44g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 0.29g;
 - **Isoleucine**: 0.6g;
 - **Leucine**: 1.05g;
@@ -71,7 +71,7 @@ cookingMethod: Stewing
 - **Threonine**: 0.74g;
 - **Tryptophan**: 0.3g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 1296.66ug;
 - **Vitamin B1 (Thiamine)**: 0.51mg;
 - **Vitamin B2 (Riboflavin)**: 0.69mg;
@@ -86,7 +86,7 @@ cookingMethod: Stewing
 - **Vitamin E (Tocopherol)**: 6.74mg;
 - **Vitamin K**: 808.54ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 394.4mg;
 - **Copper**: 0.88mg;
 - **Iron**: 7.16mg;
@@ -98,7 +98,7 @@ cookingMethod: Stewing
 - **Sodium**: 444.3mg;
 - **Zinc**: 3.18mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.25g;
 - **Linoleic acid (LA Omega-6)**: 1.65g.
 

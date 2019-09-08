@@ -31,7 +31,7 @@ cookingMethod: Baking
 **Cooking method**: Baking;
 **Servings**: 7 X 388g.
 
-## Ingredients
+# Ingredients
 - 500g chickpea flour (8RON);
 - 250ml hot water (negligible price);
 - 650g tuna fish canned in water (25RON);
@@ -43,15 +43,15 @@ cookingMethod: Baking
 - (optional) 5g black pepper (negligible price).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Shred the mozzarella and combine it with the chickpea flour, water, and salt until a nice dough has formed;
 2. Put the dough into a baking pan lined with parchment paper, put it into the preheated oven at 180&deg;C (356&deg;F), and let it bake for 15 minutes;
 3. Meanwhile, wash and cut the tomatoes and peppers in small cubes or blend them into a paste with black pepper and oregano, like I did;
 4. Afterwards, spread the tuna over the baked dough and put the tomatoes and peppers over the tuna;
 5. Let it bake for 45 minutes.
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 672kcal;
 - **Protein**: 51.35g;
 - **Fat**: 29.19g;
@@ -60,7 +60,7 @@ cookingMethod: Baking
 - **Fiber**: 10.56g;
 - **Sugars**: 13.4g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 0.68g;
 - **Isoleucine**: 1.23g;
 - **Leucine**: 2.07g;
@@ -70,7 +70,7 @@ cookingMethod: Baking
 - **Threonine**: 1.13g;
 - **Tryptophan**: 0.43g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 216ug;
 - **Vitamin B1 (Thiamine)**: 0.35mg;
 - **Vitamin B2 (Riboflavin)**: 0.33mg;
@@ -85,7 +85,7 @@ cookingMethod: Baking
 - **Vitamin E (Tocopherol)**: 2.78mg;
 - **Vitamin K**: 20.54ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 326.7mg;
 - **Copper**: 0.58mg;
 - **Iron**: 4.63mg;
@@ -97,7 +97,7 @@ cookingMethod: Baking
 - **Sodium**: 755mg;
 - **Zinc**: 3.8mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.32g;
 - **Linoleic acid (LA Omega-6)**: 2.36g.
 

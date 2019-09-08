@@ -31,7 +31,7 @@ cookingMethod: Stewing
 **Cooking method**: Stewing;
 **Servings**: 7 X 800g.
 
-## Ingredients
+# Ingredients
 - 2kg frozen green peas (20RON);
 - 500g carrots (1RON);
 - 300g onions (1RON);
@@ -45,15 +45,15 @@ cookingMethod: Stewing
 - (optional) 1tbsp paprika (negligible price).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Defrost and rinse the peas;
 2. Peel, chop, and rinse the carrots and onions;
 3. Melt the butter in a frying pan and saute the carrots and onions for 5-10 minutes;
 4. Cut the tuna steaks in cubes and put them, along with the peas, sauteed carrots and onions, and tomato  paste into a pan, add 1L of water and stew everything covered for 60 minutes;
 5. Add spices and seasoning.
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 522kcal;
 - **Protein**: 51g;
 - **Fat**: 10.1g;
@@ -62,7 +62,7 @@ cookingMethod: Stewing
 - **Fiber**: 17.5g;
 - **Sugars**: 23.5g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 1g;
 - **Isoleucine**: 1.64g;
 - **Leucine**: 2.83g;
@@ -72,7 +72,7 @@ cookingMethod: Stewing
 - **Threonine**: 1.66g;
 - **Tryptophan**: 0.38g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 1378.86ug;
 - **Vitamin B1 (Thiamine)**: 0.91mg;
 - **Vitamin B2 (Riboflavin)**: 0.58mg;
@@ -87,7 +87,7 @@ cookingMethod: Stewing
 - **Vitamin E (Tocopherol)**: 2.29mg;
 - **Vitamin K**: 85.37ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 130.37mg;
 - **Copper**: 0.52mg;
 - **Iron**: 6.08mg;
@@ -99,7 +99,7 @@ cookingMethod: Stewing
 - **Sodium**: 925.5mg;
 - **Zinc**: 2.81mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.1g;
 - **Linoleic acid (LA Omega-6)**: 0.53g.
 

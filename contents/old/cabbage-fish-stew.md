@@ -31,7 +31,7 @@ cookingMethod: Stewing
 **Cooking method**: Stewing;
 **Servings**: 7 X 650g.
 
-## Ingredients
+# Ingredients
 - 1L water (negligable price);
 - 500g carrots (1RON);
 - 1.5kg cabbage (2RON);
@@ -48,7 +48,7 @@ cookingMethod: Stewing
 - (optional) 1tsp smoked paprika (negligible price).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Remove the first layer of leaves from the cabbage, rinse it, remove the stem, and chop it;
 2. Fill a pot with water, put the cabbage inside, and bring to a boil;
 3. Peel the carrots and onions, chop them, and saute them for 5-10 minutes, until the onions turn yellow;
@@ -56,8 +56,8 @@ cookingMethod: Stewing
 5. Process the tomatoes and pour the paste over in the pot, together with the cabbage, fish, carrots, and onions, and let them cook, covered, for 30-45 minutes;
 6. Put the seasoning and spices and let them cook for 5 more minutes.
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 342kcal;
 - **Protein**: 31.5g;
 - **Fat**: 12g;
@@ -66,7 +66,7 @@ cookingMethod: Stewing
 - **Fiber**: 11g;
 - **Sugars**: 15g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 0.65g;
 - **Isoleucine**: 1g;
 - **Leucine**: 1.76g;
@@ -76,7 +76,7 @@ cookingMethod: Stewing
 - **Threonine**: 1.04g;
 - **Tryptophan**: 0.26g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 503.1ug;
 - **Vitamin B1 (Thiamine)**: 0.32mg;
 - **Vitamin B2 (Riboflavin)**: 0.23mg;
@@ -91,7 +91,7 @@ cookingMethod: Stewing
 - **Vitamin E (Tocopherol)**: 2.4mg;
 - **Vitamin K**: 158.62ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 201.82mg;
 - **Copper**: 0.27mg;
 - **Iron**: 4.78mg;
@@ -103,7 +103,7 @@ cookingMethod: Stewing
 - **Sodium**: 231.51mg;
 - **Zinc**: 2.39mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.33g;
 - **Linoleic acid (LA Omega-6)**: 0.84g.
 

@@ -38,7 +38,7 @@ Nowadays, for instance, people suffer from diabesity because they are addicted t
 
 Now, it is easy to judge people, you know? But when you are the victim, it’s hard. Many people are unaware or deny their addiction, but others are aware they have a problem, but can’t seem to control themselves. It’s sad…
 
-## Forget about “everything in moderation”
+# Forget about “everything in moderation”
 My story is interesting and the way I have given up some toxic routines is unconventional. **You know how people say: “everything in moderation”? Well, it’s BS! Want to know why?**
 
 {% blockquote %}
@@ -53,7 +53,7 @@ I know what you’re thinking: **What?! No, sugar?! No, cigarettes?! No, alcohol
 
 Yes, I am happy and no, I haven’t given up all pleasures of life. Actually, **I haven’t felt better my entire life. I feel free!**
 
-## Humans learn through trauma
+# Humans learn through trauma
 Long story short, **I gave up alcohol, smoking, coffee, and sugar by overdoing it**:
 - I smoke until I threw up;
 - I drank until I threw up (whiskey, vodka, wine, tequila, beer, you name it?);

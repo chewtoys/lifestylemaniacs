@@ -31,7 +31,7 @@ cookingMethod: Baking
 **Cooking method**: Baking;
 **Servings**: 8 X 450g.
 
-## Ingredients
+# Ingredients
 - 500g sweet peppers (4RON);
 - 1kg tomatoes (6RON);
 - 200g onions (negligible price);
@@ -48,15 +48,15 @@ cookingMethod: Baking
 - pepper by taste (negligible price).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Unpeel and rinse the onions, garlic, tomatoes, mushrooms, and peppers;
 2. Using a food processor, mash the tomatoes, peppers, garlic, and tomatoes;
 3. In a bowl, add the mixture, along with the (chopped or slice) mushrooms, olive oil, and spices and boil at low heat for 5-10 minutes;
 4. Stop the heat and add the cream cheese, shredded mozzarella cheese, and penne, and mix everything;
 5. Add the mixture to a baking pan lined with parchment paper (not necessary if you have a ceramic baking pan) and bake for 45-60 minutes at 180&deg;C (356&deg;F).
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 629kcal;
 - **Protein**: 37g;
 - **Fat**: 24.25g;
@@ -65,7 +65,7 @@ cookingMethod: Baking
 - **Fiber**: 12.74g;
 - **Sugars**: 15.03g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 0.45g;
 - **Isoleucine**: 0.91g;
 - **Leucine**: 1.54g;
@@ -75,7 +75,7 @@ cookingMethod: Baking
 - **Threonine**: 0.8g;
 - **Tryptophan**: 0.35g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 252.87ug;
 - **Vitamin B1 (Thiamine)**: 0.39mg;
 - **Vitamin B2 (Riboflavin)**: 0.54mg;
@@ -90,7 +90,7 @@ cookingMethod: Baking
 - **Vitamin E (Tocopherol)**: 2.46mg;
 - **Vitamin K**: 23.84ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 384.32mg;
 - **Copper**: 0.62mg;
 - **Iron**: 5.15mg;
@@ -102,7 +102,7 @@ cookingMethod: Baking
 - **Sodium**: 1219mg;
 - **Zinc**: 3.96mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.27g;
 - **Linoleic acid (LA Omega-6)**: 1.46g.
 

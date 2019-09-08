@@ -26,7 +26,7 @@ This is exactly what happened with the saturated fat and cholesterol recommendat
 
 Let's take a moment and think about what we have come to realize. If the food industry influences the public health recommendations, this means that the major advice we receive from doctors regarding nutrition is not meant to support health, but to support companies. To give you an example, the daily serving of grains and milk. If Cheerios, Kellog's cereal, and Danone are sponsors, of course, the public health recommendations involve consuming more of these companies' products. It all makes sense, doesn't it?
 
-## Who should we believe?
+# Who should we believe?
 
 This is the question. If the medical advice is influenced by the food industries and pharmaceutical industries and is made for the purpose of making money, then whom advice should we consider true? My advice to you dear reader is studying anatomy and physiology, study nutrition, study health generally. Learn how the body works and, most important, understand how your personal body works, because your life depends on it. I have shared with you on my resources page books on health and fitness and I invite you to read. Knowledge is wealth and power.
 

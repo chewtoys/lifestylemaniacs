@@ -31,7 +31,7 @@ cookingMethod: Baking
 **Cooking method**: Baking;
 **Servings**: 8 X 480g.
 
-## Ingredients
+# Ingredients
 - 1500g whole lamb, beef, or pork (30RON);
 - 1000g potatoes (2RON);
 - 500g carrots (1RON);
@@ -42,7 +42,7 @@ cookingMethod: Baking
 - pepper by taste (1tsp) (negligible price).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Wash the meat and cut it in small cubes. If it has bone, a lamb leg for instance, boil it until the meat easily detaches (2 hours) and reuse the water afterwards;
 2. Peal and rinse the vegetables, cut them in slices, and put them into a baking pan so that it is fully covered;
 3. Put the meat over the vegetables and season;
@@ -50,8 +50,8 @@ cookingMethod: Baking
 5. Puree the potatoes together with the mozzarella and pour the mixture over the meat so that is fully covered;
 6. Bake for 60 minutes at 180&deg;C (356&deg;F).
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 673.66kcal;
 - **Protein**: 46.06g;
 - **Fat**: 40.93g;
@@ -60,7 +60,7 @@ cookingMethod: Baking
 - **Fiber**: 5.21g;
 - **Sugars**: 6.44g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 1.01g;
 - **Isoleucine**: 1.67g;
 - **Leucine**: 2.67g;
@@ -70,7 +70,7 @@ cookingMethod: Baking
 - **Threonine**: 1.53g;
 - **Tryptophan**: 0.47g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 447.6ug;
 - **Vitamin B1 (Thiamine)**: 0.32mg;
 - **Vitamin B2 (Riboflavin)**: 0.55mg;
@@ -85,7 +85,7 @@ cookingMethod: Baking
 - **Vitamin E (Tocopherol)**: 0.82mg;
 - **Vitamin K**: 25.24ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 201.85mg;
 - **Copper**: 0.35mg;
 - **Iron**: 3.75mg;
@@ -97,7 +97,7 @@ cookingMethod: Baking
 - **Sodium**: 1036.39mg;
 - **Zinc**: 6.11mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.59g;
 - **Linoleic acid (LA Omega-6)**: 1.63g.
 

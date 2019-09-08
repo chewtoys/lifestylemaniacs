@@ -22,11 +22,11 @@ But let's focus on what we can control, okay?
 
 2 major factors impact fat loss:
 
-## Energy deficit
+# Energy deficit
 
 Of course, I am talking about calories. This is the golden rule, you cannot eat anything as much as you can without getting fat, regardless of how healthy it is.
 
-## Hormones
+# Hormones
 
 Hormones are, basically, chemical messengers that help our cells communicate with each other. Hormones dictate our state, how we feel, okay? This includes hunger.
 
@@ -84,7 +84,7 @@ Intermittent fasting is going for 16-24 hours (on average) with only water. This
 
 You can also try doing cardio or any form of exercise on an empty stomach early in the morning when insulin is absent to be sure that all the energy is burned from your fat stores.
 
-## Summary
+# Summary
 
 This is what you should get from this article:
  - Always choose **whole foods** instead of processed foods;
@@ -93,7 +93,7 @@ This is what you should get from this article:
  - Have a **regular sleep schedule**, ideally from 10:00 p.m. to 6:00 - 8:00 a.m.;
  - Go **low carb** or try **intermittent fasting**.
 
- ## Follow the white rabbit
+ # Follow the white rabbit
  - [Do Calories Matter? Is a Calorie a Calorie? (Science of Weight Gain)](https://youtu.be/zcMBm-UVdII)
  - [Why Sleep is More Important Than Diet | Shawn Stevenson on Health Theory](https://youtu.be/4Mtw3vBQYOg)
  - [Why we get Fat AND Hungry | (Biology of Weight Gain & Low-Carb )](https://youtu.be/KHaCKudtVi0)

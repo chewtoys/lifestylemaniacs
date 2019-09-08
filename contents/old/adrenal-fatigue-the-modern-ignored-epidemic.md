@@ -21,7 +21,7 @@ Having **problems waking up** in the morning and still **feeling tired even afte
 
 If you found yourself in at least half of the description above, you are not alone my friend. You, me, and 2/3 of the population suffer from some form of adrenal fatigue.
 
-## What is adrenal fatigue?
+# What is adrenal fatigue?
 You probably haven't heard of adrenal fatigue before and you won't hear it coming from the mouth of any medical graduate. Surprisingly, if you go to an MD and complain about having the symptoms above, you will immediately be sent to a psychiatrist.
 
 As its name suggests, adrenal fatigue is the exhaustion of the adrenal glands which occurs as a collection of signs and symptoms, aka syndrome. It is also known as hypoadrenia (low adrenal function). Although it sounds medical-ish, it is not recognized as an official medical disease. The only recognized diseases of the adrenal glands are Addison's disease and Cushing's syndrome.
@@ -32,7 +32,7 @@ Although adrenal fatigue may sound an isolated condition, it's not. **When it co
 
 It is not surprising that **people suffering from adrenal fatigue have high insulin levels, low blood sugar levels, low immunity, digestive problems, anxiety, depression, confusion, memory problems, autoimmune diseases and so on**.
 
-## What causes adrenal fatigue?
+# What causes adrenal fatigue?
 - infections and allergies;
 - emotional stress and trauma (break-up, fights, death);
 - too much or too less physical activity;
@@ -50,7 +50,7 @@ All **stresses are cumulative**, whether or not you perceive them as stresses. T
 
 It's important to understand that the threshold of stress overload is unique to each individual. Some people can tolerate less or more than others.
 
-## What is cortisol and why is it important?
+# What is cortisol and why is it important?
 Every time our body perceives some form of stress, the adrenal glands, via the Hypothalamus - Pituitary Adrenal - Axis (HPA Axis) release cortisol, adrenaline, and noradrenaline (and others) to help the body prepare for fight or flight - the "fight or flight" response.
 
 No matter the stress, the response is the same. This is because **our physical evolution is way behind our social evolution**. 
@@ -81,7 +81,7 @@ Now, let's not put the blame on cortisol. **Cortisol is actually helping our bod
 
 It is our perception (hypothalamus), lack of nerve energy (due to constant overdrive), and poor resistance (due to unhealthy lifestyle) that are the problem. It is **the wrong amount of cortisol at the wrong time that is the problem**.
 
-## How to prevent and reverse adrenal fatigue?
+# How to prevent and reverse adrenal fatigue?
 The first thing you need to do is to **eliminate the energy suckers: people, foods, activities, places, (traumatic) events, (overstimulating) toxic substances, lack of rest, and recovery**.
 
 <amp-img src="/images/energy-drain.jpg" layout="responsive" height="1" width="1" alt="Energy drain"></amp-img>
@@ -106,7 +106,7 @@ These are the questions you should ask yourself and the areas you need to improv
 <amp-img src="/images/adrenal-fatigue-changes.jpg" layout="responsive" height="300" width="240" alt="Lifestyle changes"></amp-img>
 <p class="img-credit">Image credit: <a href="https://www.amazon.com/Adrenal-Fatigue-Century-Stress-Syndrome-ebook/dp/B0044KLQHS/ref=mt_kindle?_encoding=UTF8&me=">James L. Wilson (Author), Jonathan V. Wright (Foreword), "Adrenal Fatigue: The 21st Century Stress Syndrome, 1st edition"</a></p>
 
-## Are there any supplements for adrenal fatigue?
+# Are there any supplements for adrenal fatigue?
 Yes, there are, but I am not in the position to make any recommendation. You should do the research on your own and, if necessary, talk you your medical supervisor.
 
 What I can say is I have started consuming in my morning protein shake some organic powders and I have been feeling amazing ever since.

@@ -49,7 +49,7 @@ I've started to be more careful to the consequences of prolonged sitting since I
 
 Sitting also made me have anxiety from time to time due to shallow breathing.
 
-## What can we do?
+# What can we do?
 
 Stay active! I don't know what else to say. You are aware of your lifestyle most. I am aware of the fact that if you are a student, bus driver, taxi driver, transporter your job is inhibiting you from moving, but remember that you don't have to walk for miles or do any sorts of complex exercises. You just need to change your position as often as you can. Just standing up is suffice. Every little thing matters, remember that!
 
@@ -61,7 +61,7 @@ The main idea is, **if you want to be healthy, young, and fit, you need to move 
 
 If you want to dive more into this topic and learn more about the science behind sitting and moving, follow the white rabbit and read Dr. Joan Vernikos, book, [Sitting Kills, Moving Heals: How Everyday Movement Will Prevent Pain, Illness, and Early Death -- and Exercise Alone Won't](https://www.amazon.com/Sitting-Kills-Moving-Heals-Everyday/dp/1610350189), and James A. Levine's book, [Get Up!: Why Your Chair is Killing You and What You Can Do About It](https://www.amazon.com/Get-Up-Chair-Killing-About/dp/1137278994)
 
-## Further reading:
+# Further reading:
 - [Research study - Too much sitting: a novel and important predictor of chronic disease risk?](http://bjsm.bmj.com/content/43/2/81.full)
 - [Research study - Sedentary time in adults and the association with diabetes, cardiovascular disease and death: systematic review and meta-analysis](https://link.springer.com/article/10.1007/s00125-012-2677-z)
 - [Joseph Mercola - Sitting All Day: Worse For You Than You Might Think](https://articles.mercola.com/sites/articles/archive/2011/05/14/sitting-all-day-worse-for-you-than-you-might-think.aspx)

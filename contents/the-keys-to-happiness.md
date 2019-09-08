@@ -28,7 +28,7 @@ By attaching happiness to something we don't have, we will never be satisfied wi
 
 Please don't misinterpret what I just wrote. I am not saying you should not make progress or focus on the next level, but to not attach happiness to it. This brings us to the first key to happiness.
 
-## Gratitude
+# Gratitude
 
 Gratitude is always appreciating what you already have. Better, **always wanting what you already have**.
 
@@ -36,7 +36,7 @@ Imagine this: there is at least one person in the world who wishes - dreams - to
 
 This is one reason why poor people are often happier than wealthy people. They appreciate the basic and simple things in life. **Poor (village) people have fewer choices than wealthy (city) people.**
 
-## Self-acceptance
+# Self-acceptance
 
 People living in communities and small villages are more connected to themselves and nature. They are authentic. Living in the city and addicted to technology makes us, paradoxically, more connected and disconnected at the same time.
 
@@ -48,7 +48,7 @@ Remember, **you are all you have in this life** from the beginning to the end. *
   
 > All our possessions are just borrowed. When we die, we leave them behind and take with us our spiritual investments.
 
-## Summary
+# Summary
 
 This is what you should get from this article:
  - Appreciate what you have;

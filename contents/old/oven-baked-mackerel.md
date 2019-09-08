@@ -31,7 +31,7 @@ cookingMethod: Baking
 **Cooking method**: Baking;
 **Servings**: 7 X 470g.
 
-## Ingredients
+# Ingredients
 - 6 whole Atlantic mackerels (35RON);
 - 1000g red potates (1RON);
 - 500g carrots (1RON);
@@ -39,7 +39,7 @@ cookingMethod: Baking
 - 2tbsps fish spices and seasonig (1RON).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Cut the heads and tails of the mackerels, remove the organs, and clean them well;
 2. Unpeal the carrots, potatoes, and celery and rinse them well;
 3. Slice the vegetables put them in a baking pan until fully covered;
@@ -47,8 +47,8 @@ cookingMethod: Baking
 5. Cover the baking pan with aluminium foil;
 6. Preheat the oven at 180&deg;C (356&deg;F) and bake for 45 minutes.
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 521.43kcal;
 - **Protein**: 38.4g;
 - **Fat**: 26.29g;
@@ -57,7 +57,7 @@ cookingMethod: Baking
 - **Fiber**: 5.57g;
 - **Sugars**: 6.19g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 0.83g;
 - **Isoleucine**: 1.31g;
 - **Leucine**: 2.27g;
@@ -67,7 +67,7 @@ cookingMethod: Baking
 - **Threonine**: 1.31g;
 - **Tryptophan**: 0.32g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 528.75ug;
 - **Vitamin B1 (Thiamine)**: 0.38mg;
 - **Vitamin B2 (Riboflavin)**: 0.53mg;
@@ -82,7 +82,7 @@ cookingMethod: Baking
 - **Vitamin E (Tocopherol)**: 2.63mg;
 - **Vitamin K**: 32.84ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 66.54mg;
 - **Copper**: 0.29mg;
 - **Iron**: 3.32mg;
@@ -94,7 +94,7 @@ cookingMethod: Baking
 - **Sodium**: 224.46mg;
 - **Zinc**: 1.43mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.24g;
 - **Linoleic acid (LA Omega-6)**: 0.46g.
 

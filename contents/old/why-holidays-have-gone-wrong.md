@@ -19,7 +19,7 @@ It's Christmas! What a joy... or is it? When I was a little boy I couldn't wait 
 
 These days I avoided going to hypermarkets, because I learned from previous holiday experiences, that hypermarkets are chaos during these periods. So, I have decided to go for long walks in nature in exchange. Boy, it is soooo relaxiiiiing! **And, isn't this what holidays are all about? Relaxation, peace, joy, recreation? Why is everybody so stressed? Why is everybody focusing on anything other than their inner selves?**
 
-## Holiday fasting
+# Holiday fasting
 This is the biggest bullshit people do today. They don't consume animal products, but they consume lots and lots of synthetic animal substitutes, especially soy, which is genetically modified (I don't think your buying raw organic soybeans).
 Then, after a month of not consuming animal products, you bombard your body with huge amounts of meat.
 Imagine it's summer and there are 35 degrees Celsius. Now, imagine the next day there is -10 degrees Celsius. How would you feel? How your body is affected by this brief drastic changed? It would be a shock, wouldn't it? This is the exact same thing happening with your fasting.
@@ -28,7 +28,7 @@ The purpose of fasting is elimination of toxic waste products from the body - pu
 
 I practice intermittent fasting every day, by eating only between 08:00 and 16:00. Every single day, not only on holidays or something like that. Thus, my body is accustomed to this and it's a pleasure for me.
 
-## Gifts, food, and cleaning
+# Gifts, food, and cleaning
 Everybody is focusing on buying in excess things they don't need. They work like hell all year so that they spend most of their money on lots of useless stuff during holidays. Why would you do that?
 You buy so much (junk) food, you do so much housework, you buy so many presents... why?
 **You may say, "Because it's holidays!". Oh really? And what happened in the history of mankind that is so important? How much time do you spend contemplating on the purpose of holidays. Furthermore, how much time do you spend focusing on your soul?**
@@ -47,7 +47,7 @@ You see, I spend holidays alone because I have no one with whom to resonate. But
 
 You know what? I am glad my life was the way it was, because it made me who I am today, and I am so proud of me and glad of who I am. I wouldn't change anything. I am living my dream: being free, doing whatever I want, how I want when I want.
 
-## Focus on your mind and soul
+# Focus on your mind and soul
 This is my message to you. Spending time alone protects you from distractions and interferences. You are only you and your thoughts and feelings. Only when you are alone you begin an inner journey of self-discovery. Only when your alone you know yourself and discover what makes you happy - your purpose.
 
 Don't be afraid of spending time alone; that means you are afraid of yourself (thoughts and feelings). You don't have to spend time only alone if you have good relationships which build you and make you happy. Just don't let yourself fooled!

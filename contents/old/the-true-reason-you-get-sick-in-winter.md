@@ -25,7 +25,7 @@ This idea is far from the truth. If we take a step back in our lives and watch o
 
 These are the major differences between cold periods and winter periods. Now, we can conclude the true reasons why we get sick in winter
 
-## 1. Less sunlight
+# 1. Less sunlight
 
 During winter the sky is most often cloudy and less direct sunlight exposure occurs. Also, as I mentioned, we spend more time in our house, in cars, buses, trains, local languages. This leads to vitamin D(3) deficiency which causes a chain reaction of other deficiencies and imbalances;
 - imbalanced calcium/phosphorus ratio;
@@ -34,7 +34,7 @@ During winter the sky is most often cloudy and less direct sunlight exposure occ
 
 Read more about Vitamin D metabolism and its role [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2879391/).
 
-## 2. Less oxygen
+# 2. Less oxygen
 
 Spending more time indoors, especially non-oxygenated rooms creates a perfect environment for (anaerobic) bacteria and viruses to thrive. Not to mention that **oxygen is the essential nutrient of life**. All metabolic processes within our cells, hence our body, run on oxygen. Without oxygen, you're dead.
 
@@ -45,15 +45,15 @@ All normal cells have an absolute requirement for oxygen, but cancer cells can l
 
 {% endblockquote %}
 
-## 3. Non-fresh food
+# 3. Non-fresh food
 
 During cold periods we eat more frozen, canned, jarred, dried, cooked, and non-local foods. This reduces a big amount of vitamins, minerals, and enzymes our unique body needs, which are found in fresh fruits and vegetables.
 
-## 4. Less active
+# 4. Less active
 
 This is actually a consequence of the three above. LAck of vitamin D, oxygen, and local fresh foods, makes us lazier, unmotivated, more depressed, etc.
 
-## What can you do?
+# What can you do?
 
 You already know the answer, you just need to accept it. **Get out and open the windows!**. Also, eat more fatty wild caught fish, like, mackerel, salmon, sardines or take some [cod liver oil](https://www.amazon.com/gp/product/B003B3P4PO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003B3P4PO&linkCode=as2&tag=razvantomegea-20&linkId=eb5f3b89800d310d8f954d1cb9576a2d).
 

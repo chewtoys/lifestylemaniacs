@@ -31,7 +31,7 @@ cookingMethod: Raw
 **Cooking method**: Raw;
 **Servings**: 5 X 250g.
 
-## Ingredients
+# Ingredients
 - 500g chickpeas/garbanzo beans (7RON);
 - 200g brewer's yeast or nutritional yeast (15RON);
 - 50g garlic powder (3RON);
@@ -39,13 +39,13 @@ cookingMethod: Raw
 - 1tbsp olive oil (negligible price);
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Soak the chickpeas for 24 hours (change the water 2-3 times);
 2. Boil the chickpeas (covered) at low heat for 2 hours;
 3. Drain the water, rinse the chickpeas, and mix them in the food processor along with the yeast, olive oil, garlic, and onion powder.
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 626.24kcal;
 - **Protein**: 41.17g;
 - **Fat**: 13.82g;
@@ -54,7 +54,7 @@ cookingMethod: Raw
 - **Fiber**: 23.26g;
 - **Sugars**: 17.69g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 1.41g;
 - **Isoleucine**: 1.77g;
 - **Leucine**: 2.73g;
@@ -64,7 +64,7 @@ cookingMethod: Raw
 - **Threonine**: 1.68g;
 - **Tryptophan**: 0.38g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 50.25ug;
 - **Vitamin B1 (Thiamine)**: 2.82mg;
 - **Vitamin B2 (Riboflavin)**: 2.35mg;
@@ -79,7 +79,7 @@ cookingMethod: Raw
 - **Vitamin E (Tocopherol)**: 1.33mg;
 - **Vitamin K**: 9.8ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 175.77mg;
 - **Copper**: 0.78mg;
 - **Iron**: 6.85mg;
@@ -91,7 +91,7 @@ cookingMethod: Raw
 - **Sodium**: 255mg;
 - **Zinc**: 4.77mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.11g;
 - **Linoleic acid (LA Omega-6)**: 2.44g.
 

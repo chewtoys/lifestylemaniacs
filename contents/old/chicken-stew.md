@@ -31,7 +31,7 @@ cookingMethod: Stewing
 **Cooking method**: Stewing;
 **Servings**: 10 X 480g.
 
-## Ingredients
+# Ingredients
 - 2000g chicken with meat, skin, and bones (40RON);
 - 1000g cream cheese (15RON);
 - 500g tomatoes (2 RON);
@@ -47,13 +47,13 @@ cookingMethod: Stewing
 - (optional) 1tsp smoked paprika (negligible price).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Wash the chicken well, cut it small pieces, and boil it for 2 hours until the meat detaches easily from the bones;
 2. Peal, wash and cut the onions, tomatoes, and peppers into small cubes and put them over the boiling chicken and let them cook together for 30 more minutes;
 3. Add the cream cheese, seasonings, adn spices and let them all cook for 30 more minutes.
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 623.78kcal;
 - **Protein**: 371.27g;
 - **Fat**: 39.94g;
@@ -62,7 +62,7 @@ cookingMethod: Stewing
 - **Fiber**: 3.33g;
 - **Sugars**: 10.94g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 1.02g;
 - **Isoleucine**: 1.78g;
 - **Leucine**: 2.84g;
@@ -72,7 +72,7 @@ cookingMethod: Stewing
 - **Threonine**: 1.51g;
 - **Tryptophan**: 0.42g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 642.15ug;
 - **Vitamin B1 (Thiamine)**: 0.23mg;
 - **Vitamin B2 (Riboflavin)**: 0.66mg;
@@ -87,7 +87,7 @@ cookingMethod: Stewing
 - **Vitamin E (Tocopherol)**: 1.23mg;
 - **Vitamin K**: 23.4ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 142.04mg;
 - **Copper**: 0.23mg;
 - **Iron**: 2.99mg;
@@ -99,7 +99,7 @@ cookingMethod: Stewing
 - **Sodium**: 758.92mg;
 - **Zinc**: 2.7mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.26g;
 - **Linoleic acid (LA Omega-6)**: 5.36g.
 

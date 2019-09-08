@@ -24,7 +24,7 @@ Since Louis Pasteur came with his Germ Theory, we have been labeling bacteria as
 
 Bacteria is the primordial life form. We have evolved from bacteria. Also, animals, plants, and humans have evolved in nature, constantly exposed to bacteria. Thus, is bacteria the culprit? It turns out, the majority of bacteria we all fear is actually our friend because we are the hosts of a living ecosystem called microbiota.
 
-## The microbiota (microbiome)
+# The microbiota (microbiome)
 According to the Department of Chemistry & Biochemistry at the University of Colorado, *“the human microbiota consists of the 10–100 trillion symbiotic microbial cells harbored by each person, primarily bacteria in the gut. The human ‘microbiome’ consists of the genes these cells harbor.”* Furthermore, *"the Meta-HIT consortium reported a gene catalog of 3.3 million non-redundant genes in the human gut microbiome alone, as compared to the ∼22,000 genes present in the entire human genome. Similarly, the diversity among the microbiome of individuals is immense compared to genomic variation: individual humans are about 99.9% identical to one another in terms of their host genome but can be 80-90% different from one another in terms of the microbiome of their hand or gut."*[1]
 
 What this research suggests:
@@ -43,7 +43,7 @@ If you pay a visit to good old doctor Google and search on "microbiota species l
 
 Louis Pasteur was right partially, there are some bacteria that are not beneficial to us. We can create such bacteria by our way of living.
 
-## The Hygiene Hypothesis
+# The Hygiene Hypothesis
 
 Some research studies found that in countries where there is less sanitation and people are living more close to nature - exposed to germs - there are less autoimmune diseases and less disease risk factors.
 The Hygiene Hypothesis suggests the cleaner we are, the sicker we are. And if we think about it, it is true. The more disconnected and urbanized we have become, the sicker we have become. And the Big Bang of unhealthiness occurred after the industrial revolution, in the last 100 years. It so makes sense.
@@ -58,7 +58,7 @@ Just to be straight, I am not suggesting you should stop washing your hands or s
 
 See antibiotics only as a last resort, when your life depends on it. Antibiotics are like atomic bombs, they destroy every living ("anti - bios", "against life"), both good and bad.
 
-## Gut microbiota
+# Gut microbiota
 
 The vast majority of our microbiota is in our gut, which is also the most affected by our lifestyle and vice versa.
 
@@ -91,11 +91,11 @@ Thus, **the gut microbiota is a second brain and an endocrine organ and it is a 
 
 In a study, when a group of mice without developed gut microbiota received a gut microbiota transplant from obese mice, they gained more fat storage without increasing their food intake. Also, when fat mice received gut microbiota transplant from lean mice, they started to burn fat storage and become leaner.
 
-## Natural birth and breast milk
+# Natural birth and breast milk
 
 The human vagina is full of bacteria and breast milk is one of the most oligosaccharides dense food. But newborns cannot digest oligosaccharides. No, but the gut microbiota do, and that is their role. The human breast milk is meant to feed the gut microbiota and that is why children born by Cesarean procedure and are fed with milk formula instead of mammal milk are more prone to malnutrition, infections, and diseases. Not to mentions the major drugs and vaccines they receive with further destroy the microbiota.
 
-## Our lifestyle programs our microbiota programs our life
+# Our lifestyle programs our microbiota programs our life
 
 I believe you agree with me that in last century our lifestyle has changed to destroy our microbiota. We have been disconnected more and more from nature and have begun to believe that nature is our enemy. The food industry and pharmaceutical industry with all their [influence on the health care system](https://www.razvantomegea.com/2017/11/28/the-healthcare-system-is-a-lie/) made health a lottery win.
 
@@ -112,7 +112,7 @@ These, in addition to sedentary lifestyle, indoor lifestyle, and the chemical to
 
 There you have it! The reason you are sick and fat! No bad luck, no God, no genetic lottery. It's all up to you.
 
-## Pro-microbiota lifestyle
+# Pro-microbiota lifestyle
 
 The reason we have evolved in symbiosis with these bacteria is that they are so adaptable to change. They are the primitive form of life and they can change and adapt faster than the host, a more complex organism. Thus, the same way they have gone bad, they can go back good. How? By reverting your commit (to speak in a software developer language). In English, by **reconnecting with your human nature and traditions and reversing the industrial revolution impact**.
 
@@ -122,7 +122,7 @@ You are unique. You and your neighbor cannot live exactly the same lifestyle. Yo
 
 When life gives you lemons, you make lemonade.
 
-## The Natural Lifestyle
+# The Natural Lifestyle
 
 The standard dietary guideline is this: **eat clean (anti-oxidants and anti-inflammatory**.
 - **whole and fresh fruits and vegetables (in season)**;
@@ -134,29 +134,29 @@ The standard dietary guideline is this: **eat clean (anti-oxidants and anti-infl
 
 What can you do is the experiment and find what is good for you. But you will need a baseline:
 
-### Sleep
+## Sleep
 - 7-9 hours;
 - same bedtime and wake up time;
 - no electronics/light before bed.
 
-### Exercise
+## Exercise
 - strength training;
 - plenty of walking;
 - spend time outdoors, preferably in nature;
 
-### Food and drink
+## Food and drink
 - pure water;
 - no synthetics chemicals and toxins from food and households (mentioned above);
 - a wide variety of fresh, in season, and local foods (naturally grown and raised plants and animals, without mechanical and chemical processing);
 
-### Mindful eating
+## Mindful eating
 - eat only when hungry and stop when 80% full (1/3 solid, 1/3 fluid, 1/3 air);
 - eat slowly and chew carefully;
 - stay focused on your food;
 - eat mostly plants, but not exclusively;
 - intermittent-fasting.
 
-### Mindset
+## Mindset
 - love and forgive yourself;
 - be grateful for who you are, what you have, and smile unconditionally;
 - meditate;
@@ -178,7 +178,7 @@ Eat clean, live dirty.
 
 You are the farmer of your inner garden. Grow it well and you'll harvest health, fitness, and well-being!
 
-## References
+# References
 1. [Luke K Ursell, Jessica L Metcalf, Laura Wegener Parfrey, and Rob Knight, Defining the Human Microbiome, Nutr Rev. 2012 Aug; 70(Suppl 1): S38–S44 doi: 10.1111/j.1753-4887.2012.00493.x](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3426293/)
 2. [Justin L. Sonnenburg & Fredrik Bäckhed, Diet–microbiota interactions as moderators of human metabolism, Nature 535, 56–64 (07 July 2016)
 doi:10.1038/nature18846](https://www.nature.com/articles/nature18846)

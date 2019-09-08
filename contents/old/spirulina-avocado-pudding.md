@@ -31,17 +31,17 @@ cookingMethod: Raw
 **Cooking method**: Raw;
 **Servings**: 2 X 300g.
 
-## Ingredients
+# Ingredients
 - 100g organic spirulina powder (15RON);
 - 1 avocado (5RON);
 - 300ml whole milk yogurt (1RON).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Mix everything in the blender or food processor.
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 389kcal;
 - **Protein**: 39.33g;
 - **Fat**: 18.79g;
@@ -50,7 +50,7 @@ cookingMethod: Raw
 - **Fiber**: 8.5g;
 - **Sugars**: 13.73g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 0.6g;
 - **Isoleucine**: 1.62g;
 - **Leucine**: 2.61g;
@@ -60,7 +60,7 @@ cookingMethod: Raw
 - **Threonine**: 1.43g;
 - **Tryptophan**: 0.4g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 18.38ug;
 - **Vitamin B1 (Thiamine)**: 1mg;
 - **Vitamin B2 (Riboflavin)**: 1.74mg;
@@ -75,7 +75,7 @@ cookingMethod: Raw
 - **Vitamin E (Tocopherol)**: 3.43mg;
 - **Vitamin K**: 25.54ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 277.88mg;
 - **Copper**: 2.45mg;
 - **Iron**: 11.2mg;
@@ -87,7 +87,7 @@ cookingMethod: Raw
 - **Sodium**: 484.88mg;
 - **Zinc**: 2.32mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.4g;
 - **Linoleic acid (LA Omega-6)**: 1.73g.
 

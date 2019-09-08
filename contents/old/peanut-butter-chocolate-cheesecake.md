@@ -31,7 +31,7 @@ cookingMethod: Baking
 **Cooking method**: Baking;
 **Servings**: 8 X 430g.
 
-## Ingredients
+# Ingredients
 - 6 eggs (5RON);
 - 1kg cream cheese (15RON);
 - 400g oat bran or oats (4RON);
@@ -44,15 +44,15 @@ cookingMethod: Baking
 - 30ml vanilla extract (3RON);
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Using a food processor or blender, mix 3 eggs with the oat bran/oats, bananas, water, cinnamon, and carob/cacao powder;
 2. Line pan with baking parchment paper and poor the mixture in the pan and let it stay for 5 minutes;
 3. Meanwhile, preheat the oven at 180&deg;C (356&deg;F) and bake for 15 minutes;
 4. Again, using the blender/food processor, mix the rest of the eggs with cream cheese, peanut butter, vanilla, and sugar;
 5. Poor the mixture over the baked chocolate layer and bake for 15 more minutes, afterwards turn of the oven and let it stay in the warm oven for 30 more minutes.
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 644kcal;
 - **Protein**: 34.2g;
 - **Fat**: 27.11g;
@@ -61,7 +61,7 @@ cookingMethod: Baking
 - **Fiber**: 28.09g;
 - **Sugars**: 39.66g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 0.71g;
 - **Isoleucine**: 1.12g;
 - **Leucine**: 2.11g;
@@ -71,7 +71,7 @@ cookingMethod: Baking
 - **Threonine**: 0.97g;
 - **Tryptophan**: 0.33g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 96.8ug;
 - **Vitamin B1 (Thiamine)**: 0.43mg;
 - **Vitamin B2 (Riboflavin)**: 0.56mg;
@@ -86,7 +86,7 @@ cookingMethod: Baking
 - **Vitamin E (Tocopherol)**: 2.12mg;
 - **Vitamin K**: 1.72ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 195.61mg;
 - **Copper**: 0.42mg;
 - **Iron**: 3.06mg;
@@ -98,7 +98,7 @@ cookingMethod: Baking
 - **Sodium**: 341.75mg;
 - **Zinc**: 2.64mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.08g;
 - **Linoleic acid (LA Omega-6)**: 3.9g.
 

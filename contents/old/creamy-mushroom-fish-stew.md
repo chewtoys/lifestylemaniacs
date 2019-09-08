@@ -31,7 +31,7 @@ cookingMethod: Stewing
 **Cooking method**: Stewing;
 **Servings**: 8 X 500g.
 
-## Ingredients
+# Ingredients
 - 500g mushrooms (4RON);
 - 1000g wild caught freshwater fish (carp, trout, etc.) (24RON);
 - 500g cream cheese (8RON);
@@ -49,7 +49,7 @@ cookingMethod: Stewing
 - pepper by taste (1tbsp) (negligible price).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Peel and rinse the vegetables;
 2. (optionally) Roast the peppers and peel them;
 3. Cut the onions and garlic into small cubes and saute;
@@ -58,8 +58,8 @@ cookingMethod: Stewing
 6. Rinse the fish and cut it in small pieces and combine them with the previously cooked ingredients into a cooking pot and bring everything to a boil and let them cook for 15-30 minutes covered;
 7. Add the cream, cream cheese, herbs, and spices and let them cooked for more 15 minutes covered.
 
-## Nutrition facts
-### Energy & macronutrients
+# Nutrition facts
+## Energy & macronutrients
 - **Calories**: 551kcal;
 - **Protein**: 37g;
 - **Fat**: 33g;
@@ -68,7 +68,7 @@ cookingMethod: Stewing
 - **Fiber**: 4g;
 - **Sugars**: 14.5g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 0.77g;
 - **Isoleucine**: 1.26g;
 - **Leucine**: 2.32g;
@@ -78,7 +78,7 @@ cookingMethod: Stewing
 - **Threonine**: 1.13g;
 - **Tryptophan**: 0.31g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 277ug;
 - **Vitamin B1 (Thiamine)**: 0.26mg;
 - **Vitamin B2 (Riboflavin)**: 0.49mg;
@@ -93,7 +93,7 @@ cookingMethod: Stewing
 - **Vitamin E (Tocopherol)**: 1.89mg;
 - **Vitamin K**: 55.09ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 228mg;
 - **Copper**: 0.33mg;
 - **Iron**: 2.76mg;
@@ -105,7 +105,7 @@ cookingMethod: Stewing
 - **Sodium**: 758.72mg;
 - **Zinc**: 2.61mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.35g;
 - **Linoleic acid (LA Omega-6)**: 1.18g.
 

@@ -31,7 +31,7 @@ cookingMethod: Baking
 **Cooking method**: Baking;
 **Servings**: 4 X 850g.
 
-## Ingredients
+# Ingredients
 - 2kg cauliflower (5RON);
 - 8 eggs (8RON);
 - 500g mozzarella cheese (18Ron);
@@ -43,15 +43,15 @@ cookingMethod: Baking
 - salt by taste (1tsp) (negligible price).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Wash the cauliflower and shred it in the food processor;
 2. Shred the mozzarella cheese;
 3. Beat the eggs;
 4. Mix the cauliflower, eggs, cheese, and the rest of the ingredients;
 5. Spread the mixture into a baking pan and bake for 60 minutes at 180&deg;C (356&deg;F).
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 750kcal;
 - **Protein**: 59.37g;
 - **Fat**: 40.16g;
@@ -60,7 +60,7 @@ cookingMethod: Baking
 - **Fiber**: 17.29g;
 - **Sugars**: 16.02g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 1.29g;
 - **Isoleucine**: 2.26g;
 - **Leucine**: 3.56g;
@@ -70,7 +70,7 @@ cookingMethod: Baking
 - **Threonine**: 2.05g;
 - **Tryptophan**: 0.78g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 330.87ug;
 - **Vitamin B1 (Thiamine)**: 1.07mg;
 - **Vitamin B2 (Riboflavin)**: 1.59mg;
@@ -85,7 +85,7 @@ cookingMethod: Baking
 - **Vitamin E (Tocopherol)**: 2.09mg;
 - **Vitamin K**: 78.67ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 672.38mg;
 - **Copper**: 0.37mg;
 - **Iron**: 5.28mg;
@@ -97,7 +97,7 @@ cookingMethod: Baking
 - **Sodium**: 1689.33mg;
 - **Zinc**: 5.94mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.47g;
 - **Linoleic acid (LA Omega-6)**: 1.77g.
 

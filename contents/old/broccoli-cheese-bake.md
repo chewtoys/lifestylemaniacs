@@ -31,7 +31,7 @@ cookingMethod: Baking
 **Cooking method**: Baking;
 **Servings**: 6 X 643g.
 
-## Ingredients
+# Ingredients
 - 2500g broccoli florets (30RON);
 - 10 eggs (8RON);
 - 500g cottage cheese (8RON);
@@ -42,13 +42,13 @@ cookingMethod: Baking
 - pepper by taste (1tsp) (negligible price).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Mix everything homogeneously using a food processor;
 2. Line a baking pan with parchment paper and pour the composition;
 3. Preheat the oven at 180&deg;C (356&deg;F) and bake for 60 minutes.
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 615.92kcal;
 - **Protein**: 48.87g;
 - **Fat**: 35g;
@@ -57,7 +57,7 @@ cookingMethod: Baking
 - **Fiber**: 13.23g;
 - **Sugars**: 9.29g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 1.02g;
 - **Isoleucine**: 1.94g;
 - **Leucine**: 3.03g;
@@ -67,7 +67,7 @@ cookingMethod: Baking
 - **Threonine**: 1.38g;
 - **Tryptophan**: 0.45g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 424.46ug;
 - **Vitamin B1 (Thiamine)**: 0.24mg;
 - **Vitamin B2 (Riboflavin)**: 0.86mg;
@@ -82,7 +82,7 @@ cookingMethod: Baking
 - **Vitamin E (Tocopherol)**: 4.27mg;
 - **Vitamin K**: 245.61ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 684.66mg;
 - **Copper**: 0.24mg;
 - **Iron**: 3.88mg;
@@ -94,7 +94,7 @@ cookingMethod: Baking
 - **Sodium**: 1261.05mg;
 - **Zinc**: 4.34mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 0.56g;
 - **Linoleic acid (LA Omega-6)**: 1.27g.
 

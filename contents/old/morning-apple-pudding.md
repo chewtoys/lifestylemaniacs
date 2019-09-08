@@ -31,7 +31,7 @@ cookingMethod: Raw
 **Cooking method**: Raw;
 **Servings**: 4 X 728g.
 
-## Ingredients
+# Ingredients
 - 2000g apples (6 RON);
 - 300g organic hemp protein powder (22RON);
 - 6 eggs (5RON);
@@ -39,11 +39,11 @@ cookingMethod: Raw
 - 2 tsp ground cinnamon (1RON).
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Mix everything in the food processor or blender.
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 683.92kcal;
 - **Protein**: 52.62g;
 - **Fat**: 16.4g;
@@ -52,7 +52,7 @@ cookingMethod: Raw
 - **Fiber**: 29.08g;
 - **Sugars**: 61.12g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 2.3g;
 - **Isoleucine**: 2.59g;
 - **Leucine**: 4.23g;
@@ -62,7 +62,7 @@ cookingMethod: Raw
 - **Threonine**: 2.19g;
 - **Tryptophan**: 0.58g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 102.66ug;
 - **Vitamin B1 (Thiamine)**: 0.49mg;
 - **Vitamin B2 (Riboflavin)**: 0.49mg;
@@ -77,7 +77,7 @@ cookingMethod: Raw
 - **Vitamin E (Tocopherol)**: 1.98mg;
 - **Vitamin K**: 9.12ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 184.8mg;
 - **Copper**: 1.21mg;
 - **Iron**: 12.14mg;
@@ -89,7 +89,7 @@ cookingMethod: Raw
 - **Sodium**: 352.13mg;
 - **Zinc**: 9.71mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 5.31g;
 - **Linoleic acid (LA Omega-6)**: 20.91g.
 

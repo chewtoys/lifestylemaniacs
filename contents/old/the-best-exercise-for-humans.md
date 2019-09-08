@@ -21,19 +21,19 @@ Imagine this, **there are people who lost their legs, okay? Or are paralyzed. Th
 
 I hope this gave you a little momentum to start walking again every day. Let's have a look at the scientifically proven benefits of walking.
 
-## Lymphatic system movement
+# Lymphatic system movement
 
 The lymphatic system is the body's sewerage. The lymphatic system carries the lymph, which contains the majority of immune cells, but also waste products, cellular debris - toxins - , hence the nickname storage. The problem with the lymphatic system is, as Shawn Stevenson points out, the is static. The heart doesn't pump it throughout the body like your blood. **The only way of putting the lymph on the move is by movement**, which is exactly what walking does. Just 30 minutes of walking cleanse the lymphatic system and helps the body remove the waste. Cool right?
 
-## Blood sugar stabilization
+# Blood sugar stabilization
 
 High blood sugar is a major problem, especially in the long-term, because it leads to cardiovascular disease, diabetes, and weight gain - obesity. Walking after the meal, even for people suffering from diabetes, reduces blood sugar levels and keeps them stable for 24 hours (better than drugs).
 
-## Longevity
+# Longevity
 
 Many research studies have revealed the aging is a consequence of the shortening of telomeres. I am not going to go into deep scientific explanations. You can do the research on telomeres on your own. What is important is that regular long endurance exercise, like walking, prevents telomeres from shortening, thus, increase longevity.
 
-## Fat Burn
+# Fat Burn
 
 This is the most engaging part for you, I know it. When people hear exercise, they can only think about weight control or weight loss. Believe me, exercise is more to health than weight control. Fat burn is actually a side effect of healthy lifestyle. Nevertheless, walking, especially power walking (which I love the most), helps you burn more calories and fat storages. Some people suggest you may even burn fat around the waist, but I doubt it. The place where you store and burn fat from is not regulated by the type of exercise, but rather by your endocrine system (hormones). Still, low-intensity aerobic exercise, like walking, helps the body utilize more energy from fat stores, especially visceral fat.
 
@@ -41,7 +41,7 @@ The scientific explanation behind power walking and fat burning is when you walk
 
 I combine power walking (low-intensity exercise) with strength training (high-intensity interval training) which is even better, because I also develop lean muscle mass, bone density, and increase metabolism.
 
-## Energy and good mood
+# Energy and good mood
 
 Everybody confirms that exercise increases your energy, your self-esteem, and boosts your mood. I guarantee it from my own experience. Also walking in nature helps me relax and clear my mind. Hippocrates confirms it!
 
@@ -49,11 +49,11 @@ Everybody confirms that exercise increases your energy, your self-esteem, and bo
 Walking is the best medicine
 {% endblockquote %}
 
-## Conclusion
+# Conclusion
 
 Are you still here? Get out and take a walk! Oh, I am sorry, is it raining? Is it cold outside? Say that to the people without legs! As C.T. Fletcher says, "Go cry in your cornflakes, you sissy!".
 
-## References
+# References
 - [The Model Health Show](http://theshawnstevensonmodel.com/benefits-of-walking/)
 - [Lymphatic system](https://en.wikipedia.org/wiki/Lymphatic_system)
 - [What’s The Best Way To Cleanse The Lymphatic System?](http://thehealthcoach1.com/?p=187)

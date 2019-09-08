@@ -31,15 +31,15 @@ cookingMethod: Raw
 **Cooking method**: Raw;
 **Servings**: 1 X 640g.
 
-## Ingredients
+# Ingredients
 - 100g hemp protein powder (0RON);
 <!-- more -->
 
-## Instructions
+# Instructions
 1. Step 1;
 
-## Nutrition facts
-## Energy and macronutrients
+# Nutrition facts
+# Energy and macronutrients
 - **Calories**: 894.3kcal;
 - **Protein**: 57.24g;
 - **Fat**: 12.97g;
@@ -48,7 +48,7 @@ cookingMethod: Raw
 - **Fiber**: 51.25g;
 - **Sugars**: 80.19g.
 
-### Essential aminoacids
+## Essential aminoacids
 - **Histidine**: 3.02g;
 - **Isoleucine**: 2.84g;
 - **Leucine**: 4.69g;
@@ -58,7 +58,7 @@ cookingMethod: Raw
 - **Threonine**: 2.48g;
 - **Tryptophan**: 0.67g.
 
-### Essential vitamins
+## Essential vitamins
 - **Vitamin A**: 12.6ug;
 - **Vitamin B1 (Thiamine)**: 0.63mg;
 - **Vitamin B2 (Riboflavin)**: 0.38mg;
@@ -73,7 +73,7 @@ cookingMethod: Raw
 - **Vitamin E (Tocopherol)**: 1.59mg;
 - **Vitamin K**: 4.21ug.
 
-### Essential minerals
+## Essential minerals
 - **Calcium**: 172.3mg;
 - **Copper**: 1.85mg;
 - **Iron**: 16.26mg;
@@ -85,7 +85,7 @@ cookingMethod: Raw
 - **Sodium**: 312.38mg;
 - **Zinc**: 11.91mg.
 
-### Essential fatty acids
+## Essential fatty acids
 - **alpha-Linolenic Acid (ALA Omega-3)**: 7.1g;
 - **Linoleic acid (LA Omega-6)**: 26.72g.
 

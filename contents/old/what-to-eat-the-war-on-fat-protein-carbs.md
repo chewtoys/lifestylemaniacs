@@ -17,7 +17,7 @@ For a century we have been bombarded with diets and ideas focusing on these thre
 
 The truth is, the approach is bad. **This scientific approach to dissect and decompose everything into small atomic parts is so unnatural.** No wonder the atom ("indivisible") is also divisible into small parts which are also divisible even further, which are also divisible and so on - infinity.
 
-## Quality is king
+# Quality is king
 Here's the deal: all the studies confirming that switching from a meat based diet to a plant-based diet makes people lose weight, get healthier, low risk of cancer, of cardiovascular disease, yadda yadda yadda, and, also, switching from a high-carb diet to a low-carb and high fat does the same thing, don't mention the ethnicity of the participants in the study and don't mention the food source.
 
 To understand my point, imagine this: if you have been eating your entire life processed meat or meat bought from the supermarket and then switch to a fresh and seasonal plant-based diet, do you become healthier? Of course, you do! Also, if you have been eating your entire life refined sugars, cookies, sweets, refined grain products (pasta, pizza, etc.) and then you switch to a grass-fed, free-range, pasture-raised animal products, do you become healthier? Of course, you do!
@@ -26,7 +26,7 @@ To understand my point, imagine this: if you have been eating your entire life p
 
 Also, if you live in the tropical climate and eat a plant-based diet or if you live in the arctic climate and eat an animal-based diet your health will also improve.
 
-## Nutrient synergy and symphony
+# Nutrient synergy and symphony
 We must rethink the way we look at food. We must look at the big picture. **Calcium, Magnesium, Zinc, Vitamin B, Vitamin K, Amino acids, etc. don't matter if they are isolated. The body doesn't understand what to do with them. Nutrients matter only when they are together. The relationship and ratios - synergy - between nutrients are what matters and the source**. 
 
 {% blockquote %}
@@ -37,7 +37,7 @@ There are 50 essential nutrients for the human body and we need them all togethe
 
 The context is all that matters. Also, your microbiota determines the ratios specific to you. As I described in a [previous article](https://www.razvantomegea.com/2017/12/02/you-are-your-microbiota/) you are your microbiota and your microbiota tells more about you than your genome. your microbiota is also in a continuous change, hence, your requirements change.
 
-## Listen to your gut
+# Listen to your gut
 My opinion (advice) is **listen to your gut**. Animals and our ancient ancestors never did what we have been taught to do in the last century. Imagine Pythagoras counting calories and grams of protein: "Hey, yo! Socrates! Check this high protein breakfast I am serving. It has only 300 calories and it is low carb and low fat!". It's just silly, isn't it?
 
 Stop and think for a second. Look at your environment. Look at your traditions. What is your ethnicity? What are you climate? What is your season? What time of the day is it? What is your lifestyle - active/inactive? Be flexible and adapt. Experiment!
@@ -54,7 +54,7 @@ A cold climate offers more meat.
 
 A temperate climate (like mine) offers both, according to seasons. 
 
-## Experiment and adapt
+# Experiment and adapt
 {% blockquote %}
 When life give you lemons, you make lemonade.
 {% endblockquote %}
