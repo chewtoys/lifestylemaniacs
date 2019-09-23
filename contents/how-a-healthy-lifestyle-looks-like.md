@@ -1,7 +1,7 @@
 ---
 author: Razvan Tomegea
 title: 'How A Healthy Lifestyle Looks Like'
-id: 'this-is-how-we-should-really-see-food'
+id: 'how-a-healthy-lifestyle-looks-like'
 createdOn: 'Sep 23, 2019'
 categories: Health
 image: 'https://www.lifestylemaniacs.com/assets/images/how-a-healthy-lifestyle-looks-like/_main.jpg'
