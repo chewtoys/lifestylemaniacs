@@ -1,6 +1,5 @@
 export default [
   'how-a-healthy-lifestyle-looks-like',
-  'this-is-how-we-should-really-see-food',
   'dont-attach-to-people-and-things',
   'this-is-how-we-should-really-see-food',
   'the-two-health-suckers-you-need-to-avoid-now',
