@@ -38,6 +38,7 @@
       <div class="social-content">
         <social-sharing
           :url="link"
+          :media="image"
           :title="article.title"
           :description="article.description"
           :quote="article.title"
