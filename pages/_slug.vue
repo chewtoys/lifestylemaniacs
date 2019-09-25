@@ -195,7 +195,7 @@ export default {
       },
       {
         property: 'og:image',
-        content: this.article.image
+        content: this.image
       },
       {
         property: 'og:url',
