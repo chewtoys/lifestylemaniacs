@@ -17,7 +17,7 @@
         <div class="cover">
           <v-img
             v-if="!article.noMainImage"
-            :src="image"
+            :src="article.image"
             class="my-5"
             width="100%"
             height="500px"
@@ -38,10 +38,10 @@
       <div class="social-content">
         <social-sharing
           :url="link"
-          :media="image"
-          :title="article.title"
+          :media="article.image"
+          :title="pageTitle"
           :description="article.description"
-          :quote="article.title"
+          :quote="pageTitle"
           :hashtags="article.categories.toLowerCase()"
           twitter-user="lifestylemaniacs"
           inline-template
@@ -154,9 +154,6 @@ export default {
     ...mapGetters({
       article: 'articles/article'
     }),
-    image() {
-      return this.article ? require(`~/assets/images/${this.article.id}/_main.jpg`) : '';
-    },
     link() {
       return `https://www.lifestylemanicas.com/${this.article.id}`;
     },
@@ -179,7 +176,7 @@ export default {
 
   head() {
     return {
-      title: this.article.title,
+      title: this.pageTitle,
       meta: [{
         name: 'author',
         content: this.article.author
@@ -192,11 +189,11 @@ export default {
       },
       {
         property: 'og:title',
-        content: this.article.title
+        content: this.pageTitle
       },
       {
         property: 'og:image',
-        content: this.image
+        content: this.article.image
       },
       {
         property: 'og:url',

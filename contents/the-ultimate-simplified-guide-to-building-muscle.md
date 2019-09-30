@@ -4,7 +4,7 @@ title: 'The Ultimate Simplified Guide to Building Muscle'
 id: 'the-ultimate-simplified-guide-to-building-muscle'
 createdOn: 'Aug 28, 2019'
 categories: Fitness
-image: 'https://www.lifestylemaniacs.com/assets/images/the-ultimate-simplified-guide-to-building-muscle/_main.jpg'
+image: 'images/the-ultimate-simplified-guide-to-building-muscle/_main.jpg'
 description: 'It is time to eliminate the fitness industry bullshit and get old-school. Muscle building is all about science.'
 imageCredit: 'Photo by John Fornander on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/TAZoUmDqzXk'

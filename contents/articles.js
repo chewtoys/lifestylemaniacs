@@ -1,4 +1,5 @@
 export default [
+  'achieve-anything-in-life-with-this-skill',
   'how-a-healthy-lifestyle-looks-like',
   'dont-attach-to-people-and-things',
   'this-is-how-we-should-really-see-food',

@@ -4,7 +4,7 @@ title: 'How A Healthy Lifestyle Looks Like'
 id: 'how-a-healthy-lifestyle-looks-like'
 createdOn: 'Sep 23, 2019'
 categories: Health
-image: 'https://www.lifestylemaniacs.com/assets/images/how-a-healthy-lifestyle-looks-like/_main.jpg'
+image: 'images/how-a-healthy-lifestyle-looks-like/_main.jpg'
 description: 'I genuinely believe we humans are out of touch with the food on our plates or hands as few still eat at home or a good restaurant.'
 imageCredit: 'Photo by Gwen Weustink on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/Uaxe77glMec'

@@ -2,7 +2,7 @@
   <v-card>
     <v-list-item>
       <v-list-item-avatar color="grey">
-        <v-img :src="require('~/assets/images/IMG_20190803_103831_483.jpg')" />
+        <v-img :src="require('~/static/images/IMG_20190803_103831_483.jpg')" />
       </v-list-item-avatar>
       <v-list-item-content>
         <v-list-item-title class="headline">
@@ -14,7 +14,7 @@
       </v-list-item-content>
     </v-list-item>
     <v-img
-      :src="require(`~/assets/images/${article.id}/_main.jpg`)"
+      :src="require(`~/static/images/${article.id}/_main.jpg`)"
       height="200px"
     />
     <v-card-text>
