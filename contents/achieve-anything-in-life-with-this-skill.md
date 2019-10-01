@@ -4,7 +4,6 @@ author: Razvan Tomegea
 title: 'Want To Achieve Anything In Life? Develop This Skill'
 createdOn: 'Sep 30, 2019'
 categories: Inspiration, Productivity
-image: 'images/achieve-anything-in-life-with-this-skill/_main.jpg'
 description: 'I genuinely believe we humans are out of touch with the food on our plates or hands as few still eat at home or a good restaurant.'
 imageCredit: 'Photo by Dan Gold on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/4_jhDO54BYg'

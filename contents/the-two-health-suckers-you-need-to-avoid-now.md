@@ -4,7 +4,6 @@ title: 'The Two Health Suckers You Need To Avoid Now'
 id: 'the-two-health-suckers-you-need-to-avoid-now'
 createdOn: 'Aug 31, 2019'
 categories: Health
-image: 'images/the-two-health-suckers-you-need-to-avoid-now/_main.jpg'
 description: 'Why sweeteners and plant seed oils harm our health?'
 imageCredit: 'Photo by Robina Weermeijer on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/NIuGLCC7q54'

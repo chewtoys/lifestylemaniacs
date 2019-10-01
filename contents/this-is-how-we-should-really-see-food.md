@@ -4,7 +4,6 @@ title: 'This Is How We Should Really See Food'
 id: 'this-is-how-we-should-really-see-food'
 createdOn: 'Sep 08, 2019'
 categories: Food
-image: 'images/this-is-how-we-should-really-see-food/_main.jpg'
 description: 'I genuinely believe we humans are out of touch with the food on our plates or hands as few still eat at home or a good restaurant.'
 imageCredit: 'Photo by Dan Gold on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/4_jhDO54BYg'
