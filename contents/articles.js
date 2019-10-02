@@ -1,4 +1,5 @@
 export default [
+  'just-because-its-right-for-others-doesnt-mean-its-right-for-you',
   'achieve-anything-in-life-with-this-skill',
   'how-a-healthy-lifestyle-looks-like',
   'dont-attach-to-people-and-things',
