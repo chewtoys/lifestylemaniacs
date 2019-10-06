@@ -1,4 +1,5 @@
 export default [
+  'lentil-chilli',
   'be-the-change',
   'just-because-its-right-for-others-doesnt-mean-its-right-for-you',
   'achieve-anything-in-life-with-this-skill',

@@ -26,6 +26,7 @@
             gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
           />
           <a
+            v-if="article.imageCredit && article.imageCreditUrl"
             :href="article.imageCreditUrl"
             class="caption text-center"
             target="_blank"
