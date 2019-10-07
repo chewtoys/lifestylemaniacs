@@ -19,6 +19,7 @@ description: 'Lentil chilli recipe'
 -   2 tsp parsley;
 -   1/2 tsp pepper;
 -   1 tsp salt;
+-   1-2 tsp chili;
 -   1tbsp of coconut oil or butter.
 
 # Instructions
