@@ -1,4 +1,5 @@
 export default [
+  'apple-cake-protein-bars',
   'lentil-chilli',
   'be-the-change',
   'just-because-its-right-for-others-doesnt-mean-its-right-for-you',
