@@ -59,11 +59,7 @@ export default {
   modules: [
     '@nuxtjs/vuetify',
     '@nuxtjs/eslint-module',
-    '@nuxtjs/style-resources',
-    ['@nuxtjs/google-analytics', {
-      id: 'UA-104134573'
-    }],
-    '@nuxtjs/sitemap'
+    '@nuxtjs/style-resources'
   ],
   /*
    ** Axios module configuration
@@ -138,13 +134,6 @@ export default {
   },
 
   generate: {
-    routes
-  },
-
-  sitemap: {
-    path: '/sitemap.xml',
-    hostname: 'https://lifestylemaniacs.com',
-    gzip: true,
     routes
   }
 };
