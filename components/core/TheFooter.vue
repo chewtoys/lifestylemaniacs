@@ -9,14 +9,13 @@
         <v-layout wrap>
           <v-flex
             class="px-10"
-            md6
           >
             <h3 class="my-5">
               Who are we?
             </h3>
             <p>We are a community dedicated to making an impact on peoples' lives through the power of habit and lifestyle. We right concise and practical articles about Health, Fitness, Food & Cooking, Style, Productivity, and Inspiration.</p>
           </v-flex>
-          <v-flex
+          <!-- <v-flex
             class="px-10"
             md6
           >
@@ -39,7 +38,7 @@
                 @input="$v.email.$touch()"
               />
             </form>
-          </v-flex>
+          </v-flex> -->
         </v-layout>
       </v-card-text>
       <v-divider dark />

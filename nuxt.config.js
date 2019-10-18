@@ -50,8 +50,8 @@ export default {
     '~/plugins/lazyload',
     '~/plugins/vue-markdown',
     { src: '~/plugins/vuetify.js', ssr: false },
-    '~/plugins/vuelidate.js',
-    { src: '~/plugins/vue-social-sharing.js', mode: 'client' }
+    '~/plugins/vuelidate.js'
+    // { src: '~/plugins/vue-social-sharing.js', mode: 'client' }
   ],
   /*
    ** Nuxt.js modules

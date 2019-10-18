@@ -36,7 +36,7 @@
       <div class="markdown">
         <vue-markdown>{{ article.markdown }}</vue-markdown>
       </div>
-      <div class="social-content">
+      <!-- <div class="social-content">
         <social-sharing
           :url="link"
           :media="imageSrc"
@@ -120,7 +120,7 @@
             </network>
           </div>
         </social-sharing>
-        <!-- <v-btn
+        <v-btn
           class="mx-4"
           icon
           @click="onCopyToClipboard"
@@ -128,7 +128,7 @@
           <v-icon size="24px">
             fas fa-link
           </v-icon>
-        </v-btn> -->
+        </v-btn>
       </div>
       <div class="comments">
         <div id="commento" />
@@ -138,7 +138,7 @@
           async
           src="https://cdn.commento.io/js/commento.js"
         />
-      </div>
+      </div> -->
     </div>
   </v-container>
 </template>
@@ -231,35 +231,35 @@ export default {
 
   transition: {
     name: 'slide-fade'
-  },
-
-  methods: {
-    onCopyToClipboard: async function ($event) {
-      try {
-        // 1) Copy text
-        navigator.clipboard.writeText(this.link).then();
-
-        // 2) Catch errors
-      } catch (err) {
-        // 1) Add the text to the DOM (usually achieved with a hidden input field)
-        const input = document.createElement('input');
-        document.body.appendChild(input);
-        input.value = this.link;
-
-        // 2) Select the text
-        input.focus();
-        input.select();
-
-        // 3) Copy text to clipboard
-        const isSuccessful = document.execCommand('copy');
-
-        // 4) Catch errors
-        if (!isSuccessful) {
-          console.error('Failed to copy text.');
-        }
-      }
-    }
   }
+
+  // methods: {
+  //   onCopyToClipboard: async function ($event) {
+  //     try {
+  //       // 1) Copy text
+  //       navigator.clipboard.writeText(this.link).then();
+
+  //       // 2) Catch errors
+  //     } catch (err) {
+  //       // 1) Add the text to the DOM (usually achieved with a hidden input field)
+  //       const input = document.createElement('input');
+  //       document.body.appendChild(input);
+  //       input.value = this.link;
+
+  //       // 2) Select the text
+  //       input.focus();
+  //       input.select();
+
+  //       // 3) Copy text to clipboard
+  //       const isSuccessful = document.execCommand('copy');
+
+  //       // 4) Catch errors
+  //       if (!isSuccessful) {
+  //         console.error('Failed to copy text.');
+  //       }
+  //     }
+  //   }
+  // }
 }
 </script>
 
