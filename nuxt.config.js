@@ -51,7 +51,6 @@ export default {
     '~/plugins/vue-markdown',
     { src: '~/plugins/vuetify.js', ssr: false },
     '~/plugins/vuelidate.js'
-    // { src: '~/plugins/vue-social-sharing.js', mode: 'client' }
   ],
   /*
    ** Nuxt.js modules
