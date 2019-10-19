@@ -9,6 +9,7 @@
     "build": "npm run lint && nuxt build",
     "build:gh-pages": "cross-env DEPLOY_ENV=GH_PAGES nuxt build",
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
+    "deploy:firebase": "npm run build && npm run generate && firebase deploy",
     "dev": "cross-env NODE_ENV=dev nuxt",
     "dev-debug": "node --inspect node_modules/.bin/nuxt",
     "generate": "nuxt generate",

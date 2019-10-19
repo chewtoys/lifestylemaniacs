@@ -33,10 +33,6 @@ export default {
         hid: 'description',
         name: 'description',
         content: 'Lifestyle Blog'
-      },
-      {
-        name: 'p:domain_verify',
-        content: '96b8e135746ecec717f0ca7041717864'
       }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
