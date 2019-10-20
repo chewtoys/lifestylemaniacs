@@ -12,21 +12,25 @@
         <feed-card :article="article" @read="onReadArticle(article)" />
       </v-flex>
     </v-layout>
-    <v-layout v-if="paginatedArticles.length" wrap align-center>
-      <v-flex xs3>
-        <feed-page-btn v-if="page !== 1" class="ml-0" title="Previous page" square @click="page--">
-          <v-icon>mdi-chevron-left</v-icon>
-        </feed-page-btn>
+    <v-layout v-if="paginatedArticles.length" class="py-10" justify-center align-center>
+      <v-flex>
+        <v-layout justify-start align-center>
+          <feed-page-btn v-if="page !== 1" class="ml-0" title="Previous page" @click="page--">
+            <v-icon>mdi-chevron-left</v-icon>
+          </feed-page-btn>
+        </v-layout>
       </v-flex>
 
-      <v-flex v-if="pages" xs6 text-center subheading>
+      <v-flex v-if="pages" text-center subheading>
         PAGE {{ page }} OF {{ pages }}
       </v-flex>
 
-      <v-flex xs3 text-xs-right>
-        <feed-page-btn v-if="pages > 1 && page < pages" class="mr-0" title="Next page" square @click="page++">
-          <v-icon>mdi-chevron-right</v-icon>
-        </feed-page-btn>
+      <v-flex>
+        <v-layout justify-end align-center>
+          <feed-page-btn v-if="pages > 1 && page < pages" class="mr-0" title="Next page" @click="page++">
+            <v-icon>mdi-chevron-right</v-icon>
+          </feed-page-btn>
+        </v-layout>
       </v-flex>
     </v-layout>
     <v-layout v-if="!paginatedArticles.length" align-center class="fill-height" justify-center>
@@ -54,17 +58,16 @@ export default {
   },
 
   data: () => ({
-    layout: [2, 2, 1, 2, 2, 3, 3, 3, 3, 3, 3],
     page: 1
   }),
 
   computed: {
     pages() {
-      return Math.ceil(this.articles.length / 11);
+      return Math.ceil(this.articles.length / 9);
     },
     paginatedArticles() {
-      const start = (this.page - 1) * 11;
-      const stop = this.page * 11;
+      const start = (this.page - 1) * 9;
+      const stop = this.page * 9;
 
       return this.articles.slice(start, stop);
     }
@@ -91,7 +94,7 @@ export default {
 
 .fill-height {
   height: 100%;
-  min-height: 90vh;
+  min-height: 95vh;
 }
 
 @media screen and (max-width: 1299px) {
