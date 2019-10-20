@@ -1,4 +1,5 @@
 export default [
+  'read-this-before-going-to-the-gym',
   'creamy-carbonara-pasta',
   'apple-cake-protein-bars',
   'lentil-chilli',
