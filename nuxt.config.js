@@ -74,7 +74,8 @@ export default {
       warning: colors.orange.base,
       info: colors.yellow.base,
       success: colors.green.base
-    }
+    },
+    treeShake: true
   },
   /*
    ** Build configuration

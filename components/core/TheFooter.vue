@@ -81,19 +81,19 @@ export default {
   data: () => ({
     socialLinks: [
       {
-        icon: 'fab fa-medium',
+        icon: 'mdi-medium',
         url: 'https://medium.com/@RazvanTomegea'
       }, {
-        icon: 'fab fa-instagram',
+        icon: 'mdi-instagram',
         url: 'https://instagram.com/lifestylemaniacs'
       }, {
-        icon: 'fab fa-patreon',
+        icon: 'mdi-patreon',
         url: 'https://patreon.com/razvantomegea'
       }, {
-        icon: 'fab fa-pinterest',
+        icon: 'mdi-pinterest',
         url: 'https://pinterest.com/lifestylemaniacs'
       }, {
-        icon: 'fab fa-facebook',
+        icon: 'mdi-facebook',
         url: 'https://facebook.com/lifestylemaniacs'
       }
     ],

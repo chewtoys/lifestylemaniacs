@@ -1,5 +1,3 @@
-import '@fortawesome/fontawesome-free/css/all.css';
-
 import Vue from 'vue';
 import Vuetify, {
   VApp,
@@ -49,7 +47,7 @@ Vue.use(Vuetify, {
     VSpacer,
     VCardActions
   },
-  iconfont: 'fa'
+  iconfont: 'mdi'
 });
 
 const opts = {};
