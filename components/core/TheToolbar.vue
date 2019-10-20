@@ -10,19 +10,13 @@
       class="hidden-md-and-up"
       @click="toggleDrawer"
     />
-    <n-link
-      :to="'/'"
-      exact
-    >
-      <v-img
-        :src="require('~/assets/logo.png')"
-        class="mr-5"
-        contain
-        height="48"
-        width="48"
-        max-width="48"
-      />
-    </n-link>
+
+    <v-toolbar-title>
+      <n-link to="/" prefetch>
+        LM
+      </n-link>
+    </v-toolbar-title>
+
     <v-spacer />
     <v-btn
       v-for="(link, i) in links"
@@ -82,4 +76,8 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.v-application a {
+    color: white;
+    text-decoration: none;
+}
 </style>
