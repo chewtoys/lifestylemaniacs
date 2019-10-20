@@ -11,11 +11,9 @@
       @click="toggleDrawer"
     />
 
-    <v-toolbar-title>
-      <n-link to="/" prefetch>
-        LM
-      </n-link>
-    </v-toolbar-title>
+    <n-link to="/" prefetch>
+      <v-toolbar-title>LM</v-toolbar-title>
+    </n-link>
 
     <v-spacer />
     <v-btn
@@ -79,5 +77,9 @@ export default {
 .v-application a {
     color: white;
     text-decoration: none;
+}
+
+.v-toolbar__title {
+  padding: 0 24px 0 12px;
 }
 </style>
