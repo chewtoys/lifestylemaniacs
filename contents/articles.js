@@ -1,4 +1,5 @@
 export default [
+  'peanut-butter-chocolate-cheesecake',
   'nutrition-101-overview',
   'read-this-before-going-to-the-gym',
   'creamy-carbonara-pasta',
