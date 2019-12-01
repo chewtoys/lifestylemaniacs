@@ -1,4 +1,5 @@
 export default [
+  'anti-relationship-trait',
   'why-you-should-be-a-good-person',
   'peanut-butter-chocolate-cheesecake',
   'read-this-before-going-to-the-gym',
