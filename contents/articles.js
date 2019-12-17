@@ -1,4 +1,5 @@
 export default [
+  'read-this-before-going-vegan',
   'dont-be-a-nice-guy',
   'anti-relationship-trait',
   'why-you-should-be-a-good-person',

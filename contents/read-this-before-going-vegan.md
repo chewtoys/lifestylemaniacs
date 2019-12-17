@@ -3,7 +3,7 @@ id: 'read-this-before-going-vegan'
 author: Razvan Tomegea
 title: 'Read This Before Going Vegan'
 createdOn: 'Dec 17, 2019'
-categories: 'Health, Fitness'
+categories: Health, Fitness
 description: "You saw the latest vegan documentary among the other bunch of documentaries and have decided to incorporate si diet into your lifestyle. Now hold your horses for a few moments, and let's think if this is the best idea for you, and I emphasize for you."
 imageCredit: 'Photo by Anna Pelzer on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/IGfIGP5ONV0'
