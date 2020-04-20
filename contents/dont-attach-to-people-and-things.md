@@ -3,7 +3,7 @@ author: Razvan Tomegea
 title: "Don't Attach To People And Things"
 id: 'dont-attach-to-people-and-things'
 createdOn: 'Sep 15, 2019'
-categories: Inspiration
+categories: Self-development
 description: "Our existence on this planet is finite. The earth itself and its resources are limited. Everything is finite, maybe even the Universe; who knows? Everything has its purpose, although we may know it or not. It is why I truly believe that death is established ever since we are born - destiny. Trying to fight or change one's fate would be a mistake. The wisest choice is to accept it and embrace it."
 imageCredit: 'Photo by Soragrit Wongsa on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/aV5xrpB0bwQ'

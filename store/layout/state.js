@@ -13,17 +13,9 @@ export default () => ({
     icon: 'mdi-nutrition',
     title: 'Food'
   }, {
-    url: '/categories/style',
-    icon: 'mdi-bow-tie',
-    title: 'Style'
-  }, {
-    url: '/categories/productivity',
-    icon: 'mdi-format-list-checks',
-    title: 'Productivity'
-  }, {
-    url: '/categories/inspiration',
+    url: '/categories/self-development',
     icon: 'mdi-lightbulb',
-    title: 'Inspiration'
+    title: 'Self-development'
   }],
   pageTitle: 'Lifestyle Maniacs'
 });

@@ -29,12 +29,12 @@
     <v-text-field
       v-model="searchQuery"
       prepend-inner-icon="mdi-magnify"
+      class="search-bar"
       clearable
       color="primary"
       flat
       hide-details
       solo-inverted
-      style="max-width: 300px;"
     />
   </v-app-bar>
 </template>
@@ -81,5 +81,10 @@ export default {
 
 .v-toolbar__title {
   padding: 0 24px 0 12px;
+}
+
+.search-bar {
+  margin: 0 0 0 16px;
+  max-width: 316px;
 }
 </style>

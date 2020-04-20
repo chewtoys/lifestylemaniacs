@@ -3,7 +3,7 @@ id: 'be-the-change'
 author: Razvan Tomegea
 title: 'Want To Make The World A Better Place? Be The Change!'
 createdOn: 'Oct 04, 2019'
-categories: Inspiration
+categories: Self-development
 description: "People don't like being told what to do, especially with the wrong tone. It is in our human nature that we chase some validation. However, when someone gives a piece of advice, we, most of the time, get offensive."
 imageCredit: 'Photo by Andre Mouton on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/GBEHjsPQbEQ'

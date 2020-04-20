@@ -3,7 +3,7 @@ author: Razvan Tomegea
 title: 'The Morning Routines To Success'
 id: 'the-morning-routines-to-success'
 createdOn: 'Aug 18, 2019'
-categories: Productivity
+categories: Self-development
 description: 'Morning is the most important part of the day. It sets our momentum for the rest of the day, so how we manage is crucial. We can set ourselves off either for success, either for failure.'
 imageCredit: 'Photo by Madison Nickel on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/_8IxiAYWoGE'
