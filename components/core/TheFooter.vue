@@ -13,7 +13,7 @@
             <h3 class="my-5">
               Who are we?
             </h3>
-            <p>We are a community dedicated to making an impact on peoples' lives through the power of habit and lifestyle. We right concise and practical articles about Health, Fitness, Food & Cooking, and Self-development.</p>
+            <p>I right Health, Fitness, Food & Cooking, and Self-development articles inspired from my personal life with the purpose of helping people improve their lives.</p>
           </v-flex>
           <!-- <v-flex
             class="px-10"
