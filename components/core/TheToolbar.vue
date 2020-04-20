@@ -84,7 +84,7 @@ export default {
 }
 
 .search-bar {
-  margin: 0 0 0 16px;
+  margin: 0 0 0 16px !important;
   max-width: 316px;
 }
 </style>
