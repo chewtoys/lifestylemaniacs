@@ -10,7 +10,7 @@ const routes = [
   'categories/food',
   'categories/style',
   'categories/productivity',
-  'categories/Self-development'
+  'categories/self-development'
 ];
 
 export default {

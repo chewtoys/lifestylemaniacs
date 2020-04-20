@@ -3,7 +3,7 @@ id: 'why-you-should-be-a-good-person'
 author: Razvan Tomegea
 title: 'Life Conclusion: Why You Should Be A Good Person?'
 createdOn: 'Nov 24, 2019'
-categories: Self-development
+categories: 'Self-development'
 description: "I think everybody can agree that the world has gone wrong. The primary reason is that people have become too self-centered and mean to each other. Few people do something for others out of self-interest."
 imageCredit: 'Photo by v2osk on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/In4XVKhYaiI'

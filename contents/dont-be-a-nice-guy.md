@@ -3,7 +3,7 @@ id: 'dont-be-a-nice-guy'
 author: Razvan Tomegea
 title: "Don't Be A Nice Guy"
 createdOn: 'Dec 9, 2019'
-categories: Self-development
+categories: 'Self-development'
 description: 'My grandmother had a spinal cord tumor in the lumbar area 8 years ago. My family thought the cause was hard work, but I disagree. Besides hard work and pour nutrition, my grandmother has always been a "nice guy."'
 imageCredit: 'Photo by Berkay Gumustekin on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/ngqyo2AYYnE'

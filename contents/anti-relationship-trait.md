@@ -3,7 +3,7 @@ id: 'anti-relationship-trait'
 author: Razvan Tomegea
 title: 'The Anti-relationship Trait Everybody Should Fix'
 createdOn: 'Dec 1, 2019'
-categories: Self-development
+categories: 'Self-development'
 description: 'Is it just me or it has become so complicated to have a relationship nowadays? I see so many people getting married and getting divorced in less than ten years.'
 imageCredit: 'Photo by Sharon McCutcheon on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/wx3JOq0Xbh4'

@@ -3,7 +3,7 @@ author: Razvan Tomegea
 title: "Just Because It's Right For Others Doesn't Mean It's Right For You"
 id: 'just-because-its-right-for-others-doesnt-mean-its-right-for-you'
 createdOn: 'Oct 2, 2019'
-categories: Self-development
+categories: 'Self-development'
 description: "I have always had disgust for dogmas. You are forced to do things mechanically without reasoning why. Today, the most famous doctrines developed in religion, health, and fitness. We will focus on the latter two for this article."
 imageCredit: 'Photo by Randy Fath on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/G1yhU1Ej-9A'
