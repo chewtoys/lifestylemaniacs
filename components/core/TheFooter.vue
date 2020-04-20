@@ -139,3 +139,9 @@ export default {
   }
 }
 </script>
+
+<style scoped lang="scss">
+.v-footer .v-card {
+  width: 100%;
+}
+</style>
