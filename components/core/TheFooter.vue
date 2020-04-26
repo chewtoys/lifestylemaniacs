@@ -11,7 +11,7 @@
             class="px-10"
           >
             <h3 class="my-5">
-              Who are we?
+              Who am I?
             </h3>
             <p>I right Health, Fitness, Food & Cooking, and Self-development articles inspired from my personal life with the purpose of helping people improve their lives.</p>
           </v-flex>
@@ -57,7 +57,7 @@
         </v-btn>
       </v-card-text>
       <v-card-text class="primary darken-2 white--text">
-        &copy; {{ new Date().getFullYear() }} Lifestyle Maniacs. All rights reserved. Web app designed and coded by Razvan Tomegea using Nuxt.js.
+        &copy; 2019-{{ new Date().getFullYear() }} Lifestyle Maniacs. All rights reserved. Web app designed and coded by Razvan Tomegea using Nuxt.js.
         <v-btn
           absolute
           fab
@@ -85,7 +85,7 @@ export default {
         url: 'https://medium.com/@RazvanTomegea'
       }, {
         icon: 'mdi-instagram',
-        url: 'https://instagram.com/lifestylemaniacs'
+        url: 'https://instagram.com/razvantomegea'
       }, {
         icon: 'mdi-patreon',
         url: 'https://patreon.com/razvantomegea'

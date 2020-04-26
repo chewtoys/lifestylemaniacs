@@ -1,4 +1,5 @@
 export default [
+  'what-the-coronavirus-pandemic-taught-me',
   'read-this-before-going-vegan',
   'dont-be-a-nice-guy',
   'anti-relationship-trait',
