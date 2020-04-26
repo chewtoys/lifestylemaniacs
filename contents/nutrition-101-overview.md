@@ -3,7 +3,7 @@ author: Razvan Tomegea
 title: 'Nutrition 101: Overview'
 id: 'nutrition-101-overview'
 createdOn: 'Oct 26, 2019'
-categories: Health, Fitness
+categories: 'Health, Fitness'
 description: "What is nutrition? Nutrition is a science. **Nutrition is the science of how food components (nutrients) transform and interact within our bodies**. Thus, our focus is on what those food components nutrients are and what they do."
 imageCredit: 'Photo by Vitalii Pavlyshynets on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/kcRFW-Hje8Y'

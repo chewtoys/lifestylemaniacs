@@ -15,7 +15,7 @@
     <v-layout v-if="paginatedArticles.length" class="py-10" justify-center align-center>
       <v-flex>
         <v-layout justify-start align-center>
-          <feed-page-btn v-if="page !== 1" class="ml-0" title="Previous page" @click="page--">
+          <feed-page-btn v-if="page !== 1" class="ml-0" title="Previous page" @click="onPreviousPage()">
             <v-icon>mdi-chevron-left</v-icon>
           </feed-page-btn>
         </v-layout>
@@ -27,7 +27,7 @@
 
       <v-flex>
         <v-layout justify-end align-center>
-          <feed-page-btn v-if="pages > 1 && page < pages" class="mr-0" title="Next page" @click="page++">
+          <feed-page-btn v-if="pages > 1 && page < pages" class="mr-0" title="Next page" @click="onNextPage()">
             <v-icon>mdi-chevron-right</v-icon>
           </feed-page-btn>
         </v-layout>
@@ -50,6 +50,7 @@ export default {
     FeedCard: () => import('./FeedCard'),
     FeedPageBtn: () => import('./FeedPageBtn')
   },
+
   props: {
     articles: {
       type: Array,
@@ -57,17 +58,17 @@ export default {
     }
   },
 
-  data: () => ({
-    page: 1
-  }),
-
   computed: {
+    page() {
+      return parseInt(this.$route.params.id, 10) || 1;
+    },
     pages() {
       return Math.ceil(this.articles.length / 9);
     },
     paginatedArticles() {
-      const start = (this.page - 1) * 9;
-      const stop = this.page * 9;
+      const pageNr = parseInt(this.page, 10) || 1;
+      const start = (pageNr - 1) * 9;
+      const stop = pageNr * 9;
 
       return this.articles.slice(start, stop);
     }
@@ -79,7 +80,20 @@ export default {
     }
   },
 
+  async fetch({ store, params }) {
+    await store.dispatch('articles/getArticles', params.category);
+    await store.dispatch('layout/setPageTitle', params.category ? params.category.toUpperCase() : 'LIFESTYLE MANIACS');
+  },
+
   methods: {
+    onNextPage() {
+      const path = this.$route.path.includes('categories') ? `/categories/${this.$route.params.category}/page/${this.page + 1}` : `/page/${this.page + 1}`;
+      this.$router.replace(path);
+    },
+    onPreviousPage() {
+      const path = this.$route.path.includes('categories') ? `/categories/${this.$route.params.category}/page/${this.page - 1}` : `/page/${this.page - 1}`;
+      this.$router.replace(path);
+    },
     onReadArticle(article) {
       this.$router.push(`/${article.id}`);
     }

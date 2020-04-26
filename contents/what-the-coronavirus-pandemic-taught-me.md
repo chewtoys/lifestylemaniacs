@@ -3,7 +3,7 @@ id: 'what-the-coronavirus-pandemic-taught-me'
 author: Razvan Tomegea
 title: 'What The Coronavirus Pandemic Taught Me'
 createdOn: 'Apr 26, 2020'
-categories: Self-development, Health
+categories: 'Self-development, Health'
 description: "There is no questioning that this year (2020) is a challenging year for humanity. We are with no doubt at war from all points of view."
 imageCredit: 'Photo by Li Lin on Unsplash'
 imageCreditUrl: 'https://unsplash.com/photos/m63X_rwrtvA'

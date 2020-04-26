@@ -5,7 +5,7 @@ const actions = {
     const articleNames = await import('~/contents/articles.js');
     const articles = await Promise.all(
       articleNames.default.map(async (articleName) => {
-        const wholeMD = await import(`~/contents/${articleName}.md`);
+        const wholeMD = await import(`~/contents/${articleName.name}.md`);
 
         return wholeMD.default;
       })

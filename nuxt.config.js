@@ -2,15 +2,41 @@ import path from 'path';
 import colors from 'vuetify/es5/util/colors';
 import articles from './contents/articles.js';
 
+const healthArticles = articles.filter(a => a.categories.includes('health'));
+const healthPages = ['categories/health'];
+
+for (let i = 1; i <= Math.ceil(healthArticles.length / 9); ++i) {
+  healthPages.push(`categories/health/page/${i}`);
+}
+
+const fitnessArticles = articles.filter(a => a.categories.includes('fitness'));
+const fitnessPages = ['categories/fitness'];
+
+for (let i = 1; i <= Math.ceil(fitnessArticles.length / 9); ++i) {
+  fitnessPages.push(`categories/fitness/page/${i}`);
+}
+
+const foodArticles = articles.filter(a => a.categories.includes('food'));
+const foodPages = ['categories/food'];
+
+for (let i = 1; i <= Math.ceil(foodArticles.length / 9); ++i) {
+  foodPages.push(`categories/food/page/${i}`);
+}
+
+const selfDevelopmentArticles = articles.filter(a => a.categories.includes('self-development'));
+const selfDevelopmentPages = ['categories/self-development'];
+
+for (let i = 1; i <= Math.ceil(selfDevelopmentArticles.length / 9); ++i) {
+  selfDevelopmentPages.push(`categories/self-development/page/${i}`);
+}
+
 const routes = [
   '404',
-  ...articles.map(a => `/${a}`),
-  'categories/health',
-  'categories/fitness',
-  'categories/food',
-  'categories/style',
-  'categories/productivity',
-  'categories/self-development'
+  ...articles.map(a => `/${a.name}`),
+  ...healthPages,
+  ...fitnessPages,
+  ...foodPages,
+  ...selfDevelopmentPages
 ];
 
 export default {
