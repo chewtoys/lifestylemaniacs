@@ -1,5 +1,5 @@
 <template>
-  <v-card>
+  <v-card @click.native="onReadMore">
     <v-list-item>
       <v-list-item-avatar color="grey">
         <v-img :src="require('~/static/images/IMG_20190803_103831_483.jpg')" />
