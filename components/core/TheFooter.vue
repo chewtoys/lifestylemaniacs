@@ -90,6 +90,9 @@ export default {
         icon: 'mdi-patreon',
         url: 'https://patreon.com/razvantomegea'
       }, {
+        icon: 'mdi-coffee',
+        url: 'https://ko-fi.com/razvantomegea'
+      }, {
         icon: 'mdi-pinterest',
         url: 'https://pinterest.com/lifestylemaniacs'
       }, {
